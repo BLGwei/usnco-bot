@@ -5,7 +5,7 @@ by allowing users to review USNCO questions in a competitive and Science Bowl-st
 It currently contains a database of `2000+` questions obtained through a Python script.
 
 > [!NOTE]
-> This bot is still in development and potentially contains bugs!
+> This bot is still in development and potentially contains bugs! the `/question` command might be changed to avoid conflict with other bots' commands.
 
 ## HOW IT WORKS
 Upon calling the `/question` command, the USNCO discord bot sends out a discord embed which contains a random USNCO question in the following format:
@@ -41,4 +41,8 @@ be able to interact with the embed as the buttons will be disabled.
 + Upon interaction, the **Answer Choice Buttons** will change color. The button corresponding to the correct answer choice will be green. If a wrong answer choice was selected, it's corresponding
 button's color will be changed to red. All other answer choice buttons will remain grey.
 + Upon interaction, the **Report** button will prompt the user with a short-response form. Upon detailing an error/complaint and submitting, the response will be logged into a CSV file for manual review.
+
+# FEATURES TO BE IMPLEMENTED
+- [ ] `/help` command which should send an embed containing the information above, but more brief and concise.
+- [ ] paramaters to the `/question` command (*eg. Stoich, Thermo, OChem*) to allow for practicing of certain topics,
 
