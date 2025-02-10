@@ -1,0 +1,743 @@
+[
+    {
+        "number": "1",
+        "text": "What is the mole fraction of acetic acid (CH3COOH, M = 60.05) in an aqueous solution that is 11.7% by mass acetic acid?",
+        "options": {
+            "A": "0.00195",
+            "B": "0.0382",
+            "C": "0.0398",
+            "D": "0.195"
+        },
+        "correct_answer": "B",
+        "question_id": "220241",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220241.png"
+    },
+    {
+        "number": "2",
+        "text": "Hydrogen peroxide (M = 34.02) decomposes to give water and oxygen gas. How much 3.00% by mass aqueous H2O2 must decompose to afford 4.00 L of dry O2 at STP?",
+        "options": {
+            "A": "6.08 g",
+            "B": "101 g",
+            "C": "203 g",
+            "D": "405 g"
+        },
+        "correct_answer": "D",
+        "question_id": "220242",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220242.png"
+    },
+    {
+        "number": "3",
+        "text": "A diamagnetic compound that contains only carbon, hydrogen, nitrogen, and oxygen is 19.99% C, 3.35% H, and 23.31% N by mass. Which is its molecular formula?",
+        "options": {
+            "A": "CH2N2O",
+            "B": "CH2NO2",
+            "C": "C2H3NO",
+            "D": "C2H4N2O4"
+        },
+        "correct_answer": "D",
+        "question_id": "220243",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220243.png"
+    },
+    {
+        "number": "4",
+        "text": "What is the chloride ion concentration in a solution prepared by mixing 35.0 mL of 0.35 M sodium chloride and 65.0 mL of 0.65 M calcium chloride?",
+        "options": {
+            "A": "0.50 M",
+            "B": "0.54 M",
+            "C": "0.85 M",
+            "D": "0.97 M"
+        },
+        "correct_answer": "D",
+        "question_id": "220244",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220244.png"
+    },
+    {
+        "number": "5",
+        "text": "17.0 g Ba(NO3)2 (M = 261.32) is mixed with 11.5 g of an alkali metal sulfate and the precipitated BaSO4 (M = 233.37) is collected by filtration, placed in a tared crucible, and the crucible heated to drive off water. The mass of BaSO4 obtained is 15.4 g. Which conclusion is best supported by the data?",
+        "options": {
+            "A": "The sulfate salt used was Na2SO4 (M = 142.05).",
+            "B": "The sulfate salt used was K2SO4 (M = 174.27).",
+            "C": "The BaSO4 was not heated long enough to drive off all the water.",
+            "D": "Some of the BaSO4 was spilled before it was transferred to the crucible.\nIONS the corresponding space on the answer sheet using a soft, #2 ide to change an answer, erase the unwanted mark very carefully. s for which more than one response has been blackened will not er correctly. It is to your advantage to answer every question."
+        },
+        "correct_answer": "C",
+        "question_id": "220245",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220245.png"
+    },
+    {
+        "number": "6",
+        "text": "10.0 mL of 0.50 M potassium sulfate and 10.0 mL of 0.50 M silver nitrate solutions are mixed and the mixture is allowed to attain equilibrium. Which ordering of the concentrations of the ions in solution is correct?",
+        "options": {
+            "A": "[K+] = [NO3\u2013] > [Ag+] > [SO42-]",
+            "B": "[K+] = [NO3\u2013] > [SO42-] > [Ag+]",
+            "C": "[K+] > [NO3\u2013] > [Ag+] > [SO42-]",
+            "D": "[K+] > [NO3\u2013] > [SO42-] > [Ag+]"
+        },
+        "correct_answer": "D",
+        "question_id": "220246",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220246.png"
+    },
+    {
+        "number": "7",
+        "text": "A neutral organic compound is to be separated from a basic impurity by washing a solution of the compound in hexane with 5% aqueous HCl. Which apparatus is best suited to this operation?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "question_id": "220247",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220247.png"
+    },
+    {
+        "number": "8",
+        "text": "Which substance may be treated with bleach (sodium hypochlorite) to render it less hazardous?",
+        "options": {
+            "A": "Sodium cyanide",
+            "B": "Ammonia",
+            "C": "Hydrochloric acid",
+            "D": "Ozone m after April 21, 2024"
+        },
+        "correct_answer": "A",
+        "question_id": "220248",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220248.png"
+    },
+    {
+        "number": "9",
+        "text": "Which indicator would be most suitable for a titration to determine the concentration of ammonia in a window cleaning solution using aqueous HCl?",
+        "options": {
+            "A": "Eriochrome Black T",
+            "B": "Ferroin",
+            "C": "Methyl orange",
+            "D": "Phenolphthalein"
+        },
+        "correct_answer": "C",
+        "question_id": "220249",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220249.png"
+    },
+    {
+        "number": "3",
+        "text": "1 mL of 6 M HCl is added to the test tube, which causes neither a color change nor formation of a precipitate. After subsequent addition of 1.5 mL aqueous NaOH and 0.5 mL of 3% aqueous H2O2 and brief heating in a hot water bath, there is a dark precipitate in the test tube. What may be determined about the cations initially present? Must be May be Must be present present absent",
+        "options": {
+            "A": "Ag+ Al3+ Mn2+",
+            "B": "Al3+ Mn2+ Ag+",
+            "C": "Al3+ Ag+ Mn2+",
+            "D": "Mn2+ Al3+ Ag+"
+        },
+        "correct_answer": "D",
+        "question_id": "220243",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220243.png"
+    },
+    {
+        "number": "11",
+        "text": "Ethane, C2H6, and diborane, B2H6, do not adopt analogous molecular structures. Which experimental technique would be least useful in establishing this fact?",
+        "options": {
+            "A": "Infrared spectroscopy",
+            "B": "Mass spectrometry",
+            "C": "Nuclear magnetic resonance spectroscopy",
+            "D": "X-ray crystallography"
+        },
+        "correct_answer": "B",
+        "question_id": "2202411",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202411.png"
+    },
+    {
+        "number": "12",
+        "text": "The concentration of a solution of potassium permanganate is determined by titrating it into an Erlenmeyer flask with solid ferrous ammonium sulfate hexahydrate (Fe(NH4)2(SO4)2 \u2022 6 H2O) dissolved in dilute sulfuric acid. Which error would result in a measured concentration of KMnO4 that is lower than the actual concentration?",
+        "options": {
+            "A": "The titration was begun before the ferrous ammonium sulfate had fully dissolved in the sulfuric acid.",
+            "B": "The sides of the Erlenmeyer flask were periodically rinsed down with deionized water during the titration.",
+            "C": "Some of the Fe(II) ions in the solid ferrous ammonium sulfate had been oxidized to Fe(III) on storage.",
+            "D": "The buret was rinsed with distilled water and then filled with KMnO4 solution while still wet."
+        },
+        "correct_answer": "D",
+        "question_id": "2202412",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202412.png"
+    },
+    {
+        "number": "13",
+        "text": "A sample of pentane (bp = 36 \u00b0C) is in a rigid closed container at 50 \u00b0C and 1 atm. Which best describes what happens when the container is heated?",
+        "options": {
+            "A": "Liquid pentane vaporizes.",
+            "B": "The intermolecular forces between pentane molecules become stronger.",
+            "C": "The average kinetic energy of the pentane molecules increases.",
+            "D": "The density of the sample decreases."
+        },
+        "correct_answer": "C",
+        "question_id": "2202413",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202413.png"
+    },
+    {
+        "number": "14",
+        "text": "Which compound has the highest normal boiling point?",
+        "options": {
+            "A": "",
+            "B": "OH OH",
+            "C": "OH",
+            "D": "OH"
+        },
+        "correct_answer": "A",
+        "question_id": "2202414",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202414.png"
+    },
+    {
+        "number": "15",
+        "text": "A mole of which gas has the smallest volume at 0 \u00b0C and 1 atm pressure?",
+        "options": {
+            "A": "He",
+            "B": "CO2",
+            "C": "SO2",
+            "D": "Xe"
+        },
+        "correct_answer": "C",
+        "question_id": "2202415",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202415.png"
+    },
+    {
+        "number": "16",
+        "text": "Two compounds, A and B, are both solids at 20 \u00b0C. In separate experiments, one mole of each is heated and its temperature measured as a function of the amount of heat added. Which statement about the compounds is correct?",
+        "options": {
+            "A": "The molar heat capacity of solid A is greater than that of solid B.",
+            "B": "The molar heat capacity of liquid A is greater than that of liquid B.",
+            "C": "The melting point of A is less than that of B.",
+            "D": "The heat of fusion of A is less than that of B."
+        },
+        "correct_answer": "D",
+        "question_id": "2202416",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202416.png"
+    },
+    {
+        "number": "17",
+        "text": "A sample of a pure substance is placed in a sealed, rigid container and the pressure is measured as a function of temperature. Which is the best explanation for the result shown?",
+        "options": {
+            "A": "At lower temperatures, the substance is a mixture of solid and vapor, while at 60 \u00b0C the solid melts to give a mixture of liquid and vapor.",
+            "B": "At lower temperatures, the substance is a mixture of liquid and vapor, while at 60 \u00b0C only liquid is present.",
+            "C": "At lower temperatures, the substance is a mixture of liquid and vapor, while at 60 \u00b0C only a supercritical fluid is present.",
+            "D": "At lower temperatures, the substance consists of vapor only, while at 60 \u00b0C only a supercritical fluid is present."
+        },
+        "correct_answer": "B",
+        "question_id": "2202417",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202417.png"
+    },
+    {
+        "number": "18",
+        "text": "Cesium chloride (M = 168.4) crystallizes in a primitive cubic unit cell with each cesium ion surrounded by eight chloride ions arranged in a cube. The density of solid CsCl is 3.988 g cm-(3). What is the Cs\u2013Cl distance?",
+        "options": {
+            "A": "206.2 pm",
+            "B": "291.6 pm",
+            "C": "357.1 pm",
+            "D": "412.4 pm"
+        },
+        "correct_answer": "C",
+        "question_id": "2202418",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202418.png"
+    },
+    {
+        "number": "19",
+        "text": "Steam turbines convert heat energy into mechanical work. Which statement best describes the efficiency of this process?",
+        "options": {
+            "A": "100%, because energy is conserved",
+            "B": "Less than 100%, because the steam decreases in temperature",
+            "C": "Greater than 100%, because the turbine increases in kinetic energy",
+            "D": "Can be greater than, less than, or equal to 100% depending on the design of the turbine."
+        },
+        "correct_answer": "B",
+        "question_id": "2202419",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202419.png"
+    },
+    {
+        "number": "20",
+        "text": "At what temperatures is the decomposition of tungstic acid, H2WO4(s), to tungsten trioxide and water vapor spontaneous under standard conditions? H2WO4(s) \u00ae WO3(s) + H2O(g) Compound \u2206H\u00b0f, kJ mol-1 S\u00b0, J mol-1 K-1 H2WO4(s) \u20131130 140 WO3(s) \u2013840 80 H2O(g) \u2013240 190",
+        "options": {
+            "A": "T > 385 K",
+            "B": "T < 385 K",
+            "C": "The reaction is spontaneous at all temperatures.",
+            "D": "The reaction is not spontaneous at any temperature."
+        },
+        "correct_answer": "A",
+        "question_id": "2202420",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202420.png"
+    },
+    {
+        "number": "21",
+        "text": "In a well-insulated container, 10.0 g solid octane at its freezing point (\u201356.9 \u00b0C) is added to 300.0 mL liquid octane at 0.0 \u00b0C (density = 0.71 g mL-1). After equilibrium is achieved, the temperature is \u20136.3 \u00b0C. When the experiment is repeated under the same conditions except with 100.0 g solid octane, what is the final temperature?",
+        "options": {
+            "A": "\u201339.7 \u00b0C",
+            "B": "\u201344.9 \u00b0C",
+            "C": "\u201351.7 \u00b0C",
+            "D": "\u201356.9 \u00b0C"
+        },
+        "correct_answer": "B",
+        "question_id": "2202421",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202421.png"
+    },
+    {
+        "number": "22",
+        "text": "Amphiphilic species like CH3(CH2)10COO\u2013 can aggregate into micelles in water, as depicted schematically below. \u0394S for micelle formation is positive. Which best explains why?",
+        "options": {
+            "A": "Amphiphilic compounds are solvated by an ordered layer of water molecules.",
+            "B": "Micelle formation involves converting many independent amphiphilic compounds into a single large micelle.",
+            "C": "Water molecules are trapped in the hydrophobic interior of micelles.",
+            "D": "Water molecules form ordered structures around the exterior of micelles. m after April 21, 2024"
+        },
+        "correct_answer": "A",
+        "question_id": "2202422",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202422.png"
+    },
+    {
+        "number": "23",
+        "text": "What is \u2206G\u00b0f of C2H4(g) at 25 \u00b0C? Substance \u2206H\u00b0f, kJ mol-1 S\u00b0, J mol-1 K-1 C2H4(g) 52.4 219.3 H2(g) 0 130.7 C(s, graphite) 0 5.7",
+        "options": {
+            "A": "\u201313.0 kJ mol-1",
+            "B": "27.7 kJ mol-1",
+            "C": "46.9 kJ mol-1",
+            "D": "68.3 kJ mol-1"
+        },
+        "correct_answer": "D",
+        "question_id": "2202423",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202423.png"
+    },
+    {
+        "number": "24",
+        "text": "The \u2206H\u00b0f of CH4(g) is \u201374.6 kJ mol-1 and the bond dissociation enthalpies (BDEs) of several bonds are given in the table. Bond BDE, kJ mol-1 C\u2013C 347 C\u2013H 413 H\u2013H 432 Based on these data, what is the molar enthalpy of sublimation of C(s,graphite) to form C(g)?",
+        "options": {
+            "A": "713 kJ mol-1",
+            "B": "788 kJ mol-1",
+            "C": "1061 kJ mol-1",
+            "D": "1135 kJ mol-1"
+        },
+        "correct_answer": "A",
+        "question_id": "2202424",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202424.png"
+    },
+    {
+        "number": "25",
+        "text": "For a reaction X + Y \u00ae Z, data for three experiments are given. [X]0, M [Y]0, M Initial rate, M-1 min-1 0.10 0.10 2.0 \u00b4 10-4 0.30 0.10 6.0 \u00b4 10-4 0.30 0.30 5.4 \u00b4 10-3 Which mechanism is consistent with the above data? (Reactions shown as reversible are assumed to be rapid and unfavorable.)",
+        "options": {
+            "A": "X + Y \u00ae Z",
+            "B": "2 X \u21cc X2 X2 + Y \u00ae Z + X",
+            "C": "2 Y \u21cc Y2",
+            "D": "X + Y \u21cc XY Y2 + X \u00ae Z + Y XY \u00ae Z"
+        },
+        "correct_answer": "C",
+        "question_id": "2202425",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202425.png"
+    },
+    {
+        "number": "26",
+        "text": "208Po undergoes a decay to form stable 204Pb with a half- life of 2.90 years. A sample of 208Po was measured with a Geiger counter 5.20 years ago as having an activity of 1320 disintegrations per second. What is its activity today?",
+        "options": {
+            "A": "137 s-1",
+            "B": "381 s-1",
+            "C": "736 s-1",
+            "D": "1320 s-1"
+        },
+        "correct_answer": "B",
+        "question_id": "2202426",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202426.png"
+    },
+    {
+        "number": "27",
+        "text": "A reversible reaction occurs as follows: 2 A(g) + B(g) \u21cc C(g) + D(g) Under a certain set of conditions, the rate law for the forward reaction is determined to be Rate = kf[A][B]. Under these conditions, what is the rate law for the reverse reaction?",
+        "options": {
+            "A": "Rate = kr[C][D]",
+            "B": "Rate = =!r[C][D] [A]",
+            "C": "Rate = =! [Ar[ ]C #] [[ BD ]]",
+            "D": "It cannot be determined from the information given."
+        },
+        "correct_answer": "B",
+        "question_id": "2202427",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202427.png"
+    },
+    {
+        "number": "28",
+        "text": "A compound A reacts by two independent irreversible pathways to give two products, B and C. At 300 K, 35% of the product is B, while at 320 K, 70% of the product is B. What may be concluded about the activation energy of the pathway to form B compared to the activation energy of the pathway to form C?",
+        "options": {
+            "A": "mTh oe l -1E .a for the pathway to form B is higher by 28 kJ",
+            "B": "mTh oe l -1E .a for the pathway to form B is higher by 59 kJ",
+            "C": "mTh oe l -1E .a for the pathway to form B is lower by 28 kJ",
+            "D": "mTh oe l -1E .a for the pathway to form B is lower by 59 kJ"
+        },
+        "correct_answer": "B",
+        "question_id": "2202428",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202428.png"
+    },
+    {
+        "number": "29",
+        "text": "The irreversible reaction A + B \u00ae C takes place by the following two-step mechanism involving an intermediate X whose concentration is low throughout the reaction: k1 A X k\u20131 X + B k2 C Which statement cannot be correct regardless of the values of k1, k\u20131, and k2?",
+        "options": {
+            "A": "The reaction is 0th order in A.",
+            "B": "The reaction is 1st order in A.",
+            "C": "The reaction is 0th order in B.",
+            "D": "The reaction is 1st order in B."
+        },
+        "correct_answer": "A",
+        "question_id": "2202429",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202429.png"
+    },
+    {
+        "number": "30",
+        "text": "Nitramide decomposes to nitrous oxide in aqueous solution: NH2NO2(aq) \u00ae N2O(g) + H2O(l) In solutions with pH \u2265 12, the rate law for this reaction is: Rate = k[N [HH %# ON &O ]#] The reaction is monitored with pH = 12.0 (solid line) and with pH = 12.3 (dashed line). Which graph best represents the time-dependence of the nitramide concentrations in the two experiments?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "D",
+        "question_id": "2202430",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202430.png"
+    },
+    {
+        "number": "31",
+        "text": "A sample of 0.320 mol of a weak monoprotic acid in 1.00 L of solution is 10.2% ionized. What is Ka for this acid?",
+        "options": {
+            "A": "3.3 \u00b4 10-3",
+            "B": "3.7 \u00b4 10-3",
+            "C": "3.2 \u00b4 10-2",
+            "D": "1.1 \u00b4 10-1"
+        },
+        "correct_answer": "B",
+        "question_id": "2202431",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202431.png"
+    },
+    {
+        "number": "32",
+        "text": "Typically, the molar solubility x of an ionic compound in pure water and its Ksp are related by a simple formula. Which formula is not expected for Ksp for an ionic compound?",
+        "options": {
+            "A": "Ksp = 4x3",
+            "B": "Ksp = 4x4",
+            "C": "Ksp = 27x4",
+            "D": "Ksp = 81x5"
+        },
+        "correct_answer": "D",
+        "question_id": "2202432",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202432.png"
+    },
+    {
+        "number": "34",
+        "text": "5.00 g of nitrogen dioxide is introduced into an evacuated, rigid 1.00 L container. It is allowed to equilibrate according to the reaction below at 310 K, and the total pressure in the vessel is 1.71 bar. What is Kp for the reaction at 310 K? N2O4(g) \u21cc 2 NO2(g)",
+        "options": {
+            "A": "0.35",
+            "B": "0.57",
+            "C": "2.28",
+            "D": "2.92"
+        },
+        "correct_answer": "A",
+        "question_id": "2202434",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202434.png"
+    },
+    {
+        "number": "35",
+        "text": "A mixture containing CO(g), H2O(g), CO2(g), and H2(g) is allowed to reach equilibrium at 120 \u00b0C in a container that maintains a constant total pressure of 1.0 bar. CO(g) + H2O(g) \u21cc CO2(g) + H2(g) 5.0 g of H2O is added to this container, which is allowed to reattain equilibrium (still at 120 \u00b0C and 1 bar total pressure). How does the partial pressure of H2(g) change as a result of the addition of H2O?",
+        "options": {
+            "A": "The partial pressure of H2(g) increases.",
+            "B": "The partial pressure of H2(g) decreases.",
+            "C": "The partial pressure of H2(g) does not change.",
+            "D": "The effect on the partial pressure of H2(g) cannot be determined from the information given."
+        },
+        "correct_answer": "D",
+        "question_id": "2202435",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202435.png"
+    },
+    {
+        "number": "3",
+        "text": "What is the minimum amount of HCl that would need to be added to this solution to induce precipitation of AgCl? The Ksp of AgCl is 1.8 \u00b4 10-10; the 1K 0f -o 10f . Ag(NH3)2+ is 1.6 \u00b4 107; and the Ka of NH4+ is 5.6 \u00b4",
+        "options": {
+            "A": "1.8 \u00b4 10-8 mol",
+            "B": "1.3 \u00b4 10-5 mol",
+            "C": "0.18 mol",
+            "D": "0.28 mol"
+        },
+        "correct_answer": "D",
+        "question_id": "220243",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220243.png"
+    },
+    {
+        "number": "37",
+        "text": "In which compound does the oxidation number of oxygen differ from \u20132?",
+        "options": {
+            "A": "NaBO3",
+            "B": "NaNO3",
+            "C": "K3PO4",
+            "D": "K2Cr2O7"
+        },
+        "correct_answer": "A",
+        "question_id": "2202437",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202437.png"
+    },
+    {
+        "number": "38",
+        "text": "Copper metal reacts with nitric acid to form NO(g) as shown in the unbalanced reaction shown below. When the reaction is balanced using lowest whole number coefficients, what is the coefficient of H+(aq)? C Cu( us 2) + (+ a qH )+ +(a Nq) O + ( gN ) O +3 H\u2013(a 2Oq) ( l\u00ae )",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "D",
+        "question_id": "2202438",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202438.png"
+    },
+    {
+        "number": "2",
+        "text": "What is the ratio of the mass of Al deposited on the cathode to the mass of C lost from the anode?",
+        "options": {
+            "A": "1.50:1",
+            "B": "2.25:1",
+            "C": "3.00:1",
+            "D": "3.36:1 m after April 21, 2024"
+        },
+        "correct_answer": "D",
+        "question_id": "220242",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\220242.png"
+    },
+    {
+        "number": "40",
+        "text": "The cathode of an electrolytic cell with a copper electrode initially has 100.0 mL of a solution that is 1.00 M in both Cu2+(aq) and Fe(CN)63-(aq). The solution is electrolyzed with a constant current of 0.500 A at a constant temperature of 298 K. How much time elapses before Cu(s) begins to deposit on the electrode? Half-reaction E\u00b0, V Fe(CN)63-(aq) + e\u2013 \u00ae Fe(CN)64-(aq) 0.370 Cu2+(aq) + 2e\u2013 \u00ae Cu(s) 0.337",
+        "options": {
+            "A": "0 min",
+            "B": "89.4 min",
+            "C": "252 min",
+            "D": "322 min"
+        },
+        "correct_answer": "C",
+        "question_id": "2202440",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202440.png"
+    },
+    {
+        "number": "41",
+        "text": "A molecule absorbs a photon of light to form an excited state. How do the redox properties of the excited state compare to those of the ground state?",
+        "options": {
+            "A": "The excited state is both a stronger oxidizing agent and a stronger reducing agent than the ground state.",
+            "B": "The excited state is both a weaker oxidizing agent and a weaker reducing agent than the ground state.",
+            "C": "The excited state is a stronger oxidizing agent but a weaker reducing agent than the ground state.",
+            "D": "The excited state is a weaker oxidizing agent but a stronger reducing agent than the ground state."
+        },
+        "correct_answer": "A",
+        "question_id": "2202441",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202441.png"
+    },
+    {
+        "number": "42",
+        "text": "What is \u2206G\u00b0 at 298 K for the disproportionation of PbO(s)? 2 PbO(s) \u00ae PbO2(s) + Pb(s) \u2206G\u00b0 = ??? Half-reaction E\u00b0, V PbO2(s) + 4 H+(aq) + 4e\u2013 \u00ae Pb(s) + 2 0.671 H2O(l) PbO(s) + H2O(l) + 2e\u2013 \u00ae Pb(s) + 2 OH\u2013(aq) \u20130.580",
+        "options": {
+            "A": "163 kJ mol-1",
+            "B": "241 kJ mol-1",
+            "C": "403 kJ mol-1",
+            "D": "483 kJ mol-1"
+        },
+        "correct_answer": "A",
+        "question_id": "2202442",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202442.png"
+    },
+    {
+        "number": "43",
+        "text": "For which gas-phase atoms is addition of an electron endothermic? I. Li II. N",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B",
+        "question_id": "2202443",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202443.png"
+    },
+    {
+        "number": "44",
+        "text": "Which atom has the lowest first ionization energy?",
+        "options": {
+            "A": "Be",
+            "B": "B",
+            "C": "Mg",
+            "D": "Al Page 8 Property of ACS USN"
+        },
+        "correct_answer": "D",
+        "question_id": "2202444",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202444.png"
+    },
+    {
+        "number": "45",
+        "text": "How many electrons in a ground-state gas-phase atom of arsenic (As) have a quantum number ml = 1?",
+        "options": {
+            "A": "5",
+            "B": "7",
+            "C": "15",
+            "D": "18"
+        },
+        "correct_answer": "B",
+        "question_id": "2202445",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202445.png"
+    },
+    {
+        "number": "46",
+        "text": "Which orbital has the same number of radial nodes as a 3s orbital?",
+        "options": {
+            "A": "3p",
+            "B": "4s",
+            "C": "4f",
+            "D": "5d"
+        },
+        "correct_answer": "D",
+        "question_id": "2202446",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202446.png"
+    },
+    {
+        "number": "47",
+        "text": "Which lanthanide has a common oxidation number different from +3?",
+        "options": {
+            "A": "Ce",
+            "B": "Gd",
+            "C": "Er",
+            "D": "Lu"
+        },
+        "correct_answer": "A",
+        "question_id": "2202447",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202447.png"
+    },
+    {
+        "number": "48",
+        "text": "Which radioisotope decays by beta (b\u2013) emission?",
+        "options": {
+            "A": "20Na",
+            "B": "52V",
+            "C": "54Co",
+            "D": "62Cu"
+        },
+        "correct_answer": "B",
+        "question_id": "2202448",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202448.png"
+    },
+    {
+        "number": "49",
+        "text": "Which is a valid Lewis structure for nitric acid, HNO3?",
+        "options": {
+            "A": "",
+            "B": "O O H N O H N O O O",
+            "C": "",
+            "D": "O O H O N O H O N O"
+        },
+        "correct_answer": "C",
+        "question_id": "2202449",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202449.png"
+    },
+    {
+        "number": "51",
+        "text": "Which statement best describes the relative Lewis acidity of BF3 and BCl3?",
+        "options": {
+            "A": "BF3 is a weaker Lewis acid than BCl3 because F is more electronegative than Cl.",
+            "B": "BF3 is a weaker Lewis acid than BCl3 because F is a better \u03c0 donor than Cl.",
+            "C": "BF3 is a stronger Lewis acid than BCl3 because F is more electronegative than Cl.",
+            "D": "BF3 is a stronger Lewis acid than BCl3 because F is a better \u03c0 donor than Cl."
+        },
+        "correct_answer": "B",
+        "question_id": "2202451",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202451.png"
+    },
+    {
+        "number": "53",
+        "text": "The gas-phase molecules B2 and O2 are both paramagnetic. Which statement about the relative energies of their molecular orbitals explains these observations? I. The s2p MO is higher in energy than the \u03c02p MO\u2019s. II. The s*2p MO is higher in energy than the \u03c0*2p MO\u2019s.",
+        "options": {
+            "A": "I for B2, II for O2",
+            "B": "I for O2, II for B2",
+            "C": "I for both B2 and O2",
+            "D": "II for both B2 and O2"
+        },
+        "correct_answer": "A",
+        "question_id": "2202453",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202453.png"
+    },
+    {
+        "number": "54",
+        "text": "How many stereoisomers are there of the octahedral coordination complex Co(NH2CH2CO2)3?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "D",
+        "question_id": "2202454",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202454.png"
+    },
+    {
+        "number": "55",
+        "text": "How many tertiary alcohols have the formula C5H12O?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A",
+        "question_id": "2202455",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202455.png"
+    },
+    {
+        "number": "56",
+        "text": "Which difluorocyclohexanes are optically active? I. F II. F F F",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "A",
+        "question_id": "2202456",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202456.png"
+    },
+    {
+        "number": "57",
+        "text": "Which best describes the outcome of extracting a dilute solution of benzoic acid in diethyl ether with 5% aqueous NaHCO3?",
+        "options": {
+            "A": "Benzoic acid is present in the bottom layer.",
+            "B": "Benzoate ion is present in the bottom layer.",
+            "C": "Benzoic acid is present in the top layer.",
+            "D": "Benzoate ion is present in the top layer."
+        },
+        "correct_answer": "B",
+        "question_id": "2202457",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202457.png"
+    },
+    {
+        "number": "58",
+        "text": "Which product would be obtained in the greatest quantity from bromination of 4-nitrotoluene using an aluminum bromide catalyst? CH3 Br2 cat. AlBr3 NO2",
+        "options": {
+            "A": "Br",
+            "B": "CH3 Br NO2 NO2",
+            "C": "CH3",
+            "D": "CH3 Br NO2 Br"
+        },
+        "correct_answer": "B",
+        "question_id": "2202458",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202458.png"
+    },
+    {
+        "number": "59",
+        "text": "Which compound is least reactive toward ethylmagnesium bromide, CH3CH2MgBr?",
+        "options": {
+            "A": "O",
+            "B": "O O",
+            "C": "",
+            "D": "H O O"
+        },
+        "correct_answer": "C",
+        "question_id": "2202459",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202459.png"
+    },
+    {
+        "number": "60",
+        "text": "Which statements describe significant differences between RNA and DNA? I. The bases used in RNA include three purines and one pyrimidine, while those in DNA include two purines and two pyrimidines. II. Hydrolysis of RNA frequently involves cyclic phosphate intermediates, while hydrolysis of DNA never does.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II END OF TEST m after April 21, 2024 Page 9"
+        },
+        "correct_answer": "B",
+        "question_id": "2202460",
+        "image_path": "output_images\\2024-usnco-national-exam-part-i\\2202460.png"
+    }
+]
