@@ -1,0 +1,778 @@
+[
+    {
+        "number": "1",
+        "text": "Which metal reacts most vigorously with water?",
+        "options": {
+            "A": "Ca",
+            "B": "K",
+            "C": "Mg",
+            "D": "Na"
+        },
+        "correct_answer": "B",
+        "question_id": "120001",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120001.png"
+    },
+    {
+        "number": "2",
+        "text": "Which substance produces an acidic solution when it is bubbled into water?",
+        "options": {
+            "A": "CO2",
+            "B": "Ar",
+            "C": "NH3",
+            "D": "CH4"
+        },
+        "correct_answer": "A",
+        "question_id": "120002",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120002.png"
+    },
+    {
+        "number": "3",
+        "text": "Which substance is the least soluble in H2O?",
+        "options": {
+            "A": "K2CO3",
+            "B": "KHCO3",
+            "C": "Ca(HCO3)2",
+            "D": "CaCO3"
+        },
+        "correct_answer": "D",
+        "question_id": "120003",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120003.png"
+    },
+    {
+        "number": "4",
+        "text": "What value should be reported for the buret reading shown? 22 23",
+        "options": {
+            "A": "22.3 mL",
+            "B": "22.30 mL",
+            "C": "22.36 mL",
+            "D": "22.40 mL"
+        },
+        "correct_answer": "C",
+        "question_id": "120004",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120004.png"
+    },
+    {
+        "number": "5",
+        "text": "Which technique is recommended for determining the odor of an unknown liquid in the laboratory?",
+        "options": {
+            "A": "Hold a test tube of the liquid under the nose and inhale the vapor.",
+            "B": "Transfer a few drops of the liquid to the desk top and inhale the vapor from there.",
+            "C": "Use a medicine dropper to collect a small quantity of the vapor and squirt this under the nose while inhaling.",
+            "D": "Use a hand to fan some of the vapor from the test tube to the nose and inhale."
+        },
+        "correct_answer": "D",
+        "question_id": "120005",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120005.png"
+    },
+    {
+        "number": "6",
+        "text": "A colorless solution is known to contain one of these ions. Which ion is present if adding dilute HCl produces a white precipitate that dissolves when the solution is warmed?",
+        "options": {
+            "A": "Ag+",
+            "B": "Cu2+",
+            "C": "Hg22+",
+            "D": "Pb2+ ,"
+        },
+        "correct_answer": "D",
+        "question_id": "120006",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120006.png"
+    },
+    {
+        "number": "7",
+        "text": "A student is asked to measure 12 mL of a liquid as precisely as possible. Which piece of equipment should she select for this task?",
+        "options": {
+            "A": "25 mL beaker",
+            "B": "25 mL graduated cylinder",
+            "C": "25 mL conical flask",
+            "D": "25 mL volumetric flask"
+        },
+        "correct_answer": "B",
+        "question_id": "120007",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120007.png"
+    },
+    {
+        "number": "8",
+        "text": "Which separation technique is based on differences in the volatility of the substances to be separated?",
+        "options": {
+            "A": "filtration",
+            "B": "distillation",
+            "C": "solvent extraction",
+            "D": "paper chromatography"
+        },
+        "correct_answer": "B",
+        "question_id": "120008",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120008.png"
+    },
+    {
+        "number": "9",
+        "text": "w rI ef a m1 t. e a5 r i0 no ?g f ho yf dH ra2C tio2O n,4 . h2 oH w2 O m w uce hr e a nh hea yt de rd o uto s d Hr 2iv Ce 2 Oof 4f w th oe uld",
+        "options": {
+            "A": "0.34 g",
+            "B": "0.92 g",
+            "C": "1.07 g",
+            "D": "1.50 g"
+        },
+        "correct_answer": "C",
+        "question_id": "120009",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120009.png"
+    },
+    {
+        "number": "10",
+        "text": "How many H atoms are in 3.4 g of C12H22O11?",
+        "options": {
+            "A": "6.0 \u00d7 10^23",
+            "B": "1.3 \u00d7 10^23",
+            "C": "3.8 \u00d7 10^22",
+            "D": "6.0 \u00d7 10^21"
+        },
+        "correct_answer": "B",
+        "question_id": "1200010",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200010.png"
+    },
+    {
+        "number": "150",
+        "text": "mL of a 1.60 M HCl solution?",
+        "options": {
+            "A": "30.0 mL",
+            "B": "24.0 mL",
+            "C": "18.8 mL",
+            "D": "12.0 mL"
+        },
+        "correct_answer": null
+    },
+    {
+        "number": "12",
+        "text": "Analysis of a compound known to contain only Mg, P, and O gives this analysis. 21.8% Mg 27.7% P 50.3% O What is its empirical formula?",
+        "options": {
+            "A": "MgPO2",
+            "B": "MgPO3",
+            "C": "Mg2P2O7",
+            "D": "Mg3P2O8"
+        },
+        "correct_answer": "C",
+        "question_id": "1200012",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200012.png"
+    },
+    {
+        "number": "13",
+        "text": "pT oh pe u r le aa rc cti lo asn s ro of o e mth a dn eo ml, o C ns2tH ra5tO ioH n, . w Bi at lh a no cx ey g the en ei qs ua ation to find the number of moles of gaseous products formed per mole of ethanol. ___C2H5OH(g) + ___O2(g) \u2192 ___CO2(g) + ___H2O(g)",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "correct_answer": "D",
+        "question_id": "1200013",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200013.png"
+    },
+    {
+        "number": "14",
+        "text": "Ammonia is produced in accordance with this equation. I tw hn h e a e p np e a r0r c.t 5 eic n mu t l yoa ilr e oe ldfxN ?p N2e( 2rg ii) sm + re e3 n aH t c, t20 e(g . d2) 5 w\u2192 im t h2 o N l 0 .oH 5f3 m( Ng) oH l3 o i fs Hfo 2r . m We hd at is",
+        "options": {
+            "A": "75%",
+            "B": "50%",
+            "C": "33%",
+            "D": "25%"
+        },
+        "correct_answer": "A",
+        "question_id": "1200014",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200014.png"
+    },
+    {
+        "number": "15",
+        "text": "A 20.0 mL sample of a Cu2+ solution was diluted to 250.0 mL. A portion of this solution was found to have an absorbance of 0.15 under the same conditions that were used to generate the given absorbance vs. i[ c nC o nu thc2+ ee] n og t rrr iaa gtp ii noh an. l W o sf ah mCat u p w 2 l+ e a ?is o nth se 0 0 [. C05 u2+0 ]. ,1 M0 0.15 ecnabrosbA 0.40 0.30 0.20 0.10 0",
+        "options": {
+            "A": "0.0060 M",
+            "B": "0.075 M",
+            "C": "0.30 M",
+            "D": "0.94 M"
+        },
+        "correct_answer": "D",
+        "question_id": "1200015",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200015.png"
+    },
+    {
+        "number": "16",
+        "text": "Under which conditions will a gas behave most ideally?",
+        "options": {
+            "A": "low P and high T",
+            "B": "low P and low T",
+            "C": "high P and low T",
+            "D": "high P and high T"
+        },
+        "correct_answer": "A",
+        "question_id": "1200016",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200016.png"
+    },
+    {
+        "number": "17",
+        "text": "The mass of 560 cm3 of a gas at 0 \u02daC and 1 atm is 1.60 g. Which gas could it be?",
+        "options": {
+            "A": "O2",
+            "B": "CO2",
+            "C": "SO2",
+            "D": "Cl2"
+        },
+        "correct_answer": "C",
+        "question_id": "1200017",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200017.png"
+    },
+    {
+        "number": "18",
+        "text": "Oxygen, which is 16 times as dense as hydrogen, diffuses",
+        "options": {
+            "A": "1/16 times as fast.",
+            "B": "1/4 times as fast.",
+            "C": "4 times as fast.",
+            "D": "16 times as fast."
+        },
+        "correct_answer": "B",
+        "question_id": "1200018",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200018.png"
+    },
+    {
+        "number": "19",
+        "text": "How is the vapor pressure of a liquid in a closed container affected when the quantity of liquid is doubled at constant temperature?",
+        "options": {
+            "A": "The vapor pressure increases.",
+            "B": "The vapor pressure decreases.",
+            "C": "The vapor pressure stays the same.",
+            "D": "The vapor pressure may increase or decrease, depending on the liquid."
+        },
+        "correct_answer": "C",
+        "question_id": "1200019",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200019.png"
+    },
+    {
+        "number": "20",
+        "text": "A low molar heat of fusion is expected for a solid that is",
+        "options": {
+            "A": "ionic.",
+            "B": "metallic.",
+            "C": "molecular.",
+            "D": "network covalent."
+        },
+        "correct_answer": "C",
+        "question_id": "1200020",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200020.png"
+    },
+    {
+        "number": "21",
+        "text": "Which gas is least suitable for collection over water?",
+        "options": {
+            "A": "Ar",
+            "B": "O2",
+            "C": "CO2",
+            "D": "NH3"
+        },
+        "correct_answer": "D",
+        "question_id": "1200021",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200021.png"
+    },
+    {
+        "number": "22",
+        "text": "Which characteristic is most useful for determining that a substance is a metal?",
+        "options": {
+            "A": "conductivity",
+            "B": "hardness",
+            "C": "melting point",
+            "D": "X-ray pattern"
+        },
+        "correct_answer": "A",
+        "question_id": "1200022",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200022.png"
+    },
+    {
+        "number": "23",
+        "text": "For which of these is \u2206Ho f not equal to zero?",
+        "options": {
+            "A": "Br2(l)",
+            "B": "Fe(s)",
+            "C": "I2(s)",
+            "D": "O3(g)"
+        },
+        "correct_answer": "D",
+        "question_id": "1200023",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200023.png"
+    },
+    {
+        "number": "24",
+        "text": "The enthalpy change for which reaction represents the standard enthalpy of formation for hydrogen cyanide, HCN?",
+        "options": {
+            "A": "H(g) + C(graphite) + N(g) \u2192 HCN(g)",
+            "B": "1 2H2(g) + C(graphite) + 1 2N2(g) \u2192 HCN(g)",
+            "C": "HCN(g) \u2192 1 2H2(g) + C(graphite) + 1 2N2(g)",
+            "D": "H2(g) + 2C(graphite) + N2(g) \u2192 2HCN(g)"
+        },
+        "correct_answer": "B",
+        "question_id": "1200024",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200024.png"
+    },
+    {
+        "number": "25",
+        "text": "What is the standard enthalpy of formation of MgO(s) if 300.9 kJ is evolved when 20.15 g of MgO(s) is formed by the combustion of magnesium under standard conditions?",
+        "options": {
+            "A": "\u2013601.8 kJ\u00b7mol\u20131",
+            "B": "\u2013300.9 kJ\u00b7mol\u20131",
+            "C": "+300.9 kJ\u00b7mol\u20131",
+            "D": "+601.8 kJ\u00b7mol\u20131"
+        },
+        "correct_answer": "A",
+        "question_id": "1200025",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200025.png"
+    },
+    {
+        "number": "26",
+        "text": "Which combination of solutions of HCl and NaOH would produce the largest \u2206T?",
+        "options": {
+            "A": "50 mL of 1 M HCl with 50 mL of 1 M NaOH",
+            "B": "50 mL of 2 M HCl with 50 mL of 2 M NaOH",
+            "C": "100 mL of 1 M HCl with 50 mL of 2 M NaOH",
+            "D": "100 mL of 1 M HCl with 100 mL of 1 M NaOH"
+        },
+        "correct_answer": "B",
+        "question_id": "1200026",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200026.png"
+    },
+    {
+        "number": "27",
+        "text": "Which change occurs with the largest increase in entropy at 25 \u02daC?",
+        "options": {
+            "A": "Br2(l) \u2192 Br2(g)",
+            "B": "C(graphite) \u2192 C(diamond)",
+            "C": "H2O(s) \u2192 H2O(l)",
+            "D": "HCl(g) + H2O(l) \u2192 H3O+(aq) + Cl\u2013(aq) , 2000."
+        },
+        "correct_answer": "A",
+        "question_id": "1200027",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200027.png"
+    },
+    {
+        "number": "28",
+        "text": "What are the signs of \u2206H\u02da and \u2206S\u02da for a reaction that is spontaneous at all temperatures? \u2206H\u02da \u2206S\u02da",
+        "options": {
+            "A": "+ +",
+            "B": "+ \u2013",
+            "C": "\u2013 +",
+            "D": "\u2013 \u2013"
+        },
+        "correct_answer": "C",
+        "question_id": "1200028",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200028.png"
+    },
+    {
+        "number": "29",
+        "text": "Iodide ion is oxidized by acidified dichromate ions as shown in this equation. Cr2O72\u2013(aq) + 9I\u2013(aq) + 14H + ( a q 2) C\u2192 r3+(aq) + 3I3\u2013(aq) + 7H2O(l) These data were obtained when the reaction was studied at a constant pH. Experiment [Cr2O72\u2013], M [I\u2013], M Rate, M\u00b7s\u20131 1 0.0040 0.010 0.00050 2 0.0080 0.010 0.0010 3 0.0120 0.020 0.0060 What is the order of the reaction with respect to Cr2O72\u2013(aq) and I\u2013(aq)?",
+        "options": {
+            "A": "first order with respect to both Cr2O72\u2013 and I\u2013",
+            "B": "second order with respect to both Cr2O72\u2013 and I\u2013",
+            "C": "s we ic to hn rd e so pr ed ce tr t w o Iit \u2013h respect to Cr2O72\u2013 and first order",
+            "D": "f wir is tht o rr ed se pr e cw t i tt oh Ir \u2013e s pect to Cr2O72\u2013 and second order"
+        },
+        "correct_answer": "D",
+        "question_id": "1200029",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200029.png"
+    },
+    {
+        "number": "30",
+        "text": "The reaction A \u2192 B is first order in A. Which plot will be linear?",
+        "options": {
+            "A": "[A] vs. time",
+            "B": "ln [A] vs. time",
+            "C": "1/[A]2 vs. time",
+            "D": "1/[A] vs. time"
+        },
+        "correct_answer": "B",
+        "question_id": "1200030",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200030.png"
+    },
+    {
+        "number": "31",
+        "text": "One of the steps in the manufacture of nitric acid is the oxidation of ammonia shown in this equation. 4NH3(g) + 5O2(g) \u2192 4NO(g) + 6H2O(g) If gaseous water appears at a rate of 0.025 mol\u00b7min\u20131, at what rate does ammonia disappear?",
+        "options": {
+            "A": "0.0040 mol\u00b7min\u20131",
+            "B": "0.017 mol\u00b7min\u20131",
+            "C": "0.038 mol\u00b7min\u20131",
+            "D": "0.150 mol\u00b7min\u20131"
+        },
+        "correct_answer": "B",
+        "question_id": "1200031",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200031.png"
+    },
+    {
+        "number": "5",
+        "text": "If the half-life for this reaction is 19.0 minutes, what is the rate constant, k?",
+        "options": {
+            "A": "0.0158 min\u20131",
+            "B": "0.0263 min\u20131",
+            "C": "0.0365 min\u20131",
+            "D": "0.0526 min\u20131 , 2000."
+        },
+        "correct_answer": "D",
+        "question_id": "120005",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120005.png"
+    },
+    {
+        "number": "33",
+        "text": "For a system in equilibrium, the rate constant for the f f eo o qr r uw t aha tier o d r n er v re eea prc s rt eeio s rn ee n ai ts c s t r i te o hp n er e eiss q e r un e ipt le ir bd e r s ib e uy n m tk e f c da o n b nd y s t t akh nr.e t W r fa oht re i t c hc ho isnstant reaction in the forward direction?",
+        "options": {
+            "A": "Keq =kf \u22c5kr",
+            "B": "Keq =kf kr",
+            "C": "Keq =krkf",
+            "D": "Keq = 1 kf \u22c5kr Questions 34 and 35 should both be answered with reference to this reaction, for which \u2206Ho is negative. 2NO(g) + O2(g) = 2NO2(g)"
+        },
+        "correct_answer": "B",
+        "question_id": "1200033",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200033.png"
+    },
+    {
+        "number": "34",
+        "text": "W eqh ui ic lih b rw iuo mul ?d increase the partial pressure of NO2(g) at",
+        "options": {
+            "A": "decreasing the volume of the system",
+            "B": "adding a noble gas to increase the pressure of the system",
+            "C": "removing some NO(g) from the system",
+            "D": "adding an appropriate catalyst"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "35",
+        "text": "At a certain temperature the equilibrium concentrations for this system are: [NO] = 0.52M; [O2] = 0.24M; [NO2] =0.18M. What is the value of KC at this temperature?",
+        "options": {
+            "A": "0.063",
+            "B": "0.50",
+            "C": "1.4",
+            "D": "2.0"
+        },
+        "correct_answer": "B",
+        "question_id": "1200035",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200035.png"
+    },
+    {
+        "number": "36",
+        "text": "What is the pH of a 0.025 M solution of KOH?",
+        "options": {
+            "A": "1.60",
+            "B": "3.69",
+            "C": "10.31",
+            "D": "12.40"
+        },
+        "correct_answer": "D",
+        "question_id": "1200036",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200036.png"
+    },
+    {
+        "number": "37",
+        "text": "W 0.0h 7a 5t i Ms t h soe l [ uH tio+] n o of f a the Equilibrium Constant, Ka acid HA? HA 4.8 \u00d7 l0\u20138",
+        "options": {
+            "A": "6.1 \u00d7 l0\u20134 M",
+            "B": "2.2 \u00d7 l0\u20134 M",
+            "C": "6.0 \u00d7 l0\u20135 M",
+            "D": "4.8 \u00d7 l0\u20138 M"
+        },
+        "correct_answer": "C",
+        "question_id": "1200037",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200037.png"
+    },
+    {
+        "number": "38",
+        "text": "Which salt produces the most alkaline solution at a concentration of 0.1 M?",
+        "options": {
+            "A": "KNO3",
+            "B": "MgCl2",
+            "C": "NH4Cl",
+            "D": "NaNO2"
+        },
+        "correct_answer": "D",
+        "question_id": "1200038",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200038.png"
+    },
+    {
+        "number": "39",
+        "text": "iA b se tn0 iz. t0 ro a5 i tc2 e daM c wi ds ito , hl C u a6t Hi so t5n rC o o O nf gOH, E Cq 6u Hil 5i Cbr Oiu Om H Con 6s .t 3a n \u00d7t , l 0K \u2013a 5 base. What is the [H+] of the solution one-half way to the equivalence point?",
+        "options": {
+            "A": "6.3 \u00d7 l0\u20135 M",
+            "B": "1.8 \u00d7 l0\u20133 M",
+            "C": "7.9 \u00d7 l0\u20133 M",
+            "D": "2.6 \u00d7 l0\u20132 M"
+        },
+        "correct_answer": "A",
+        "question_id": "1200039",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200039.png"
+    },
+    {
+        "number": "3",
+        "text": "adding NH4Cl",
+        "options": {
+            "A": "1 only",
+            "B": "2 only",
+            "C": "1 and 3 only",
+            "D": "2 and 3 only"
+        },
+        "correct_answer": "D",
+        "question_id": "120003",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120003.png"
+    },
+    {
+        "number": "41",
+        "text": "mH cao ulcw si tu m bm ea dn fl iy u s o sm orio ld vl ee e,s d C o inaf F 22., 0 L CaFK 2sp at 25 1 .\u00b0 6C \u00d7 l0\u201310 of water at 25 \u00b0C to form a saturated solution?",
+        "options": {
+            "A": "2.6 \u00d7 l0\u20132 mol",
+            "B": "1.3 \u00d7 l0\u20133 mol",
+            "C": "6.8 \u00d7 l0\u20134 mol",
+            "D": "3.4 \u00d7 l0\u20134 mol"
+        },
+        "correct_answer": "C",
+        "question_id": "1200041",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200041.png"
+    },
+    {
+        "number": "42",
+        "text": "Which equation represents an oxidation-reduction reaction?",
+        "options": {
+            "A": "H2SO4 + 2NH3 \u2192 (NH4)2SO4",
+            "B": "H2SO4 + Na2CO3 \u2192 Na2SO4 + H2O + CO2",
+            "C": "2K2CrO4 + H2SO4 \u2192 K2Cr2O7 + K2SO4 + H2O",
+            "D": "2H2SO4 + Cu \u2192 CuSO4 + 2H2O + SO2 Questions 43 and 44 should be answered with reference to the voltaic cell shown and these half-reactions. Rh3+(aq) + 3e\u2013 \u2192 Rh(s) Eo = 0.80 V Cu+(aq) + e\u2013 \u2192 Cu(s) Eo = 0.52 V V salt bridge Rh Cu Rh3+ (aq) Cu+ (aq)"
+        },
+        "correct_answer": "D",
+        "question_id": "1200042",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200042.png"
+    },
+    {
+        "number": "43",
+        "text": "What is the direction of electron flow in the external circuit if the concentrations of Cu+ and Rh3+ are each 1 M?",
+        "options": {
+            "A": "from the Rh anode to the Cu cathode",
+            "B": "from the Rh cathode to the Cu anode",
+            "C": "from the Cu anode to the Rh cathode",
+            "D": "from the Cu cathode to the Rh anode"
+        },
+        "correct_answer": "C",
+        "question_id": "1200043",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200043.png"
+    },
+    {
+        "number": "44",
+        "text": "What is the voltage of this cell if the concentrations of Cu+ and Rh3+ are each 1 M?",
+        "options": {
+            "A": "0.28 V",
+            "B": "0.76 V",
+            "C": "1.32 V",
+            "D": "2.36 V"
+        },
+        "correct_answer": "A",
+        "question_id": "1200044",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200044.png"
+    },
+    {
+        "number": "45",
+        "text": "W O oxFh id2a , a t a ti ins od nt h H ne 2u c O mo 2r b r a ee r rc e t fa oo r rr r d a one xr g y ew gd eh nie n ?n o t rh de e s r u ob fs it na cn rc ee as s O in2g, H2O,",
+        "options": {
+            "A": "O2, H2O, OF2, H2O2",
+            "B": "H2O, H2O2, O2, OF2",
+            "C": "H2O2, O2, H2O, OF2",
+            "D": "OF2, O2, H2O2, H2O"
+        },
+        "correct_answer": "B",
+        "question_id": "1200045",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200045.png"
+    },
+    {
+        "number": "46",
+        "text": "Which element has an outer electron configuration of s2p4?",
+        "options": {
+            "A": "Ca",
+            "B": "Cr",
+            "C": "Ge",
+            "D": "Se"
+        },
+        "correct_answer": "D",
+        "question_id": "1200046",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200046.png"
+    },
+    {
+        "number": "47",
+        "text": "How many unpaired electrons does a gaseous atom of phosphorus, P, have in its ground state?",
+        "options": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "7"
+        },
+        "correct_answer": "B",
+        "question_id": "1200047",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200047.png"
+    },
+    {
+        "number": "48",
+        "text": "Which element has the lowest first ionization energy?",
+        "options": {
+            "A": "B",
+            "B": "C",
+            "C": "Al",
+            "D": "Si"
+        },
+        "correct_answer": "C",
+        "question_id": "1200048",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200048.png"
+    },
+    {
+        "number": "49",
+        "text": "Which of these elements has the greatest electronegativity?",
+        "options": {
+            "A": "Br",
+            "B": "N",
+            "C": "O",
+            "D": "S"
+        },
+        "correct_answer": "C",
+        "question_id": "1200049",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200049.png"
+    },
+    {
+        "number": "50",
+        "text": "Which oxide produces the most acidic solution when 0.1 mol is added to 1 L of H2O?",
+        "options": {
+            "A": "BaO",
+            "B": "BaO2",
+            "C": "SO2",
+            "D": "SO3"
+        },
+        "correct_answer": "D",
+        "question_id": "1200050",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200050.png"
+    },
+    {
+        "number": "51",
+        "text": "Which set contains only covalently bonded molecules?",
+        "options": {
+            "A": "BCl3, SiCl4, PCl3",
+            "B": "NH4Br, N2H4, HBr",
+            "C": "I2, H2S, NaI",
+            "D": "Al, O3, As4"
+        },
+        "correct_answer": "A",
+        "question_id": "1200051",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200051.png"
+    },
+    {
+        "number": "52",
+        "text": "What is the total number of valence electrons in the chlorate ion, ClO3\u2013?",
+        "options": {
+            "A": "24",
+            "B": "26",
+            "C": "28",
+            "D": "32"
+        },
+        "correct_answer": "B",
+        "question_id": "1200052",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200052.png"
+    },
+    {
+        "number": "53",
+        "text": "The concept of resonance is used to describe molecular structures which",
+        "options": {
+            "A": "oscillate between two structures.",
+            "B": "have mirror images.",
+            "C": "can be isolated in several isomeric forms.",
+            "D": "have more than one possible Lewis structure."
+        },
+        "correct_answer": "D",
+        "question_id": "1200053",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200053.png"
+    },
+    {
+        "number": "54",
+        "text": "What is the arrangement in space of the hybrid orbitals of an atom with sp2 hybridization?",
+        "options": {
+            "A": "linear",
+            "B": "bent",
+            "C": "pyramidal",
+            "D": "trigonal planar"
+        },
+        "correct_answer": "D",
+        "question_id": "1200054",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200054.png"
+    },
+    {
+        "number": "55",
+        "text": "Which species is isoelectronic with NO2+?",
+        "options": {
+            "A": "N2O",
+            "B": "NO2\u2013",
+            "C": "NH2\u2013",
+            "D": "SO2 , 2000."
+        },
+        "correct_answer": "A",
+        "question_id": "1200055",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200055.png"
+    },
+    {
+        "number": "3",
+        "text": "NH4+",
+        "options": {
+            "A": "1 only",
+            "B": "3 only",
+            "C": "1 and 3 only",
+            "D": "1, 2 and 3"
+        },
+        "correct_answer": "D",
+        "question_id": "120003",
+        "image_path": "output_images\\2000-local-olympiad-exam\\120003.png"
+    },
+    {
+        "number": "57",
+        "text": "How many isomers have the molecular formula C5H12?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "5"
+        },
+        "correct_answer": "C",
+        "question_id": "1200057",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200057.png"
+    },
+    {
+        "number": "58",
+        "text": "Carbon is found in the highest oxidation state in which of these classes of organic compounds?",
+        "options": {
+            "A": "carboxylic acids",
+            "B": "alcohols",
+            "C": "aldehydes",
+            "D": "alkynes END O , 2000."
+        },
+        "correct_answer": "A",
+        "question_id": "1200058",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200058.png"
+    },
+    {
+        "number": "59",
+        "text": "Which structural formula represents a mono-unsaturated aliphatic hydrocarbon?",
+        "options": {
+            "A": "C C",
+            "B": "C C C",
+            "C": "",
+            "D": "C C C C"
+        },
+        "correct_answer": "B",
+        "question_id": "1200059",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200059.png"
+    },
+    {
+        "number": "60",
+        "text": "Which compound has the highest boiling point?",
+        "options": {
+            "A": "CH3CH2CH3",
+            "B": "CH3OCH2CH3",
+            "C": "CH3 C CH3",
+            "D": "CH3CH2CH2OH O TEST"
+        },
+        "correct_answer": "D",
+        "question_id": "1200060",
+        "image_path": "output_images\\2000-local-olympiad-exam\\1200060.png"
+    }
+]
