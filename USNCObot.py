@@ -46,6 +46,55 @@ class Question:
         }
         return cls(**cleaned_data)
 
+class HelpPage(discord.ui.View):
+    def __init__(self, embeds: list[discord.Embed]):
+        super().__init__(timeout=180)  # 3 minute timeout
+        self.embeds = embeds
+        self.current_page = 0
+        
+        # Update button states
+        self.update_buttons()
+    
+    def update_buttons(self):
+        # First page
+        self.first_page_button.disabled = self.current_page == 0
+        # Previous page
+        self.prev_button.disabled = self.current_page == 0
+        # Next page
+        self.next_button.disabled = self.current_page == len(self.embeds) - 1
+        # Last page
+        self.last_page_button.disabled = self.current_page == len(self.embeds) - 1
+        # Update page counter
+        self.page_counter.label = f"Page {self.current_page + 1}/{len(self.embeds)}"
+    
+    @discord.ui.button(label="⏮️", style=discord.ButtonStyle.gray)
+    async def first_page_button(self, interaction: discord.Interaction, button: discord.ui.Button):
+        self.current_page = 0
+        self.update_buttons()
+        await interaction.response.edit_message(embed=self.embeds[self.current_page], view=self)
+    
+    @discord.ui.button(label="◀️", style=discord.ButtonStyle.blurple)
+    async def prev_button(self, interaction: discord.Interaction, button: discord.ui.Button):
+        self.current_page -= 1
+        self.update_buttons()
+        await interaction.response.edit_message(embed=self.embeds[self.current_page], view=self)
+    
+    @discord.ui.button(label="Page 1/4", style=discord.ButtonStyle.gray, disabled=True)
+    async def page_counter(self, interaction: discord.Interaction, button: discord.ui.Button):
+        pass
+    
+    @discord.ui.button(label="▶️", style=discord.ButtonStyle.blurple)
+    async def next_button(self, interaction: discord.Interaction, button: discord.ui.Button):
+        self.current_page += 1
+        self.update_buttons()
+        await interaction.response.edit_message(embed=self.embeds[self.current_page], view=self)
+    
+    @discord.ui.button(label="⏭️", style=discord.ButtonStyle.gray)
+    async def last_page_button(self, interaction: discord.Interaction, button: discord.ui.Button):
+        self.current_page = len(self.embeds) - 1
+        self.update_buttons()
+        await interaction.response.edit_message(embed=self.embeds[self.current_page], view=self)
+        
 class ReportModal(ui.Modal, title="Report Question Error"):
     error_description = ui.TextInput(
         label="Please describe the error",
@@ -551,7 +600,110 @@ class QuizCommands(commands.Cog):
         
         view.message = message
         view.timer_task = asyncio.create_task(view.start_timer())
+    def create_help_embeds(self) -> list[discord.Embed]:
+        embeds = []
         
+        # Page 1: Introduction
+        intro_embed = discord.Embed(
+            title="USNCO Bot - Introduction",
+            description="Welcome to the USNCO Bot! This bot was built to make studying for the USNCO exam more fun and interactive.",
+            color=discord.Color.blue()
+        )
+        intro_embed.add_field(
+            name="Overview",
+            value=(
+                "• Interactive question review in Science Bowl style\n"
+                "• Database of 2000+ USNCO questions\n"
+                "• Competitive and engaging format\n"
+                "• Real-time response tracking"
+            ),
+            inline=False
+        )
+        intro_embed.add_field(
+            name="Note",
+            value="⚠️ This bot is still in development and may contain bugs. The `/question` command might be changed to avoid conflict with other bots' commands.",
+            inline=False
+        )
+        embeds.append(intro_embed)
+        
+        # Page 2: Question Format
+        format_embed = discord.Embed(
+            title="USNCO Bot - Question Format",
+            description="Understanding the question format and ID system",
+            color=discord.Color.blue()
+        )
+        format_embed.add_field(
+            name="Question ID Format",
+            value=(
+                "Format: `[Exam Type, local or national (1/2)] [Year] [Question Number]`\n"
+                "Example: **1201820**\n"
+                "• 1: Local Exam\n"
+                "• 2018: Exam Year\n"
+                "• 20: Question Number"
+            ),
+            inline=False
+        )
+        format_embed.add_field(
+            name="Question Contents",
+            value="Questions are parsed using the `pdfplumber` library and include:\n• Question text\n• Answer choices (A-D)\n• Associated images",
+            inline=False
+        )
+        embeds.append(format_embed)
+        
+        # Page 3: Timer System
+        timer_embed = discord.Embed(
+            title="USNCO Bot - Timer System",
+            description="Understanding how the timer works",
+            color=discord.Color.blue()
+        )
+        timer_embed.add_field(
+            name="Initial Timer",
+            value="• Users have `2 minutes` to buzz in\n• Timer counts down in real-time\n• Buttons disable at 0 seconds",
+            inline=False
+        )
+        timer_embed.add_field(
+            name="Answer Timer",
+            value="• After buzzing, users have `5 seconds` to select an answer\n• Quick thinking is required!\n• Timer shows remaining time",
+            inline=False
+        )
+        embeds.append(timer_embed)
+        
+        # Page 4: Button System
+        button_embed = discord.Embed(
+            title="USNCO Bot - Button System",
+            description="Understanding the interactive buttons",
+            color=discord.Color.blue()
+        )
+        button_embed.add_field(
+            name="BUZZ Button",
+            value="• Click to attempt answering\n• Reveals answer choices A-D\n• Starts 5-second answer timer",
+            inline=False
+        )
+        button_embed.add_field(
+            name="Answer Choice Buttons",
+            value="• Green: Correct answer\n• Red: Wrong selection\n• Grey: Unselected options",
+            inline=False
+        )
+        button_embed.add_field(
+            name="Report Button",
+            value="• Report questions with errors\n• Opens a response form\n• Responses logged for review",
+            inline=False
+        )
+        embeds.append(button_embed)
+        
+        # Add footer to all embeds
+        for embed in embeds:
+            embed.set_footer(text="Use the buttons below to navigate between pages")
+        
+        return embeds
+
+    @app_commands.command(name="help", description="Learn how to use the USNCO Bot")
+    async def help(self, interaction: discord.Interaction):
+        await interaction.response.defer()
+        embeds = self.create_help_embeds()
+        view = HelpPage(embeds)
+        await interaction.followup.send(embed=embeds[0], view=view)
+    
     def _create_question_embed(self, question: Question) -> discord.Embed:
         embed = discord.Embed(
             title=f"Question ID: `{question.question_id or 'Unknown'}`",
