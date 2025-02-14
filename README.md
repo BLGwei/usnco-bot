@@ -43,7 +43,7 @@ button's color will be changed to red. All other answer choice buttons will rema
 + Upon interaction, the **Report** button will prompt the user with a short-response form. Upon detailing an error/complaint and submitting, the response will be logged into a CSV file for manual review.
 
 # FEATURES TO BE IMPLEMENTED
-- [ ] `/help` command which should send an embed containing the information above, but more brief and concise.
+- [x] `/help` command which should send an embed containing the information above, but more brief and concise.
 - [ ] paramaters to the `/question` command (*eg. Stoich, Thermo, OChem*) to allow for practicing of
 certain topics,
 - [ ] extension to other exams (*eg USABO, AcDec*)
