@@ -45,6 +45,7 @@ class Question:
             'image_path': data.get('image_path')
         }
         return cls(**cleaned_data)
+    
 
 class HelpPage(discord.ui.View):
     def __init__(self, embeds: list[discord.Embed]):
@@ -94,7 +95,7 @@ class HelpPage(discord.ui.View):
         self.current_page = len(self.embeds) - 1
         self.update_buttons()
         await interaction.response.edit_message(embed=self.embeds[self.current_page], view=self)
-        
+
 class ReportModal(ui.Modal, title="Report Question Error"):
     error_description = ui.TextInput(
         label="Please describe the error",
@@ -555,7 +556,7 @@ class USNCOQuizBot(commands.Bot):
     async def on_ready(self):
         activity = discord.Activity(
             type=discord.ActivityType.playing,
-            name='USNCO Practice'
+            name='/help'
         )
         await self.change_presence(activity=activity)
         print(f"{self.user} is ready! Loaded {len(self.questions)} questions.")
@@ -563,6 +564,11 @@ class USNCOQuizBot(commands.Bot):
 class QuizCommands(commands.Cog):
     def __init__(self, bot: USNCOQuizBot):
         self.bot = bot
+
+    @app_commands.command(name="ping", description="Check bot's latency")
+    async def ping(self, interaction: discord.Interaction):
+        latency = round(self.bot.latency * 1000)  # Convert to milliseconds and round
+        await interaction.response.send_message(f"Pong! 🏓\nLatency: `{latency}ms`")
 
     @app_commands.command(name="question", description="Get a random USNCO practice question")
     async def question(self, interaction: discord.Interaction):
@@ -600,6 +606,7 @@ class QuizCommands(commands.Cog):
         
         view.message = message
         view.timer_task = asyncio.create_task(view.start_timer())
+    
     def create_help_embeds(self) -> list[discord.Embed]:
         embeds = []
         
@@ -703,7 +710,7 @@ class QuizCommands(commands.Cog):
         embeds = self.create_help_embeds()
         view = HelpPage(embeds)
         await interaction.followup.send(embed=embeds[0], view=view)
-    
+        
     def _create_question_embed(self, question: Question) -> discord.Embed:
         embed = discord.Embed(
             title=f"Question ID: `{question.question_id or 'Unknown'}`",
