@@ -1,4 +1,0 @@
-Question Image Validation Report
-==============================
-
-No issues found!
