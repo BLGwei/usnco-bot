@@ -1,0 +1,662 @@
+[
+    {
+        "number": "1",
+        "text": "Benzene, C6H6, reacts with oxygen, O2, to form CO2 and H2O. How much O2 is required for the complete combustion of 1.0 mol C6H6?",
+        "options": {
+            "A": "6.0 mol",
+            "B": "7.5 mol",
+            "C": "9.0 mol",
+            "D": "12 mol"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "2",
+        "text": "A 10.00 g sample of a soluble barium salt is treated with an excess of sodium sulfate to precipitate 11.21 g BaSO4 (M = 233.4). Which barium salt is it?",
+        "options": {
+            "A": "BaCl2 (M = 208.2)",
+            "B": "Ba(O2CH)2 (M = 227.3)",
+            "C": "Ba(NO3)2 (M = 261.3)",
+            "D": "BaBr2 (M = 297.1)"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "3",
+        "text": "What is the concentration of nitrate ion in a 425 mL solution containing 32.0 g of Mg(NO3)2 (M = 148.3)?",
+        "options": {
+            "A": "0.216 M",
+            "B": "0.432 M",
+            "C": "0.508 M",
+            "D": "1.02 M"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "4",
+        "text": "The formula for terbium sulfate is",
+        "options": {
+            "A": "Tb2SO4",
+            "B": "TbSO4",
+            "C": "Tb2(SO4)3",
+            "D": "Tb(SO4)2"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "5",
+        "text": "A 25.0 mL sample of 0.15 M silver nitrate, AgNO3, is reacted with a 3.58 g sample of calcium chloride, CaCl2 (M = 111.0). Which of the following statements is true?",
+        "options": {
+            "A": "Silver nitrate is the limiting reactant and calcium nitrate precipitates.",
+            "B": "Silver nitrate is the limiting reactant and silver chloride precipitates.",
+            "C": "Calcium chloride is the limiting reactant and calcium nitrate precipitates.",
+            "D": "Calcium chloride is the limiting reactant and silver chloride precipitates."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "6",
+        "text": "Which aqueous solution exhibits the largest freezing point depression?",
+        "options": {
+            "A": "1.0 m KBr",
+            "B": "0.75 m C6H12O6",
+            "C": "0.5 m MgCl2",
+            "D": "0.25 m Ga2(SO4)3"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "7",
+        "text": "Which calcium compound is not appreciably more soluble in 0.1 M hydrochloric acid than it is in pure water?",
+        "options": {
+            "A": "Limestone, CaCO3",
+            "B": "Slaked lime, Ca(OH)2",
+            "C": "Gypsum, CaSO4 \u2022 2 H2O",
+            "D": "Hydroxyapatite, Ca5(OH)(PO4)3"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "8",
+        "text": "Which metal reacts most vigorously with water at 25 \u00b0C?",
+        "options": {
+            "A": "Na",
+            "B": "Mg",
+            "C": "K",
+            "D": "Ca"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "9",
+        "text": "Each of the following forms a colored aqueous solution EXCEPT",
+        "options": {
+            "A": "Cr(NO3)3",
+            "B": "Co(NO3)2",
+            "C": "Cu(NO3)2",
+            "D": "Zn(NO3)2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "10",
+        "text": "A student wishes to measure 37 mL of a liquid. Which apparatus would be most suitable?",
+        "options": {
+            "A": "50 mL graduated cylinder",
+            "B": "50 mL volumetric pipet",
+            "C": "50 mL beaker",
+            "D": "50 mL Erlenmeyer flask"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "11",
+        "text": "A 2.0 mL sample of a colorless solution, when treated with a few drops of 2 M hydrochloric acid, forms a white precipitate which dissolves when the solution is heated to boiling. The original solution could have contained which of the following cations? I. 0.1 M Ag+ II. 0.1 M Pb2+",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Either I or II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "12",
+        "text": "Which compound has the lowest normal boiling point?",
+        "options": {
+            "A": "HF",
+            "B": "HCl",
+            "C": "HBr",
+            "D": "HI"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "13",
+        "text": "Which of the following would lead to an increase in the vapor pressure of a liquid? I. Increasing the temperature II. Adding a nonvolatile solute",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "14",
+        "text": "A student is separating CHCl3 (bp = 61 \u00b0C) from CHCl2CHCl2 (bp = 146 \u00b0C) by distillation. She has just begun to collect the first distillate in the receiving flask. At what position in the apparatus will the temperature be 61 \u00b0C?",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "15",
+        "text": "How is the enthalpy of vaporization of a substance related to its enthalpy of fusion?",
+        "options": {
+            "A": "The enthalpy of vaporization is greater than the enthalpy of fusion.",
+            "B": "The enthalpy of vaporization is equal to the enthalpy of fusion.",
+            "C": "The enthalpy of vaporization is less than the enthalpy of fusion.",
+            "D": "There is no general relationship between a substance's enthalpy of vaporization and enthalpy of fusion."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "16",
+        "text": "A 3.0 L sample of helium gas is stored in a rigid, sealed container at 25 \u00b0C and 1.0 atm pressure. The temperature is increased to 125 \u00b0C. What is the new pressure of the gas?",
+        "options": {
+            "A": "0.20 atm",
+            "B": "0.75 atm",
+            "C": "1.3 atm",
+            "D": "5.0 atm"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "17",
+        "text": "Diamond is an example of what kind of solid?",
+        "options": {
+            "A": "Ionic",
+            "B": "Metallic",
+            "C": "Molecular",
+            "D": "Network covalent"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "18",
+        "text": "Which of the following is a mathematical statement of the first law of thermodynamics?",
+        "options": {
+            "A": "\u2206V = (nR/P)\u2206T",
+            "B": "\u2206E = q + w",
+            "C": "\u2206H = \u2206E + P\u2206V",
+            "D": "\u2206G = \u2206H \u2013 T\u2206S"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "19",
+        "text": "The cubic unit cell of a perovskite structure containing atoms of types A, B, and C is illustrated below. What is the empirical formula of this substance? = A = B = C",
+        "options": {
+            "A": "ABC",
+            "B": "ABC3",
+            "C": "AB4C6",
+            "D": "AB8C12"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "20",
+        "text": "The enthalpy change under standard conditions for which of the reactions below would be equal to the \u2206H\u00b0f of NaOH(s)?",
+        "options": {
+            "A": "Na(s) + H2O(l) \uf0ae NaOH(s) + 1/2 H2(g)",
+            "B": "Na(s) + 1/2 O2(g) + 1/2 H2(g) \uf0ae NaOH(s)",
+            "C": "Na(s) + 1/2 H2O2(l) \uf0ae NaOH(s)",
+            "D": "Na+(aq) + OH\u2013(aq) \uf0ae NaOH(s)"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "100",
+        "text": "g H2O at 22.0 \u00b0C in a well-insulated cup. What is the temperature after the system comes to equilibrium? (The specific heat capacity of Au is 0.129 J\u2022g\u20131\u2022K\u20131)",
+        "options": {
+            "A": "22.7 \u00b0C",
+            "B": "23.0 \u00b0C",
+            "C": "25.0 \u00b0C",
+            "D": "52.5 \u00b0C"
+        },
+        "correct_answer": null
+    },
+    {
+        "number": "22",
+        "text": "Which of these reactions has \u2206S\u00b0 > 0?",
+        "options": {
+            "A": "S8(l) \uf0ae S8(s, monoclinic)",
+            "B": "H2(g) + O2(g) \uf0ae H2O2(aq)",
+            "C": "H2(g) + 2 Ag+(aq) \uf0ae 2 H+(aq) + 2 Ag(s)",
+            "D": "PCl5(g) \uf0ae PCl3(g) + Cl2(g)"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "23",
+        "text": "Given the enthalpy changes: A + B \uf0ae C \u2206H = \u201335 kJ\u2022mol\u20131 A + D \uf0ae E + F \u2206H = +20 kJ\u2022mol\u20131 F \uf0ae C + E \u2206H = +15 kJ\u2022mol\u20131 What is \u2206H for the reaction 2A + B + D \u2192 2 F?",
+        "options": {
+            "A": "0 kJ\u2022mol\u20131",
+            "B": "\u201330 kJ\u2022mol\u20131",
+            "C": "\u201340 kJ\u2022mol\u20131",
+            "D": "\u201370 kJ\u2022mol\u20131"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "24",
+        "text": "The Ka of phosphoric acid, H3PO4, is 7.6 \uf0b4 10\u20133 at 25 \u00b0C. For the reaction H3PO4(aq) H2PO4\u2013(aq) + H+(aq) \u2206H\u00b0 = \u201314.2 kJ/mol. What is the Ka of H3PO4 at 60 \u00b0C?",
+        "options": {
+            "A": "4.2 \uf0b4 10\u20133",
+            "B": "6.8 \uf0b4 10\u20133",
+            "C": "8.5 \uf0b4 10\u20133",
+            "D": "1.8 \uf0b4 10\u20132"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "25",
+        "text": "For the reaction 5 O2(g) + 4 NH3(g) \uf0ae 4 NO(g) + 6 H2O(g) i rf a tN e H is3 His 2 Obe bin eg in c go fn os ru mm ee dd ? at a rate of 0.50 M\u2022s\u20131, at what",
+        "options": {
+            "A": "0.33 M\u2022s\u20131",
+            "B": "0.50 M\u2022s\u20131",
+            "C": "0.75 M\u2022s\u20131",
+            "D": "3.0 M\u2022s\u20131"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "26",
+        "text": "The rate of decomposition of hydrogen peroxide is first o rar td ee wr i an s H m2 eO a2 s. u rA edt [ tH o 2 bO e 2 4] .= 8 30 . \u00d71 5 10 0 \u2013M 6 M, t \u2022h se \u20131 d . e Wco hm ap t o iss i tt hio e n rate constant for the reaction?",
+        "options": {
+            "A": "2.15 \u00d7 10\u20134 s\u20131",
+            "B": "3.22 \u00d7 10\u20135 s\u20131",
+            "C": "4.83 \u00d7 10\u20136 s\u20131",
+            "D": "7.25 \u00d7 10\u20137 s\u20131"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "27",
+        "text": "In the reaction A \uf0ae B, a plot of 1/[A] vs. t is found to be linear. What is the reaction order in A?",
+        "options": {
+            "A": "Zeroth order",
+            "B": "First order",
+            "C": "Second order",
+            "D": "Third order"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "28",
+        "text": "The half-life of iodine-131 is 8.02 days. How long will it take for 80.% of the sample to decay?",
+        "options": {
+            "A": "2.6 days",
+            "B": "13 days",
+            "C": "19 days",
+            "D": "32 days"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "29",
+        "text": "For the reaction Cl2(aq) + 2 Br\u2013(aq) \uf0ae Br2(aq) + 2 Cl\u2013(aq) which of the following could be used to monitor the rate? I. pH meter II. Spectrophotometer",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Either I or II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "30",
+        "text": "For a reversible exothermic reaction, what is the effect of increasing temperature on the equilibrium constant (Keq) and on the forward rate constant (kf)?",
+        "options": {
+            "A": "Keq and kf both increase",
+            "B": "Keq and kf both decrease",
+            "C": "Keq increases and kf decreases",
+            "D": "Keq decreases and kf increases"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "31",
+        "text": "When 0.10 M solutions of ammonium acetate, barium acetate, and sodium acetate are ranked from least basic to most basic, what is the correct ordering?",
+        "options": {
+            "A": "NH4C2H3O2 < NaC2H3O2 < Ba(C2H3O2)2",
+            "B": "Ba(C2H3O2)2 < NH4C2H3O2 < NaC2H3O2",
+            "C": "NaC2H3O2 < Ba(C2H3O2)2 < NH4C2H3O2",
+            "D": "NaC2H3O2 < NH4C2H3O2 < Ba(C2H3O2)2"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "32",
+        "text": "What is the solubility of MgF2 (Ksp = 6.8 \uf0b4 10\u20139) in pure water?",
+        "options": {
+            "A": "6.8 \uf0b4 10\u20139 mol\u2022L\u20131",
+            "B": "5.8 \uf0b4 10\u20135 mol\u2022L\u20131",
+            "C": "8.2 \uf0b4 10\u20135 mol\u2022L\u20131",
+            "D": "1.2 \uf0b4 10\u20133 mol\u2022L\u20131"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "33",
+        "text": "What is the ratio Kc/Kp for the following reaction at 723 \u00b0C? O2(g) + 3 UO2Cl2(g) U3O8(s) + 3 Cl2(g)",
+        "options": {
+            "A": "0.0122",
+            "B": "1.00",
+            "C": "59.4",
+            "D": "81.8"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "34",
+        "text": "What is [H3O+] in a solution formed by dissolving 1.00 g NH4Cl (M = 53.5) in 30.0 mL of 3.00 M NH3 (Kb = 1.8 \uf0b4 10\u20135)?",
+        "options": {
+            "A": "2.7 \uf0b4 10\u20139 M",
+            "B": "5.5 \uf0b4 10\u201310 M",
+            "C": "1.2 \uf0b4 10\u201310 M",
+            "D": "1.4 \uf0b4 10\u201312 M"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "7",
+        "text": "What is Kf for Cu(OH)2(s) + 4 NH3(aq) Cu(NH3)42+(aq) + 2 OH\u2013(aq)",
+        "options": {
+            "A": "8.8 \uf0b4 10\u201327",
+            "B": "5.5 \uf0b4 10\u201314",
+            "C": "1.8 \uf0b4 1013",
+            "D": "1.1 \uf0b4 1026"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "36",
+        "text": "A 0.100 M aqueous solution of H2SeO3 is titrated with 1.000 M NaOH solution. At the point marked with a circle on the titration curve, which species represent at least 10% of the total selenium in solution?",
+        "options": {
+            "A": "H2SeO3 only",
+            "B": "Both H2SeO3 and HSeO3\u2013",
+            "C": "HSeO3\u2013 only",
+            "D": "Both HSeO3\u2013 and SeO32\u2013"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "37",
+        "text": "What is the oxidation number of C in formaldehyde, CH2O?",
+        "options": {
+            "A": "\u20132",
+            "B": "0",
+            "C": "+2",
+            "D": "+4"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "38",
+        "text": "In a galvanic cell in which the following spontaneous reaction takes place, what process occurs at the cathode? 3 Ce4+(aq) + Cr(s) \uf0ae 3 Ce3+(aq) + Cr3+(aq)",
+        "options": {
+            "A": "Reduction of Cr3+(aq)",
+            "B": "Reduction of Ce4+(aq)",
+            "C": "Oxidation of Cr(s)",
+            "D": "Oxidation of Ce3+(aq)"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "39",
+        "text": "Which two half reactions, when coupled, will make a galvanic cell that will produce the largest voltage under standard conditions? I. Cu2+(aq) + 2 e\u2013 \uf0ae Cu(s) E\uf0b0 = +0.34 V II. Pb2+(aq) + 2 e\u2013 \uf0ae Pb(s) E\uf0b0 = \u20130.13 V III. Ag+(aq) + e\u2013 \uf0ae Ag(s) E\uf0b0 = +0.80 V IV. Al3+(aq) + 3 e\u2013 \uf0ae Al(s) E\uf0b0 = \u20131.66 V",
+        "options": {
+            "A": "I and II",
+            "B": "I and IV",
+            "C": "II and IV",
+            "D": "III and IV"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "40",
+        "text": "An electrolysis cell is operated for 3000 s using a current of 1.50 A. From which 1.0 M solution will the greatest mass of metal be deposited?",
+        "options": {
+            "A": "TlNO3",
+            "B": "Pb(NO3)2",
+            "C": "ZnCl2",
+            "D": "In(NO3)3"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "41",
+        "text": "The reduction of O2 to H2O in acidic solution has a standard reduction potential of +1.23 V. What is the effect on the half-cell potential at 25 \u00b0C when the pH of the solution is increased by one unit? O2(g) + 4 H+(aq) + 4 e\u2013 \uf0ae 2 H2O(l)",
+        "options": {
+            "A": "The half-cell potential decreases by 59 mV.",
+            "B": "The half-cell potential increases by 59 mV.",
+            "C": "The half-cell potential decreases by 236 mV.",
+            "D": "The half-cell potential increases by 236 mV."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "42",
+        "text": "Given the two standard reduction potentials below, what is the Ksp of Ag2CrO4 at 25 \u00b0C? Ag2CrO4(s) + 2 e\u2013 \uf0ae 2 Ag(s) + CrO42\u2013(aq) E\u00ba = +0.446 V Ag+(aq) + e\u2013 \uf0ae Ag(s) E\u00ba = +0.799 V",
+        "options": {
+            "A": "8.64 \uf0b4 1011",
+            "B": "1.08 \uf0b4 10\u20136",
+            "C": "1.16 \uf0b4 10\u201312",
+            "D": "1.11 \uf0b4 10\u201339"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "43",
+        "text": "What is the value of the quantum number l for a 5p orbital?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "44",
+        "text": "Which element has chemical properties most similar to those of P?",
+        "options": {
+            "A": "N",
+            "B": "Al",
+            "C": "S",
+            "D": "As"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "45",
+        "text": "Which metal has the lowest melting point?",
+        "options": {
+            "A": "Li",
+            "B": "Na",
+            "C": "K",
+            "D": "Rb"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "46",
+        "text": "Which gas-phase atom has no unpaired electrons in its ground state?",
+        "options": {
+            "A": "Li",
+            "B": "Be",
+            "C": "B",
+            "D": "C"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "47",
+        "text": "Which halogen atom has the greatest electron affinity?",
+        "options": {
+            "A": "F",
+            "B": "Cl",
+            "C": "Br",
+            "D": "I"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "48",
+        "text": "Which electronic transition in atomic hydrogen corresponds to the emission of visible light?",
+        "options": {
+            "A": "n = 5 \uf0ae n = 2",
+            "B": "n = 1 \uf0ae n = 2",
+            "C": "n = 3 \uf0ae n = 4",
+            "D": "n = 3 \uf0ae n = 1"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "49",
+        "text": "Which species are linear? I. NO2+ II. I3\u2013",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "50",
+        "text": "The peroxymonosulfate anion, HSO5\u2013, has",
+        "options": {
+            "A": "five sulfur-oxygen bonds and no oxygen-oxygen bonds.",
+            "B": "four sulfur-oxygen bonds and one oxygen-oxygen bond.",
+            "C": "three sulfur-oxygen bonds and two oxygen-oxygen bonds.",
+            "D": "one sulfur-oxygen bond and four oxygen-oxygen bonds."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "51",
+        "text": "Which statement about bonding is correct?",
+        "options": {
+            "A": "A \uf073 bond has cylindrical symmetry about the bonding axis.",
+            "B": "A \u03c0 bond is twice as strong as a \uf073 bond.",
+            "C": "A double bond consists of two \u03c0 bonds.",
+            "D": "A \u03c0 bond results from the sideways overlap of hybridized orbitals."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "52",
+        "text": "What is the geometry of the chlorate ion, ClO3\u2013?",
+        "options": {
+            "A": "trigonal planar",
+            "B": "trigonal pyramidal",
+            "C": "T-shaped",
+            "D": "zigzag"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "53",
+        "text": "What is the bond order in NO?",
+        "options": {
+            "A": "1.0",
+            "B": "1.5",
+            "C": "2.0",
+            "D": "2.5"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "54",
+        "text": "In the Lewis structure of ozone, O3, what is the formal charge on the central oxygen?",
+        "options": {
+            "A": "2\u2013",
+            "B": "1\u2013",
+            "C": "0",
+            "D": "1+"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "55",
+        "text": "Hydrogenation of an alkene converts it to an",
+        "options": {
+            "A": "alkane.",
+            "B": "alkyne.",
+            "C": "alcohol.",
+            "D": "aldehyde."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "56",
+        "text": "What is the relationship between the two compounds below? CH3CH2CH(CH3)CH2CH3 CH3CH2CH2CH(CH3)CH3",
+        "options": {
+            "A": "Identical",
+            "B": "Stereoisomers",
+            "C": "Geometric isomers",
+            "D": "Structural isomers"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "57",
+        "text": "Which class of organic compounds does NOT contain oxygen?",
+        "options": {
+            "A": "Alcohol",
+            "B": "Amide",
+            "C": "Amine",
+            "D": "Ketone"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "58",
+        "text": "Compared to ionic compounds of similar molar mass, hydrocarbons typically have I. Higher water solubility II. Higher melting points",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "59",
+        "text": "Which of the following compounds could contain exactly one triple bond?",
+        "options": {
+            "A": "C5H10",
+            "B": "C5H12",
+            "C": "C6H10",
+            "D": "C6H12"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "60",
+        "text": "Which of the following is NOT classified as a biopolymer?",
+        "options": {
+            "A": "Collagen",
+            "B": "Glucose",
+            "C": "Cellulose",
+            "D": "Chitin END OF TEST"
+        },
+        "correct_answer": "B"
+    }
+]

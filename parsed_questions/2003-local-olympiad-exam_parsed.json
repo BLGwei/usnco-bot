@@ -1,0 +1,651 @@
+[
+    {
+        "number": "1",
+        "text": "Which anion forms the smallest number of insoluble salts?",
+        "options": {
+            "A": "Cl-",
+            "B": "NO3-",
+            "C": "CO32-",
+            "D": "SO42-"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "2",
+        "text": "Which piece of apparatus can measure a volume of 25.0 mL most precisely?",
+        "options": {
+            "A": "25 mL beaker",
+            "B": "25 mL conical flask",
+            "C": "25 mL graduated",
+            "D": "25 mL pipet cylinder"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "3",
+        "text": "How many significant figures should be reported in the answer to the calculation (Assume all numbers are experimentally determined.) 12.501\u00d73.52+6.044 0.0042",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "4",
+        "text": "Five pellets of a metal have a total mass of 1.25 g and a total volume of 0.278 mL. What is the density of the metal in g\u00b7mL-1?",
+        "options": {
+            "A": "0.348",
+            "B": "0.900",
+            "C": "4.50",
+            "D": "22.5"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "5",
+        "text": "What is the color of the flame test for sodium?",
+        "options": {
+            "A": "green",
+            "B": "red",
+            "C": "violet",
+            "D": "yellow"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "6",
+        "text": "When is it acceptable to eat in a chemistry laboratory?",
+        "options": {
+            "A": "Anytime when a person is not doing an experiment.",
+            "B": "Whenever there are no hazardous chemicals out.",
+            "C": "If it is necessary to do so in order to keep another appointment.",
+            "D": "Never."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "7",
+        "text": "Selenium (Se) is similar to sulfur in its properties and francium (Fr) is an alkali metal. What is the formula for francium selenite?",
+        "options": {
+            "A": "FrSeO2",
+            "B": "Fr2SeO4",
+            "C": "Fr2SeO3",
+            "D": "Fr2Se2O3\nIONS the corresponding space on the answer sheet using a soft, #2 ide to change an answer, erase the unwanted mark very carefully. s for which more than one response has been blackened will not er correctly. It is to your advantage to answer every question."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "4",
+        "text": "(N2H5)2SO4 162.2",
+        "options": {
+            "A": "10.8",
+            "B": "17.3",
+            "C": "34.5",
+            "D": "51.2"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "9",
+        "text": "How many ozone molecules are in 3.20 g of O3?",
+        "options": {
+            "A": "4.0 \u00d7 10^22",
+            "B": "6.0 \u00d7 10^22",
+            "C": "1.2 \u00d7 10^23",
+            "D": "6.0 \u00d7 10^23"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "10",
+        "text": "A unc be aty lale nn ce e, d C e2qH u2a, t ir oe na :cts with oxygen according to the C2H2 (g) + O2 (g) r CO2 (g) + H2O(g) W bah laa nt ci es d t ?he O2/C2H2 ratio when this equation is correctly",
+        "options": {
+            "A": "2/1",
+            "B": "3/1",
+            "C": "4/1",
+            "D": "5/2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "11",
+        "text": "S toi l hic igo hn tc ea mrb pi ed re a, tS uriC es, ais c cp oro rdd iu nc ge td o b ty h eh ee qat ui an tg io S ni :O2 and C SiO2 (s) + 3C(s) r SiC(s) + 2CO(g) How many grams of SiC could be formed by reacting 2.00 g of SiO and 2.00 g of C? 2",
+        "options": {
+            "A": "1.33",
+            "B": "2.26",
+            "C": "3.59",
+            "D": "4.00"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "12",
+        "text": "A s f Noo ard m 27 i Su. s6 Om 6 4 4 . .sg 0 u W 6s l a f hgam a t oe tp f, il se N a n to a hh2f eS y h dO vy r a4d o l. ur uxa esHt e o2d O f x, ? M No a2l Sar O m 4 a s s , g \u00b7 1m 42ol-1",
+        "options": {
+            "A": "0.2",
+            "B": "3.6",
+            "C": "5",
+            "D": "7"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "13",
+        "text": "Silver metal reacts with nitric acid according to the equation: 3Ag(s) + 4HNO3(aq) 3 r AgNO3 (aq) + NO(g) + 2H2O(l) W wih tha t 0 v .7o 8lu 4m ge o o f f s 1 il. v1 e5 r ?M HNO3(aq) is required to react",
+        "options": {
+            "A": "4.74 mL",
+            "B": "6.32 mL",
+            "C": "8.43 mL",
+            "D": "25.3 mL"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "14",
+        "text": "Which solute produces the highest boiling point in a 0.15 m aqueous solution?",
+        "options": {
+            "A": "CaCl2",
+            "B": "NaBr",
+            "C": "CuSO4",
+            "D": "CH3OH"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "15",
+        "text": "A gas has a volume of 6.0 L at a pressure of 0.80 atm. What is the volume if the pressure is changed to 0.20 atm at constant temperature?",
+        "options": {
+            "A": "1.5 L",
+            "B": "3.0 L",
+            "C": "12 L",
+            "D": "24 L"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "16",
+        "text": "Which will increase the 1 increase in temperature vapor pressure of a liquid? 2 increase in surface area",
+        "options": {
+            "A": "1 only",
+            "B": "2 only",
+            "C": "Both 1 and 2",
+            "D": "Neither 1 nor 2"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "17",
+        "text": "What pressure (in atm) will be exerted by a 1.00 g sample of methane, CH4, in a 4.25 L flask at 115\u02daC?",
+        "options": {
+            "A": "0.139",
+            "B": "0.330",
+            "C": "0.467",
+            "D": "7.50"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "18",
+        "text": "The lowest melting points overall occur for members of which class of solids?",
+        "options": {
+            "A": "ionic",
+            "B": "metallic",
+            "C": "molecular",
+            "D": "network covalent"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "19",
+        "text": "What are the strongest intermolecular force between neighboring carbon tetrachloride, CCl4, molecules?",
+        "options": {
+            "A": "dipole-dipole forces",
+            "B": "dispersion forces",
+            "C": "hydrogen bonds",
+            "D": "covalent bonds"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "20",
+        "text": "According to the phase diagram shown, where K does a mixture of solid L a en qd u il li iq bu rii ud m e ?xist at Pressure N M Temperature",
+        "options": {
+            "A": "along line MN",
+            "B": "along line KN",
+            "C": "along line LN",
+            "D": "in the region KNL"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "21",
+        "text": "C rea lelc au sela dt e w t hh ee n a 0m .1o 0u 0n t m o of le on fergy \u2206\u2206\u2206\u2206Hf\u02da, (kJ.mol-1) d o ani xb dyo g sr e ta enn a e t mo, B .p2rH od6, u r ce ea sc ots l iw d i Bth 2O3 B B H2 2 2H O O6 3 (( ( l)g s )) - 1 - 223 875 52 H2O(g) -241",
+        "options": {
+            "A": "203 kJ",
+            "B": "216 kJ",
+            "C": "330 kJ",
+            "D": "343 kJ 22 How much heat is required Specific heat, J \u00b7g-1\u00b7\u02daC-1 to raise the temperature of 1 to0 0"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "2",
+        "text": "5 g .0 o \u02daCf ?Fe2O3 from 5.0\u02daC Fe2O3 0.634",
+        "options": {
+            "A": "1.58 kJ",
+            "B": "1.27 kJ",
+            "C": "0.845 kJ",
+            "D": "0.0634 kJ"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "23",
+        "text": "Given the thermochemical equations: B B der r t2 2 e( (l l r) ) m + + i nF 3 eF2 ( \u22062g () Hg ) \u02da r r fo 2 2 r B B thr rF F e ( 3 rg ( eg) a) ction \u2206 \u2206H H\u02da \u02da = = - -1 78 68 8 k kJ J BrF(g) + F2(g) r BrF3(g) \u2206H\u02da = ?",
+        "options": {
+            "A": "-956 kJ",
+            "B": "-580 kJ",
+            "C": "-478 kJ",
+            "D": "-290 kJ"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "2",
+        "text": "3 5 0m 2 9 7ol-1 O=O 494",
+        "options": {
+            "A": "-521 kJ",
+            "B": "-486 kJ",
+            "C": "-199 kJ",
+            "D": "199 kJ"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "26",
+        "text": "A homogeneous liquid reaction mixture is often heated to increase the rate of reaction. This is best explained by the fact that raising the temperature",
+        "options": {
+            "A": "increases the heat of reaction.",
+            "B": "decreases the energy of activation.",
+            "C": "increases the vapor pressure of the liquid",
+            "D": "increases the average kinetic energy of the reactants."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "27",
+        "text": "For the reaction, 2A + B r C which relationship is correct?",
+        "options": {
+            "A": "\u2206[A] = \u2206[C]",
+            "B": "-\u2206[A] = \u2206[C]",
+            "C": "-2\u2206[A] = \u2206[C]",
+            "D": "-\u2206[A] = 2\u2206[C]"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "2",
+        "text": "Increasing the surface area of MnO2(s)",
+        "options": {
+            "A": "1 only",
+            "B": "2 only",
+            "C": "Both 1 and 2",
+            "D": "Neither 1 and 2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "29",
+        "text": "Which is constant for different reactant concentrations in a first-order reaction?",
+        "options": {
+            "A": "The time required for the concentration of reactants to drop below 0.001 M.",
+            "B": "The time required for one-half of reactants to disappear.",
+            "C": "The rate of disappearance of reactants in mol.L-1 .time-(1).",
+            "D": "The rate of formation of products in mol.L-1 .time-(1)."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "30",
+        "text": "The reaction, 3I-(aq) + S2O82-(aq) r I3-(aq) + 2SO42\u2013(aq) yields the kinetic data in the table. [I-]o (mol.L-1) [S2O82-]o (mol.L-1) Relative Rate 0.001 0.001 1 0.002 0.001 2 0.002 0.002 4 What is the rate equation?",
+        "options": {
+            "A": "Rate = k[I-][ S2O82-]",
+            "B": "Rate = k[I-]2[S2O82-]",
+            "C": "Rate = k[I-]3[S2O82-]",
+            "D": "Rate = k[I-]2[S2O82-]2"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "31",
+        "text": "For the reaction, 2CCl4(g) + O2(g) s 2COCl2(g) + 2Cl2(g) what is the equilibrium expression, Kc?",
+        "options": {
+            "A": "K = [COCl 2][Cl 2]",
+            "B": "K = 2[COCl 2][Cl 2] c [CCl ][O ] c [CCl ][O ] 4 2 4 2",
+            "C": "K = [COCl 2][Cl 2]2",
+            "D": "K = [COCl 2]2[Cl 2]2 c [CCl ][O ] c [CCl ]2[O ] 4 2 4 2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "3",
+        "text": "Adding a catalyst",
+        "options": {
+            "A": "1 only",
+            "B": "3 only",
+            "C": "1 and 3 only",
+            "D": "1, 2 and 3"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "33",
+        "text": "What is the [H+] in a 0.10 M Ka solution of ascorbic acid, C6H8O6? C6H8O6 8.0 \u00d7 10^-5",
+        "options": {
+            "A": "8.0 \u00d7 10^-6 M",
+            "B": "2.8 \u00d7 10^-3 M",
+            "C": "4.0 \u00d7 10^-3 M",
+            "D": "5.3 \u00d7 10^-3 M"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "34",
+        "text": "A 0.10 M solution of which salt is the most acidic?",
+        "options": {
+            "A": "NH4C2H3O2",
+            "B": "NaCN",
+            "C": "KNO3",
+            "D": "AlCl3"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "00",
+        "text": "This can be accomplished HNO2 4.5 \u00d7 10^-4 by using a solution containing HCN 4.9 \u00d7 10^-10 which of the following?",
+        "options": {
+            "A": "HNO2 only",
+            "B": "HCN only",
+            "C": "HNO2 and NaNO2",
+            "D": "HCN and NaCN"
+        },
+        "correct_answer": null
+    },
+    {
+        "number": "36",
+        "text": "A saturated solution of Ksp w loh wic eh st c [o Cm a2p +o ]?und has the CaF2 4.0 \u00d7 10^-11 CaCO3 8.7 \u00d7 10^-9 Ca(OH)2 8.0 \u00d7 10^-6 CaSO4 2.4 \u00d7 10^-5",
+        "options": {
+            "A": "CaF2",
+            "B": "CaCO3",
+            "C": "Ca(OH)2",
+            "D": "CaSO4"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "37",
+        "text": "Which reaction occurs at the cathode during the electrolysis of an aqueous solution of KCl?",
+        "options": {
+            "A": "K+(aq) + e- r K(s)",
+            "B": "2 H2O(l) + 2e- r H2(g) + 2OH-(aq)",
+            "C": "2Cl-(aq) r Cl2(g) + 2e-",
+            "D": "2H2O(l) r O2(g) + 4H+(aq) + 4e-"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "2",
+        "text": "Electrons flow from the cathode to the anode.",
+        "options": {
+            "A": "1 only",
+            "B": "2 only",
+            "C": "Both 1 and 2",
+            "D": "Neither 1 nor 2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "39",
+        "text": "MnO4- + NO2- + H+ r Mn2+ + NO3- + H2O When this equation is balanced correctly with the smallest integer coefficients, what is the coefficient for H+?",
+        "options": {
+            "A": "1",
+            "B": "6",
+            "C": "8",
+            "D": "16"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "40",
+        "text": "An electrochemical cell constructed for the reaction: Cu2+(aq) + M(s) r Cu(s) + M2+(aq) has an E\u02da = 0.75 V. The standard reduction potential for Cu2+(aq) is 0.34 V. What is the standard reduction potential for M2+(aq)?",
+        "options": {
+            "A": "1.09 V",
+            "B": "0.410 V",
+            "C": "-(0).410 V",
+            "D": "-(1).09 V"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "41",
+        "text": "In which case does chromium undergo reduction?",
+        "options": {
+            "A": "CrO3 r CrOF3",
+            "B": "Cr3+ r Cr(OH)4-",
+            "C": "2CrO42- r Cr2O72-",
+            "D": "Cr3+ r CrO42-"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "42",
+        "text": "1.0 M aqueous solutions of A iA ng u tN ( hN eO O a3 p, 3 ) pC 3a u a r( arN e tu O e sl 3e s) hc2 t oa r won ld ny ,z se od the same amount of electricity passes through each solution. If 0.10 moles of solid Cu are formed how Ag+ Cu2+ Au3+ many moles of Ag and Au are formed?",
+        "options": {
+            "A": "0.10 moles Ag, 0.10 moles Au",
+            "B": "0.05 moles Ag, 0.075 moles Au",
+            "C": "0.05 moles Ag, 0.15 moles Au",
+            "D": "0.20 moles Ag, 0.067 moles Au"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "43",
+        "text": "In a hydrogen atom, which transition produces a photon with the highest energy?",
+        "options": {
+            "A": "n = 3 r n = 1",
+            "B": "n = 5 r n = 3",
+            "C": "n = 12 r n = 10",
+            "D": "n = 22 r n = 20"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "44",
+        "text": "How many orbitals in a ground state oxygen atom are completely filled?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "45",
+        "text": "Which atom has the smallest first ionization energy?",
+        "options": {
+            "A": "Na",
+            "B": "K",
+            "C": "Mg",
+            "D": "Ca"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "2",
+        "text": "How many unpaired electrons are present in a gaseous Co3+ ion in its ground state?",
+        "options": {
+            "A": "6",
+            "B": "4",
+            "C": "2",
+            "D": "0"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "47",
+        "text": "When the atoms; P (Z = 15), S (Z = 16) and As (Z = 33), are arranged in order of increasing radius, what is the correct order?",
+        "options": {
+            "A": "P, S, As",
+            "B": "As, S, P",
+            "C": "S, P, As",
+            "D": "P, As, S"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "48",
+        "text": "The oxide of which element is the most ionic?",
+        "options": {
+            "A": "Al",
+            "B": "B",
+            "C": "C",
+            "D": "Si"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "49",
+        "text": "All of the following lists include at least one ionic compound EXCEPT",
+        "options": {
+            "A": "NO2, NaNO2, KNO3",
+            "B": "CF4, CaF2, HF",
+            "C": "NaCl, MgCl2, SCl2",
+            "D": "H2S, SO2, SF6"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "50",
+        "text": "Which species below has the same general shape as NH ? 3",
+        "options": {
+            "A": "SO32-",
+            "B": "CO32-",
+            "C": "NO3-",
+            "D": "SO3"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "51",
+        "text": "When forming covalent bonds, which atom can have more than eight valence electrons?",
+        "options": {
+            "A": "H",
+            "B": "N",
+            "C": "F",
+            "D": "Cl"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "52",
+        "text": "Which diatomic molecule has the shortest bond length?",
+        "options": {
+            "A": "N2",
+            "B": "O2",
+            "C": "F2",
+            "D": "S2"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "53",
+        "text": "Which species is nonpolar?",
+        "options": {
+            "A": "HCl",
+            "B": "OCl2",
+            "C": "NCl3",
+            "D": "CCl4"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "54",
+        "text": "In which species are all the carbon atoms considered to be sp2 hybridized?",
+        "options": {
+            "A": "C2H2",
+            "B": "C2H4",
+            "C": "C3H8",
+            "D": "C4H10"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "55",
+        "text": "Which formula can be used to represent an alkynes?",
+        "options": {
+            "A": "CnH2n-2",
+            "B": "CnH2n",
+            "C": "CnH2n+2",
+            "D": "CnH2n+4"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "56",
+        "text": "How many different structural isomers exist for dichloropropane, C3H6Cl2?",
+        "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "some other number"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "57",
+        "text": "All of the formulas below correspond to stable compounds EXCEPT",
+        "options": {
+            "A": "CH2O",
+            "B": "CH2O2",
+            "C": "CH3O",
+            "D": "CH4O"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "58",
+        "text": "W shoh wic nh ao rf e t h ise o c mo em rsp ?ounds 1 2 C CH H3 3C CH H2 2O OC CH H3 2CH3 3 CH3CH2CH2OH 4 CH2=CHOCH3",
+        "options": {
+            "A": "1 and 3",
+            "B": "1 and 2",
+            "C": "2 and 3",
+            "D": "1 and 4"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "59",
+        "text": "Which functional group is present in CH COOH? 3",
+        "options": {
+            "A": "aldehyde",
+            "B": "carboxylic acid",
+            "C": "alcohol",
+            "D": "hydroperoxide"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "60",
+        "text": "How many sigma bonds does a molecule of ethene have?",
+        "options": {
+            "A": "1",
+            "B": "4",
+            "C": "5",
+            "D": "7"
+        },
+        "correct_answer": "C"
+    }
+]

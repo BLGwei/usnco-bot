@@ -1,0 +1,767 @@
+[
+    {
+        "number": "1",
+        "text": "Boron carbide, B4C, is made by the high temperature reaction of boron oxide with graphite, yielding carbon monoxide as a by-product. __ B2O3 + __ C \uf0ae __ B4C + __ CO What is the total of the smallest coefficients for the reactants and products in the balanced equation?",
+        "options": {
+            "A": "9",
+            "B": "10",
+            "C": "15",
+            "D": "16"
+        },
+        "correct_answer": "D",
+        "question_id": "220141",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220141.png"
+    },
+    {
+        "number": "1",
+        "text": "What is its molecular formula?",
+        "options": {
+            "A": "C13H9O4",
+            "B": "C14H10O4",
+            "C": "C13H6O4",
+            "D": "C15H14O3"
+        },
+        "correct_answer": "D",
+        "question_id": "220141",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220141.png"
+    },
+    {
+        "number": "3",
+        "text": "Aluminum reacts with sulfur to form aluminum sulfide. If 31.9 g of Al are reacted with 72.2 g of S, what is the theoretical yield of aluminum sulfide in grams?",
+        "options": {
+            "A": "88.8 g",
+            "B": "69.7 g",
+            "C": "57.2 g",
+            "D": "113 g"
+        },
+        "correct_answer": "A",
+        "question_id": "220143",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220143.png"
+    },
+    {
+        "number": "4",
+        "text": "According to EPA guidelines the permissible level for lead in drinking water is 15 parts per billion (ppb). What is the maximum allowable mass of lead that could be present in 1.00 L of H2O?",
+        "options": {
+            "A": "0.015 ng",
+            "B": "0.015 \u00b5g",
+            "C": "0.015 mg",
+            "D": "0.015 g"
+        },
+        "correct_answer": "C",
+        "question_id": "220144",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220144.png"
+    },
+    {
+        "number": "5",
+        "text": "Aqueous solutions of electrolytes that produce two ions upon ionization typically exhibit freezing point depressions that are twice as large as solutions of non- electrolytes with the same concentration. Which 0.10 M electrolyte solution will show the smallest depression?",
+        "options": {
+            "A": "HCl",
+            "B": "NaBr",
+            "C": "KNO3",
+            "D": "MgSO4"
+        },
+        "correct_answer": "D",
+        "question_id": "220145",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220145.png"
+    },
+    {
+        "number": "6",
+        "text": "Interferon is a water-soluble protein. A solution prepared by dissolving 15.0 mg of interferon in 2.50 mL of H2O exhibits an osmotic pressure of 5.80 mm Hg at 25 \u00b0C. What is the molar mass of interferon?",
+        "options": {
+            "A": "1.92 \u00d7 10^4 g\u2022mol\u20131",
+            "B": "1.92 \u00d7 10^7 g\u2022mol\u20131",
+            "C": "1.95 \u00d7 10^6 g\u2022mol\u20131",
+            "D": "1.61 \u00d7 10^3 g\u2022mol\u20131"
+        },
+        "correct_answer": "A",
+        "question_id": "220146",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220146.png"
+    },
+    {
+        "number": "7",
+        "text": "Which noble gas is most abundant in the earth's atmosphere?",
+        "options": {
+            "A": "He",
+            "B": "Ne",
+            "C": "Ar",
+            "D": "Rn"
+        },
+        "correct_answer": "C",
+        "question_id": "220147",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220147.png"
+    },
+    {
+        "number": "8",
+        "text": "Which of the acids below has the most ionizable hydrogen atoms per molecule? I. H3PO4 II. H3PO3 III. H3PO2",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "III only",
+            "D": "Each one contains the same number of ionizable H atoms."
+        },
+        "correct_answer": "A",
+        "question_id": "220148",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220148.png"
+    },
+    {
+        "number": "9",
+        "text": "Aluminum is most often found in nature as the",
+        "options": {
+            "A": "carbonate.",
+            "B": "chloride.",
+            "C": "oxide.",
+            "D": "sulfide."
+        },
+        "correct_answer": "C",
+        "question_id": "220149",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220149.png"
+    },
+    {
+        "number": "10",
+        "text": "According to the Tyndall effect, a beam of light becomes visible when passed through all of the following except a(n)",
+        "options": {
+            "A": "aerosol.",
+            "B": "colloid.",
+            "C": "emulsion.",
+            "D": "solution."
+        },
+        "correct_answer": "D",
+        "question_id": "2201410",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201410.png"
+    },
+    {
+        "number": "11",
+        "text": "All of the following can be used as primary standards in acid-base titrations EXCEPT",
+        "options": {
+            "A": "oxalic acid.",
+            "B": "potassium hydrogen phthalate.",
+            "C": "sodium carbonate.",
+            "D": "sodium hydroxide."
+        },
+        "correct_answer": "D",
+        "question_id": "2201411",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201411.png"
+    },
+    {
+        "number": "12",
+        "text": "Which of the graphs shown below would best represent the changes when 0.10 M barium hydroxide was titrated with 0.10 M sulfuric acid?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "m after April 28, 2014"
+        },
+        "correct_answer": "C",
+        "question_id": "2201412",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201412.png"
+    },
+    {
+        "number": "13",
+        "text": "Which physical property decreases with an increase in intermolecular molecular forces?",
+        "options": {
+            "A": "boiling point",
+            "B": "enthalpy of vaporization",
+            "C": "vapor pressure",
+            "D": "viscosity"
+        },
+        "correct_answer": "C",
+        "question_id": "2201413",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201413.png"
+    },
+    {
+        "number": "14",
+        "text": "A 0.180 g sample of liquid H2O is injected into a 5.00 L flask at 25 \u00b0C. What will be present in the flask when equilibrium is established? (Vapor pressure H2O at 25 \u00b0C = 23.8 mm Hg)",
+        "options": {
+            "A": "H2O vapor at a pressure of 186 mm Hg",
+            "B": "H2O vapor at a pressure of 37.2 mm Hg",
+            "C": "liquid H2O and H2O vapor at a pressure of 37.2 mm Hg",
+            "D": "liquid H2O and H2O vapor at a pressure of 23.8 mm Hg"
+        },
+        "correct_answer": "D",
+        "question_id": "2201414",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201414.png"
+    },
+    {
+        "number": "15",
+        "text": "The atmospheric pressure on the summit of Mt. Everest is 0.333 atmospheres. At what temperature (in \u00b0C) does H2O boil there? (\u2206Hvap H2O = 40.7 kJ\u2022mol\u20131)",
+        "options": {
+            "A": "71 \u00b0C",
+            "B": "87 \u00b0C",
+            "C": "96 \u00b0C",
+            "D": "98 \u00b0C"
+        },
+        "correct_answer": "A",
+        "question_id": "2201415",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201415.png"
+    },
+    {
+        "number": "16",
+        "text": "The arrangement of ions in a solid is best investigated by means of",
+        "options": {
+            "A": "infrared spectroscopy.",
+            "B": "mass spectroscopy.",
+            "C": "UV-visible spectroscopy.",
+            "D": "x-ray crystallography."
+        },
+        "correct_answer": "D",
+        "question_id": "2201416",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201416.png"
+    },
+    {
+        "number": "17",
+        "text": "Benzene and toluene form an ideal solution. The vapor pressure of benzene at 55 \u00b0C is 400 mm Hg while the vapor pressure of toluene at 55 \u00b0C is 130 mm Hg. What is the vapor pressure of a solution consisting of 0.5 mole fraction of benzene and 0.5 mole fraction of toluene at 55 \u00b0C?",
+        "options": {
+            "A": "lower than 130 mm Hg",
+            "B": "between 130 and 400 mm Hg",
+            "C": "exactly 400 mm Hg",
+            "D": "greater than 400 mm Hg"
+        },
+        "correct_answer": "B",
+        "question_id": "2201417",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201417.png"
+    },
+    {
+        "number": "18",
+        "text": "An oxide of rhenium crystallizes with eight rhenium atoms at the corners of the unit cell and 12 oxygen atoms on the edges between them. What is the formula of this oxide?",
+        "options": {
+            "A": "ReO",
+            "B": "Re2O3",
+            "C": "ReO2",
+            "D": "ReO3"
+        },
+        "correct_answer": "D",
+        "question_id": "2201418",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201418.png"
+    },
+    {
+        "number": "20",
+        "text": "At what temperature does the reaction below change from favoring products to favoring reactants? SO2(g) + \u00bd O2(g) SO3(g) SO2(g) O2(g) SO3(g) \u2206Hf\u00b0, kJ\u2022mol\u20131 \u2013296.8 \u2013395.7 S\u00b0, kJ\u2022mol\u20131\u2022K-1 0.248 0.205 0.257",
+        "options": {
+            "A": "162 K",
+            "B": "509 K",
+            "C": "1060 K",
+            "D": "1540 K"
+        },
+        "correct_answer": "C",
+        "question_id": "2201420",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201420.png"
+    },
+    {
+        "number": "21",
+        "text": "Which isomer of C4H8 has the lowest absolute entropy at 25 \u00b0C?",
+        "options": {
+            "A": "1-butene",
+            "B": "cis-2-butene",
+            "C": "trans-2-butene",
+            "D": "cyclobutane"
+        },
+        "correct_answer": "D",
+        "question_id": "2201421",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201421.png"
+    },
+    {
+        "number": "22",
+        "text": "A 10.0 g piece of gallium (M = 69.7) at 25.0 \u00b0C is placed in 10.0 g of H2O at 55.0 \u00b0C. What is the final temperature when this system comes to equilibrium? (Assume the specific heat capacity of liquid Ga is the same as that of solid Ga.) Cp, J\u2022g\u20131\u2022K\u20131 melting point \u2206Hfus, kJ\u2022mol\u20131 \u00b0C Ga 0.371 30.0 5.576 H2O 4.184",
+        "options": {
+            "A": "35.0 \u00b0C",
+            "B": "38.1 \u00b0C",
+            "C": "41.8 \u00b0C",
+            "D": "52.6 \u00b0C"
+        },
+        "correct_answer": "A",
+        "question_id": "2201422",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201422.png"
+    },
+    {
+        "number": "23",
+        "text": "In the Born-Haber calculation of the lattice enthalpy of LiF from its elements, which process is exothermic?",
+        "options": {
+            "A": "dissociation energy of F2(g)",
+            "B": "electron affinity of F(g)",
+            "C": "ionization energy of Li(g)",
+            "D": "sublimation energy of Li(s)"
+        },
+        "correct_answer": "B",
+        "question_id": "2201423",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201423.png"
+    },
+    {
+        "number": "24",
+        "text": "How much work is done by the gas when 1.00 g of sodium azide, NaN3 (M = 65.01 g\u2022mol\u20131), decomposes in a container of changeable volume (e.g. an airbag in a car) against a constant pressure of 1.00 atm at 298 K? 2 NaN3(s) \uf0ae 2 Na(s) + 3 N2(g)",
+        "options": {
+            "A": "+114 J",
+            "B": "+57.2 J",
+            "C": "\u2013114 J",
+            "D": "\u201357.2 J"
+        },
+        "correct_answer": "B",
+        "question_id": "2201424",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201424.png"
+    },
+    {
+        "number": "25",
+        "text": "When the kinetics of the reaction, 2 A + 2 B \uf0ae C, were studied using the method of initial rates, the data in the table below were obtained. Initial Rate of Trial [A]0 in mol\u2022L\u20131 m[B ol] \u20220 L in \u20131 F io nr mm oa lt \u2022io Ln \u20131 o \u2022sf \u2013 C 1 1 0.060 0.040 3.6 \u00d7 10\u20134 2 0.060 0.080 7.2 \u00d7 10\u20134 3 0.030 0.12 5.4 \u00d7 10\u20134 What is the rate law for the reaction?",
+        "options": {
+            "A": "Rate = k[A][B]",
+            "B": "Rate = k[A]2[B]",
+            "C": "Rate = k[A][B]2",
+            "D": "Rate = k[A]2[B]2"
+        },
+        "correct_answer": "A",
+        "question_id": "2201425",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201425.png"
+    },
+    {
+        "number": "26",
+        "text": "2 NO2(g) \uf0ae 2 NO(g) + O2(g) For the reaction above, a straight line for which plot indicates a second order reaction?",
+        "options": {
+            "A": "[NO2] vs. time",
+            "B": "[NO2]2 vs. time",
+            "C": "1/[NO2] vs. time",
+            "D": "1/[NO2]2 vs. time"
+        },
+        "correct_answer": "C",
+        "question_id": "2201426",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201426.png"
+    },
+    {
+        "number": "27",
+        "text": "What are the units for the rate constant of a zero-order reaction?",
+        "options": {
+            "A": "time",
+            "B": "time\u20131",
+            "C": "M\u2022time",
+            "D": "M\u2022time\u20131"
+        },
+        "correct_answer": "D",
+        "question_id": "2201427",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201427.png"
+    },
+    {
+        "number": "28",
+        "text": "From the energy profiles for the two unimolecular reactions below, how will the rates of the two reactions compare if the temperature of each reaction is increased from 25 \u00b0C to 75 \u00b0C?",
+        "options": {
+            "A": "The rate of reaction A \uf0ae B will increase more than the rate of reaction C \uf0ae D.",
+            "B": "The rate of reaction C \uf0ae D will increase more than the rate of reaction A \uf0ae B.",
+            "C": "The rates of the two reactions will increase by the same amount.",
+            "D": "The rate of reaction A \uf0ae B will increase but the rate of reaction C \uf0ae D will decrease."
+        },
+        "correct_answer": "C",
+        "question_id": "2201428",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201428.png"
+    },
+    {
+        "number": "29",
+        "text": "The half-life of a first-order reaction is 1.5 hours. How much time is needed for 94% of the reactant to change to product?",
+        "options": {
+            "A": "0.13 hours",
+            "B": "6.1 hours",
+            "C": "2.3 hours",
+            "D": "36 hours"
+        },
+        "correct_answer": "B",
+        "question_id": "2201429",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201429.png"
+    },
+    {
+        "number": "30",
+        "text": "For the reaction, 2 A + B \uf0ae C + D, the rate law is rate = k[B]. Which of the following mechanisms would be consistent with this information?",
+        "options": {
+            "A": "A + B \uf0ae M (slow)",
+            "B": "A + A \uf0ae M (fast) A + M \uf0ae C + D (fast) B + M \uf0ae C + D (slow)",
+            "C": "B \uf0ae M (slow)",
+            "D": "B \uf0ae M (fast) M + A \uf0ae N (fast) M + A \uf0ae N (slow) N + A \uf0ae C + D (fast) N + A \uf0ae C + D (fast)"
+        },
+        "correct_answer": "C",
+        "question_id": "2201430",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201430.png"
+    },
+    {
+        "number": "31",
+        "text": "A 50.0 mL sample of a 1.00 M solution of a diprotic acid H2A (Ka1 = 1.0 \u00d7 10\u20136 and Ka2 = 1.0 \u00d7 10\u201310) is titrated with 2.00 M NaOH. What is the minimum volume of 2.00 M NaOH needed to reach a pH of 10.00?",
+        "options": {
+            "A": "12.5 mL",
+            "B": "37.5 mL",
+            "C": "25.0 mL",
+            "D": "50.0 mL"
+        },
+        "correct_answer": "B",
+        "question_id": "2201431",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201431.png"
+    },
+    {
+        "number": "0",
+        "text": "I ef q P uiO l2i( bg r) iu = m 0 , . w11 h6 a ta it sm th a en pd r P esF s2( ug r) e = o f0 O.0 F46 2(1 g )a ?t m at",
+        "options": {
+            "A": "0.101 atm",
+            "B": "0.132 atm",
+            "C": "0.760 atm",
+            "D": "166 atm"
+        },
+        "correct_answer": null
+    },
+    {
+        "number": "33",
+        "text": "For the reaction 2 HI(g) H2(g) + I2(g), what is the relationship between Kc and Kp at 25 \u00b0C?",
+        "options": {
+            "A": "Kc = Kp",
+            "B": "Kc > Kp",
+            "C": "Kc < Kp",
+            "D": "The relationship varies depending on the pressure."
+        },
+        "correct_answer": "A",
+        "question_id": "2201433",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201433.png"
+    },
+    {
+        "number": "34",
+        "text": "C ofa 1lc .i 3u \u00d7m 1 0h \u2013y 6.d Wrox hi ad te i si s t hs eli g ph Htl y o fs o a l su ab tl ue r ain te w d a st oe lr u w tioit nh oa f Ksp calcium hydroxide at 25 \u00b0C?",
+        "options": {
+            "A": "12.34",
+            "B": "12.14",
+            "C": "12.04",
+            "D": "11.84"
+        },
+        "correct_answer": "B",
+        "question_id": "2201434",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201434.png"
+    },
+    {
+        "number": "1",
+        "text": "What is the value of the equilibrium constant, K, for this process under physiological conditions of 37.5 \u00b0C?",
+        "options": {
+            "A": "4.5 \u00d7 10\u20136",
+            "B": "7.4 \u00d7 10\u20136",
+            "C": "1.3 \u00d7 10^5",
+            "D": "2.2 \u00d7 10^5"
+        },
+        "correct_answer": "D",
+        "question_id": "220141",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220141.png"
+    },
+    {
+        "number": "10",
+        "text": "What is Kb for the weak base?",
+        "options": {
+            "A": "2.9 \u00d7 10\u20133",
+            "B": "5.4 \u00d7 10\u20134",
+            "C": "4.1 \u00d7 10\u20135",
+            "D": "1.6 \u00d7 10\u20135 m after April 28, 2014"
+        },
+        "correct_answer": "D",
+        "question_id": "2201410",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201410.png"
+    },
+    {
+        "number": "37",
+        "text": "Based on the reactions and data below, which reaction is least spontaneous? Reduction E\u00b0 (V) 2 Hg2+ + 2 e\u2013 \uf0ae Hg22+ 1.82 I2 + 2 e\u2013 \uf0ae 2 I\u2013 0.53 2 H2O + 2 e\u2013 \uf0ae H2 + 2 OH\u2013 \u20130.83",
+        "options": {
+            "A": "2 Hg2+ + 2 I\u2013 \uf0ae Hg22+ + I2",
+            "B": "H2 + 2 OH\u2013 + I2 \uf0ae 2 H2O + 2 I\u2013",
+            "C": "2 H2O + Hg22+ \uf0ae H2 + 2 OH\u2013 + 2 Hg2+",
+            "D": "H2 + 2 OH\u2013 + 2 Hg2+ \uf0ae 2 H2O + Hg22+"
+        },
+        "correct_answer": "C",
+        "question_id": "2201437",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201437.png"
+    },
+    {
+        "number": "38",
+        "text": "An increase in pH will promote which of the reactions below? I. 2 MnO4\u2013 + MnO2 + 4 OH\u2013 \uf0ae 3 MnO42\u2013 + 2 H2O II. 6 Cl2 + 2 I\u2013 + 6 H2O \uf0ae 12 Cl\u2013 + 2 IO3\u2013 + 12 H+",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C",
+        "question_id": "2201438",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201438.png"
+    },
+    {
+        "number": "39",
+        "text": "Given the reactions and data below, what is the K value for this electrochemical cell? Cu|CuNO3(1.0 M)|| I\u2013(1.0 M),I2(1.0 M)|Pt at 25 \u00b0C Reaction E\u00b0 (V) Cu+ + e\u2013 \uf0ae Cu 0.518 I2 + 2 e\u2013 \uf0ae 2 I\u2013 0.534",
+        "options": {
+            "A": "0.288",
+            "B": "1.86",
+            "C": "2.23",
+            "D": "3.48"
+        },
+        "correct_answer": "D",
+        "question_id": "2201439",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201439.png"
+    },
+    {
+        "number": "40",
+        "text": "The advantages of methane fuel cells over internal combustion engines (ICEs) that burn methane include which of the following? I. Methane fuel cells are less polluting. II. Methane fuel cells are more efficient. III. Methane fuel cells are less expensive.",
+        "options": {
+            "A": "I only",
+            "B": "I and II only",
+            "C": "I and III only",
+            "D": "II and III only"
+        },
+        "correct_answer": "B",
+        "question_id": "2201440",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201440.png"
+    },
+    {
+        "number": "41",
+        "text": "A steady current of 1.20 Ampere is passed through a solution of MClx for 2 hours and 33 minutes. If 2.98 g of metal M are plated out, what is the identity of the metal?",
+        "options": {
+            "A": "Al",
+            "B": "Cr",
+            "C": "Ni",
+            "D": "Zn"
+        },
+        "correct_answer": "B",
+        "question_id": "2201441",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201441.png"
+    },
+    {
+        "number": "42",
+        "text": "MnO4\u2013 + 5 Fe2+ + 8 H+ \uf0ae Mn2+ + 5 Fe3+ + 4 H2O E\u00b0 = 0.743 V What is the value of E for the cell based on the reaction above at 25 \u00b0C for the following conditions? [MnO4\u2013] [Fe2+] [Mn2+] [Fe3+] pH 2.3\u00d710\u20132 M 1\u00d710\u20134 M 1.0 M 1.0 M 3.00",
+        "options": {
+            "A": "0.20 V",
+            "B": "0.45 V",
+            "C": "0.64 V",
+            "D": "1.28 V"
+        },
+        "correct_answer": "A",
+        "question_id": "2201442",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201442.png"
+    },
+    {
+        "number": "43",
+        "text": "How many angular nodes does a d orbital possess?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "question_id": "2201443",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201443.png"
+    },
+    {
+        "number": "44",
+        "text": "For the transition metal with the electron configuration 1s22s22p63s23p64s23d6, how many unpaired electrons are present in its +2 ion in the ground state?",
+        "options": {
+            "A": "0",
+            "B": "2",
+            "C": "4",
+            "D": "6"
+        },
+        "correct_answer": "C",
+        "question_id": "2201444",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201444.png"
+    },
+    {
+        "number": "45",
+        "text": "What is the velocity of an electron (m = 9.11 \u00d7 10\u201328 g) that exhibits a de Broglie wavelength of 10.0 nm? [1 J = 1 kg\u2022m2\u2022s\u20132]",
+        "options": {
+            "A": "72.7 m\u2022s\u20131",
+            "B": "270 m\u2022s\u20131",
+            "C": "7.27 \u00d7 10^4 m\u2022s\u20131",
+            "D": "7.27 \u00d7 10^6 m\u2022s\u20131"
+        },
+        "correct_answer": "C",
+        "question_id": "2201445",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201445.png"
+    },
+    {
+        "number": "46",
+        "text": "Which atom has the highest first ionization energy?",
+        "options": {
+            "A": "Al",
+            "B": "Si",
+            "C": "P",
+            "D": "S"
+        },
+        "correct_answer": "C",
+        "question_id": "2201446",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201446.png"
+    },
+    {
+        "number": "47",
+        "text": "What are the two most common oxidation states for antimony?",
+        "options": {
+            "A": "\u20131 and \u20133",
+            "B": "\u20131 and +2",
+            "C": "+3 and \u20133",
+            "D": "+3 and +5"
+        },
+        "correct_answer": "D",
+        "question_id": "2201447",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201447.png"
+    },
+    {
+        "number": "48",
+        "text": "For which pair of species are the radii most similar?",
+        "options": {
+            "A": "Li and Na",
+            "B": "Na and Mg",
+            "C": "Mn and Fe",
+            "D": "Fe2+ and Fe3+"
+        },
+        "correct_answer": "C",
+        "question_id": "2201448",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201448.png"
+    },
+    {
+        "number": "49",
+        "text": "When arranged in order of increasing bond strength, which order is correct?",
+        "options": {
+            "A": "O\u2013O < S\u2013S < O=O < S=S",
+            "B": "O\u2013O < S\u2013S < S=S < O=O",
+            "C": "S\u2013S < O\u2013O < O=O < S=S",
+            "D": "S\u2013S < O\u2013O < S=S < O=O"
+        },
+        "correct_answer": "B",
+        "question_id": "2201449",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201449.png"
+    },
+    {
+        "number": "50",
+        "text": "Molecules with a permanent dipole moment include which of the following? I. HCN II. O3 III. XeF2",
+        "options": {
+            "A": "I only",
+            "B": "I and II only",
+            "C": "II and III only",
+            "D": "I, II, and III"
+        },
+        "correct_answer": "B",
+        "question_id": "2201450",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201450.png"
+    },
+    {
+        "number": "51",
+        "text": "How many stable resonance forms can be written for the oxalate ion, C2O42\u2013?",
+        "options": {
+            "A": "two",
+            "B": "three",
+            "C": "four",
+            "D": "five"
+        },
+        "correct_answer": "C",
+        "question_id": "2201451",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201451.png"
+    },
+    {
+        "number": "52",
+        "text": "What is the geometry of ICl4\u2013 according to VSEPR theory?",
+        "options": {
+            "A": "see-saw",
+            "B": "square planar",
+            "C": "tetrahedral",
+            "D": "T-shaped"
+        },
+        "correct_answer": "B",
+        "question_id": "2201452",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201452.png"
+    },
+    {
+        "number": "53",
+        "text": "According to the molecular orbital theory, what is the bond order of the He\u2013H bond?",
+        "options": {
+            "A": "\u00bd",
+            "B": "\u00be",
+            "C": "1",
+            "D": "1 \u00bd"
+        },
+        "correct_answer": "A",
+        "question_id": "2201453",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201453.png"
+    },
+    {
+        "number": "54",
+        "text": "As two atoms approach one another in space, the potential energy decreases then increases as shown in the diagram below. To what are these two changes attributed? [NOTE: p+ = proton, e\u2013 = electron] decrease increase (from 0.40 to 0.15 nm) (from 0.15 to 0 nm)",
+        "options": {
+            "A": "increased p+ e\u2013 attraction increased p+ p+ repulsion",
+            "B": "increased p+ e\u2013 attraction increased e\u2013 e\u2013 repulsion",
+            "C": "decreased p+ p+ repulsion increased e\u2013 e\u2013 repulsion",
+            "D": "decreased p+ e\u2013 repulsion increased p+ p+ repulsion"
+        },
+        "correct_answer": "A",
+        "question_id": "2201454",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201454.png"
+    },
+    {
+        "number": "3",
+        "text": "56. Which is the principal cation within cellular fluid?",
+        "options": {
+            "A": "Na+",
+            "B": "K+",
+            "C": "Mg2+",
+            "D": "Ca2+"
+        },
+        "correct_answer": "A",
+        "question_id": "220143",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\220143.png"
+    },
+    {
+        "number": "57",
+        "text": "The shape of a chain segment of polypeptide chains in a protein is known as its",
+        "options": {
+            "A": "primary structure.",
+            "B": "secondary structure.",
+            "C": "tertiary structure.",
+            "D": "quaternary structure."
+        },
+        "correct_answer": "B",
+        "question_id": "2201457",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201457.png"
+    },
+    {
+        "number": "58",
+        "text": "Which property that polyacetylene exhibits is unusual for an organic polymer?",
+        "options": {
+            "A": "electrical conductivity",
+            "B": "flexibility",
+            "C": "high boiling point",
+            "D": "strength"
+        },
+        "correct_answer": "A",
+        "question_id": "2201458",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201458.png"
+    },
+    {
+        "number": "59",
+        "text": "Which of the compounds below can exist as a pair of enantiomers? I. II.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B",
+        "question_id": "2201459",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201459.png"
+    },
+    {
+        "number": "60",
+        "text": "Which type of dietary fat is the least healthy for humans?",
+        "options": {
+            "A": "cis-monounsaturated fat",
+            "B": "polyunsaturated fat",
+            "C": "saturated fat",
+            "D": "trans-monounsaturated fat END OF TEST When you have finished answering this examination or time has been called by the Examiner, please provide responses to the following 4 items. Your answers will not affect your score on the exam but will help with a study being conducted by the U.S. National Chemistry Olympiad (USNCO) Subcommittee."
+        },
+        "correct_answer": "D",
+        "question_id": "2201460",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201460.png"
+    },
+    {
+        "number": "61",
+        "text": "The amount of time I spend doing experiments in the laboratory per week on average during my chemistry course was/is?",
+        "options": {
+            "A": "less than \u00bd hour",
+            "B": "between \u00bd and 1 hour",
+            "C": "between 1 and 2 hours",
+            "D": "more than 2 hours The following questions should be answered using the scale \n(A) Strongly agree \n(B) Agree \n(C) Disagree \n(D) Strongly disagree"
+        },
+        "correct_answer": null,
+        "question_id": "2201461",
+        "image_path": "output_images\\2014-usnco-national-exam-part-i\\2201461.png"
+    }
+]

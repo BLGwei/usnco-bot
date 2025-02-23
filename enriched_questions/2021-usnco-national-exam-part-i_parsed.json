@@ -1,0 +1,704 @@
+[
+    {
+        "number": "1",
+        "text": "Hydrogen and oxygen gas are combined in a reaction vessel and reacted completely to form water. What volumes of gases (at STP) will give the greatest mass of water?",
+        "options": {
+            "A": "1.0 L H2 and 4.0 L O2",
+            "B": "2.0 L H2 and 3.0 L O2",
+            "C": "3.0 L H2 and 2.0 L O2",
+            "D": "4.0 L H2 and 1.0 L O2"
+        },
+        "correct_answer": "C",
+        "question_id": "220211",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220211.png"
+    },
+    {
+        "number": "2",
+        "text": "Potassium hydrogen phthalate (KHP, M = 204) is a monoprotic acid used as a primary standard in acid-base titrations. It takes 28.15 mL of a solution of Sr(OH)2 to neutralize 0.402 g KHP. What is the concentration of the Sr(OH)2 solution?",
+        "options": {
+            "A": "0.00197 M",
+            "B": "0.0350 M",
+            "C": "0.0700 M",
+            "D": "0.100 M"
+        },
+        "correct_answer": "B",
+        "question_id": "220212",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220212.png"
+    },
+    {
+        "number": "3",
+        "text": "20.0 mL of 0.15 M aqueous Pb(NO3)2 and 10.0 mL of 0.35 M aqueous NaBr are mixed, giving a white precipitate. Which ion is LEAST abundant in the supernatant?",
+        "options": {
+            "A": "Pb2+",
+            "B": "Na+",
+            "C": "NO3\u2013",
+            "D": "Br\u2013"
+        },
+        "correct_answer": "D",
+        "question_id": "220213",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220213.png"
+    },
+    {
+        "number": "4",
+        "text": "A sample of 9.736 g of a lead oxide is reduced completely with excess carbon monoxide to give metallic lead. The resulting gas is bubbled into saturated lime water, resulting in the precipitation of 6.636 g calcium carbonate (M = 100.09) after drying. What is the formula of this lead oxide?",
+        "options": {
+            "A": "PbO",
+            "B": "Pb2O3",
+            "C": "Pb3O4",
+            "D": "Pb12O19"
+        },
+        "correct_answer": "D",
+        "question_id": "220214",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220214.png"
+    },
+    {
+        "number": "5",
+        "text": "A mixture of K2S, K2SO3, and K2SO4 is found to contain 60.0% K by mass. What is the mass percent of oxygen in the mixture?",
+        "options": {
+            "A": "15.4%",
+            "B": "22.3%",
+            "C": "30.3%",
+            "D": "36.7%\nIONS the corresponding space on the answer sheet using a soft, #2 ide to change an answer, erase the unwanted mark very carefully. s for which more than one response has been blackened will not er correctly. It is to your advantage to answer every question."
+        },
+        "correct_answer": "A",
+        "question_id": "220215",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220215.png"
+    },
+    {
+        "number": "6",
+        "text": "A solution of 5.00 g oxalic acid (H2C2O4, M = 90.04) in 100.0 g H2O has a freezing point of \u20131.31 \u00b0C. What is the percent ionization of oxalic acid in this solution? The freezing point depression constant of water is Kf = 1.86 \u00b0C m-(1).",
+        "options": {
+            "A": "13.5%",
+            "B": "26.8%",
+            "C": "70.4%",
+            "D": "100%"
+        },
+        "correct_answer": "B",
+        "question_id": "220216",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220216.png"
+    },
+    {
+        "number": "7",
+        "text": "Which glassware would be most appropriate for measuring 10.00 mL of distilled water?",
+        "options": {
+            "A": "A 10-mL test tube",
+            "B": "A 25-mL beaker",
+            "C": "A 50-mL buret",
+            "D": "A 100-mL graduated cylinder"
+        },
+        "correct_answer": "C",
+        "question_id": "220217",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220217.png"
+    },
+    {
+        "number": "8",
+        "text": "A solution that may contain either 0.1 M Ag+(aq), 0.1 M Pb2+(aq), or both, is treated with 1 M aqueous HCl. A white precipitate forms which does not appear to dissolve in hot water. Which conclusion about the cations present may be drawn?",
+        "options": {
+            "A": "Only Ag+ is present.",
+            "B": "Only Pb2+ is present.",
+            "C": "Ag+ is present, and Pb2+ may be present.",
+            "D": "Pb2+ is present, and Ag+ may be present."
+        },
+        "correct_answer": "C",
+        "question_id": "220218",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220218.png"
+    },
+    {
+        "number": "9",
+        "text": "Addition of 10 mL of distilled water to 0.1 g of which salt produces a yellow, slightly cloudy solution?",
+        "options": {
+            "A": "KMnO4",
+            "B": "FeCl3",
+            "C": "Co(NO3)2",
+            "D": "CuSO4 m after April 19, 2021"
+        },
+        "correct_answer": "B",
+        "question_id": "220219",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220219.png"
+    },
+    {
+        "number": "10",
+        "text": "The amount of ascorbic acid in a vitamin C tablet is determined by titration with a solution of iodine in aqueous potassium iodide. A small amount of starch is added to the vitamin C solution before the titration. What is the function of the starch?",
+        "options": {
+            "A": "It forms an intensely colored complex with triiodide ion.",
+            "B": "It increases the viscosity of the analyte solution.",
+            "C": "It catalyzes the dissociation of triiodide into iodine and iodide.",
+            "D": "It binds to the inert ingredients of the vitamin C tablet."
+        },
+        "correct_answer": "A",
+        "question_id": "2202110",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202110.png"
+    },
+    {
+        "number": "11",
+        "text": "When blue solid CuSO4\u20225 H2O is heated, it turns white. Which is the best explanation for this observation?",
+        "options": {
+            "A": "Heating causes water molecules bonded to copper to be replaced by sulfate, lowering the energy of the light absorbed.",
+            "B": "Heating causes an expansion of the lattice, leading to a decrease in the coordination number of copper and raising the energy of the light absorbed.",
+            "C": "Heating causes reduction of copper(II) to copper(I).",
+            "D": "Heating causes reduction of sulfate to sulfite."
+        },
+        "correct_answer": "A",
+        "question_id": "2202111",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202111.png"
+    },
+    {
+        "number": "12",
+        "text": "A student performs an experiment to determine the concentration of a colored salt solution by measuring the absorbance of the solution at the wavelength of maximum absorbance of the salt (\u03bbmax) and using Beer\u2019s Law to calculate the concentration. Which of the following could cause the measured concentration to be higher than the actual concentration?",
+        "options": {
+            "A": "The cuvette is not rinsed with the salt solution after being washed.",
+            "B": "The cuvette is not wiped off before it is inserted into the spectrophotometer.",
+            "C": "Less than the recommended volume of salt solution is added to the cuvette.",
+            "D": "The spectrometer is set to a wavelength different from \u03bbmax."
+        },
+        "correct_answer": "B",
+        "question_id": "2202112",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202112.png"
+    },
+    {
+        "number": "14",
+        "text": "Dichloromethane (CH2Cl2, M = 84.93) is a volatile liquid with a vapor pressure of 0.53 atm at 24 \u00b0C. 13.8 g of dichloromethane is introduced into a 5.0-L evacuated container maintained at 24 \u00b0C. Which is the best description of the system at equilibrium?",
+        "options": {
+            "A": "One-third of the CH2Cl2 has evaporated.",
+            "B": "Two-thirds of the CH2Cl2 has evaporated.",
+            "C": "All of the CH2Cl2 has evaporated to give a pressure of 0.53 atm.",
+            "D": "All of the CH2Cl2 has evaporated to give a pressure of 0.79 atm."
+        },
+        "correct_answer": "B",
+        "question_id": "2202114",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202114.png"
+    },
+    {
+        "number": "3",
+        "text": "It has a primitive cubic lattice with an edge length a = 415 pm and with one calcium atom per unit cell. What is the value of x?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "D",
+        "question_id": "220213",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220213.png"
+    },
+    {
+        "number": "1",
+        "text": "Which factors contribute to the larger magnitude of the lattice enthalpy of MgO? I. Mg2+ has a larger charge than Na+. II. Mg2+ is smaller than Na+.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C",
+        "question_id": "220211",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220211.png"
+    },
+    {
+        "number": "18",
+        "text": "A sample of benzene (C6H6) is heated at a constant rate. Which graph most accurately represents how the temperature changes with time?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "question_id": "2202118",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202118.png"
+    },
+    {
+        "number": "19",
+        "text": "An insulated container holds 100.0 g of water at 25.0 \u00b0C. A 100.0 g piece of copper at 50.0 \u00b0C is added to the container. What is the final temperature of the mixture in the container at equilibrium? The specific heat capacity of copper is 0.385 J g-1 K-(1).",
+        "options": {
+            "A": "27.1 \u00b0C",
+            "B": "27.5 \u00b0C",
+            "C": "34.9 \u00b0C",
+            "D": "37.5 \u00b0C"
+        },
+        "correct_answer": "A",
+        "question_id": "2202119",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202119.png"
+    },
+    {
+        "number": "20",
+        "text": "At the triple point of water (0.01 \u00b0C, 0.006 atm), in which phase would 1.0 mol of water have the lowest entropy?",
+        "options": {
+            "A": "Solid",
+            "B": "Liquid",
+            "C": "Gas",
+            "D": "It would have the same entropy in all three phases."
+        },
+        "correct_answer": "A",
+        "question_id": "2202120",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202120.png"
+    },
+    {
+        "number": "21",
+        "text": "The standard enthalpy of formation of NO2(g) is 33.1 kJ mol-(1). What is the average bond dissociation enthalpy of a nitrogen-oxygen bond in NO2(g)? Bond Bond dissociation enthalpy, kJ mol-1 N\u2261N 945.4 O=O 498.4",
+        "options": {
+            "A": "469.0 kJ mol-1",
+            "B": "502.1 kJ mol-1",
+            "C": "705.4 kJ mol-1",
+            "D": "738.5 kJ mol-1"
+        },
+        "correct_answer": "A",
+        "question_id": "2202121",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202121.png"
+    },
+    {
+        "number": "22",
+        "text": "The formation of ammonia from nitrogen and hydrogen has a standard free energy change of \u201332.8 kJ mol-1 at 298 K. N2(g) + 3 H2(g) \u21922 NH3(g) \u2206G\u00b0 = \u201332.8 kJ mol-1 What is \u2206G at 298 K if the partial pressures of all three gases are 3.00 bar?",
+        "options": {
+            "A": "\u201330.1 kJ mol-1",
+            "B": "\u201332.8 kJ mol-1",
+            "C": "\u201335.5 kJ mol-1",
+            "D": "\u201338.2 kJ mol-1"
+        },
+        "correct_answer": "D",
+        "question_id": "2202122",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202122.png"
+    },
+    {
+        "number": "23",
+        "text": "What is Kp for the dissociation of PCl5(g) at 298 K? PCl5(g) \u2192 PCl3(g) + Cl2(g) Kp = ??? Substance \u2206G\u00b0f, kJ mol-1 PCl5(g) \u2013325 PCl3(g) \u2013286",
+        "options": {
+            "A": "1.8 \u00d7 10^-16",
+            "B": "5.9 \u00d7 10^-11",
+            "C": "6.0 \u00d7 10^-9",
+            "D": "1.5 \u00d7 10^-7"
+        },
+        "correct_answer": "D",
+        "question_id": "2202123",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202123.png"
+    },
+    {
+        "number": "24",
+        "text": "A reaction has Keq = 0.10 at 300 K and Keq = 0.50 at 330 K. Which statements about this reaction in this temperature range must be correct? I. \u2206H\u00b0rxn > 0 II. \u2206S\u00b0rxn > 0",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II m after April 19, 2021"
+        },
+        "correct_answer": "C",
+        "question_id": "2202124",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202124.png"
+    },
+    {
+        "number": "25",
+        "text": "The time course of a reaction in which a reactant R is converted to a product P is shown below. Which statements about the reaction are correct? I. The reaction is first order in R. II. Two moles of P are formed for every mole of R that reacts.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "A",
+        "question_id": "2202125",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202125.png"
+    },
+    {
+        "number": "26",
+        "text": "In a reaction A + 2 B \u2192 C + D, initial rates were measured as shown in the table. What is the initial rate of the reaction with [A]0 = 0.200 M and [B]0 = 0.400 M? [A]0, M [B]0, M Initial rate, M s-1 0.120 0.300 1.80 \u00d7 10^-5 0.180 0.450 4.05 \u00d7 10^-5 0.080 0.200 8.00 \u00d7 10^-6 0.200 0.400 ???",
+        "options": {
+            "A": "3.20 \u00d7 10^-5 M s-1",
+            "B": "4.00 \u00d7 10^-5 M s-1",
+            "C": "5.00 \u00d7 10^-5 M s-1",
+            "D": "It cannot be determined from the information given."
+        },
+        "correct_answer": "D",
+        "question_id": "2202126",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202126.png"
+    },
+    {
+        "number": "27",
+        "text": "The temperature-dependence of the rate constants of a series of six related reactions are studied, and the reactions are all found to have the same rate constant at 370 K (their isokinetic temperature). Which statement best describes the relationship between the reactions\u2019 Arrhenius pre-factors A and their activation energies Ea?",
+        "options": {
+            "A": "The reactions share a common pre-factor A but differ in their activation energies Ea.",
+            "B": "The reactions share a common activation energy Ea but differ in their pre-factors A.",
+            "C": "As the reactions\u2019 pre-factors A increase, their activation energies Ea increase.",
+            "D": "As the reactions\u2019 pre-factors A increase, their activation energies Ea decrease."
+        },
+        "correct_answer": "C",
+        "question_id": "2202127",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202127.png"
+    },
+    {
+        "number": "28",
+        "text": "Which properties of the reaction whose reaction coordinate is shown below increase with increasing temperature? I. The forward rate constant of the reaction, kf II. The equilibrium constant of the reaction, Keq",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "A",
+        "question_id": "2202128",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202128.png"
+    },
+    {
+        "number": "30",
+        "text": "An irreversible reaction A + B \u2192 C is first-order in both A and B. In a solution with [A]0 = 0.20 M, it takes 37 s for the concentration of B to decrease from its initial value of 0.010 M to 0.0050 M. How long will it take the concentration of B to decrease from an initial value of 0.010 M to 0.0050 M if the initial concentration of A is 0.010 M?",
+        "options": {
+            "A": "37 s",
+            "B": "110 s",
+            "C": "740 s",
+            "D": "1100 s"
+        },
+        "correct_answer": "D",
+        "question_id": "2202130",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202130.png"
+    },
+    {
+        "number": "31",
+        "text": "What is the percent ionization of a 0.10 M solution of nitrous acid (HNO2, Ka = 7.2 \u00d7 10^-4)?",
+        "options": {
+            "A": "1.1%",
+            "B": "3.6%",
+            "C": "8.1%",
+            "D": "14%"
+        },
+        "correct_answer": "C",
+        "question_id": "2202131",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202131.png"
+    },
+    {
+        "number": "5",
+        "text": "Which statement correctly describes the situation?",
+        "options": {
+            "A": "The reaction is at equilibrium.",
+            "B": "The reaction will shift to produce more products.",
+            "C": "The reaction will shift to produce more reactants.",
+            "D": "Not enough information is given to make a prediction."
+        },
+        "correct_answer": "A",
+        "question_id": "220215",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220215.png"
+    },
+    {
+        "number": "33",
+        "text": "The hydrogenation of carbon monoxide represented below is exothermic. CO(g) + 2 H2(g) \uf044 CH3OH(l) \u2206H\u00b0rxn < 0 Which changes will increase the equilibrium yield of CH3OH? I. Increasing the temperature of the system II. Removing some of the CH3OH(l)",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "D",
+        "question_id": "2202133",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202133.png"
+    },
+    {
+        "number": "2",
+        "text": "In what order will the solids precipitate? Solid Ksp CaSO3 6.8 \u00d7 10^-8 CaF2 5.3 \u00d7 10^-9 Ca3(PO4)2 1.0 \u00d7 10^-25",
+        "options": {
+            "A": "First Ca3(PO4)2, then CaF2, last CaSO3",
+            "B": "First Ca3(PO4)2, then CaSO3, last CaF2",
+            "C": "First CaSO3, then CaF2, last Ca3(PO4)2",
+            "D": "First CaF2, then CaSO3, last Ca3(PO4)2"
+        },
+        "correct_answer": "B",
+        "question_id": "220212",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220212.png"
+    },
+    {
+        "number": "35",
+        "text": "The graph shows the logarithm of the molar solubility S of an ionic solid as a function of pH. Which solid is it?",
+        "options": {
+            "A": "Ag2C2O4",
+            "B": "AlPO4",
+            "C": "SrSO4",
+            "D": "BaF2"
+        },
+        "correct_answer": "D",
+        "question_id": "2202135",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202135.png"
+    },
+    {
+        "number": "37",
+        "text": "In basic solution, Cl2(g) disproportionates to form Cl\u2013(aq) and ClO3\u2013(aq). What is the mole ratio of Cl\u2013(aq) to ClO3\u2013 (aq) produced in this reaction?",
+        "options": {
+            "A": "5:1",
+            "B": "4:1",
+            "C": "3:1",
+            "D": "3:2"
+        },
+        "correct_answer": "A",
+        "question_id": "2202137",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202137.png"
+    },
+    {
+        "number": "2",
+        "text": "What is the percent yield of H2O2 based on the current passed through the cell (the faradaic yield)?",
+        "options": {
+            "A": "19.5%",
+            "B": "39.0%",
+            "C": "78.0%",
+            "D": "100% m after April 19, 2021"
+        },
+        "correct_answer": "B",
+        "question_id": "220212",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\220212.png"
+    },
+    {
+        "number": "40",
+        "text": "What is the Ksp of AgI at 298 K? Half-reaction E\u00b0, V Ag+(aq) + e\u2013 \u2192 Ag(s) +0.80 AgI(s) + e\u2013 \u2192 Ag(s) + I\u2013(aq) \u20130.15",
+        "options": {
+            "A": "4.8 \u00d7 10^-26",
+            "B": "1.0 \u00d7 10^-22",
+            "C": "8.5 \u00d7 10^-17",
+            "D": "1.0 \u00d7 10^-11"
+        },
+        "correct_answer": "C",
+        "question_id": "2202140",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202140.png"
+    },
+    {
+        "number": "41",
+        "text": "In the diagram below, an electrochemical cell\u2019s anode and cathode are linked by a semi-permeable membrane that allows only water to pass. The concentrations of Zn(NO3)2(aq) and Cu(NO3)2(aq) are initially each 0.10 M. Which of the following diagrams best shows the water levels in each cell at equilibrium?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "Page 8 Property of ACS USN"
+        },
+        "correct_answer": "C",
+        "question_id": "2202141",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202141.png"
+    },
+    {
+        "number": "42",
+        "text": "Consider the voltaic cell below at 25 \u00b0C with 1.00 L of solution in each half-cell. When the switch is closed, the mass of the Cr(s) electrode increases until the cell is fully discharged (i.e., \u0394E = 0 V). If the final mass of Cr(s) is 24.50 g, what is \u0394E\u00b0 at 25 \u00b0C for the reaction shown below? 2 Cr3+(aq) + 3 Zn(s) \u2192 2 Cr(s) + 3 Zn2+(aq) \u0394E\u00b0 = ???",
+        "options": {
+            "A": "0.012 V",
+            "B": "0.018 V",
+            "C": "0.024 V",
+            "D": "0.054 V"
+        },
+        "correct_answer": "B",
+        "question_id": "2202142",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202142.png"
+    },
+    {
+        "number": "43",
+        "text": "How many orbitals are occupied by at least one electron in the ground state of a gas-phase Si atom?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "8"
+        },
+        "correct_answer": "D",
+        "question_id": "2202143",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202143.png"
+    },
+    {
+        "number": "44",
+        "text": "Which transition of a hydrogen atom would involve absorbing a photon with the longest wavelength?",
+        "options": {
+            "A": "n = 1 \u2192 n = 3",
+            "B": "n = 2 \u2192 n = 6",
+            "C": "n = 3 \u2192 n = 1",
+            "D": "n = 6 \u2192 n = 2"
+        },
+        "correct_answer": "B",
+        "question_id": "2202144",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202144.png"
+    },
+    {
+        "number": "45",
+        "text": "Which gas-phase ion has the greatest number of unpaired electrons in its ground state?",
+        "options": {
+            "A": "Cr2+",
+            "B": "Co2+",
+            "C": "Ni2+",
+            "D": "Zn2+"
+        },
+        "correct_answer": "A",
+        "question_id": "2202145",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202145.png"
+    },
+    {
+        "number": "46",
+        "text": "The ionization energy of which element is closest to that of fluorine (F)?",
+        "options": {
+            "A": "O",
+            "B": "Ne",
+            "C": "Cl",
+            "D": "Ar"
+        },
+        "correct_answer": "D",
+        "question_id": "2202146",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202146.png"
+    },
+    {
+        "number": "47",
+        "text": "By what mode does the isotope 79Se undergo radioactive decay?",
+        "options": {
+            "A": "Alpha decay",
+            "B": "Beta decay",
+            "C": "Gamma decay",
+            "D": "Electron capture"
+        },
+        "correct_answer": "B",
+        "question_id": "2202147",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202147.png"
+    },
+    {
+        "number": "48",
+        "text": "Despite the fact that atomic radius generally increases with period, the palladium-chlorine distance in PdCl42- is essentially identical to the platinum-chlorine distance in PtCl42- (2.30 \u00c5). Which is the best explanation of why the two bond lengths are the same?",
+        "options": {
+            "A": "The presence of the 14 lanthanides between Pd and Pt makes Pt unexpectedly small.",
+            "B": "PdCl42- is tetrahedral, while PtCl42- is square planar and so has shorter bonds than expected.",
+            "C": "The metal-chlorine bonds are highly covalent and so are insensitive to the trend in atomic radius.",
+            "D": "The large negative charge on the complex ions makes the chloride-chloride repulsions, not the metal-chloride attractions, the dominant factor in determining the bond distance."
+        },
+        "correct_answer": "A",
+        "question_id": "2202148",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202148.png"
+    },
+    {
+        "number": "49",
+        "text": "Which species has the largest O\u2013N\u2013O bond angle?",
+        "options": {
+            "A": "NO2",
+            "B": "N2O4",
+            "C": "NO2\u2013",
+            "D": "NO3\u2013"
+        },
+        "correct_answer": "A",
+        "question_id": "2202149",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202149.png"
+    },
+    {
+        "number": "50",
+        "text": "Which best describes the isomer of the ion with the formula [CNO]\u2013 that is the most stable?",
+        "options": {
+            "A": "Linear, with a central C",
+            "B": "Linear, with a central N",
+            "C": "Linear, with a central O",
+            "D": "Cyclic"
+        },
+        "correct_answer": "A",
+        "question_id": "2202150",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202150.png"
+    },
+    {
+        "number": "51",
+        "text": "Which is the least important consideration in determining the strength of interaction between atomic orbitals on two atoms as they combine to form molecular orbitals?",
+        "options": {
+            "A": "How close the atoms are to one another",
+            "B": "How close in energy the orbitals are",
+            "C": "What the orbitals\u2019 relative orientation is",
+            "D": "Whether the orbitals have the same principal quantum number"
+        },
+        "correct_answer": "D",
+        "question_id": "2202151",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202151.png"
+    },
+    {
+        "number": "53",
+        "text": "A four-coordinate transition metal complex M(CO)2(Br)(Cl) can be isolated as two geometric isomers. With which geometries at the metal center is this observation consistent? I. Square planar II. Tetrahedral",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Either I or II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "A",
+        "question_id": "2202153",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202153.png"
+    },
+    {
+        "number": "54",
+        "text": "A sample of pure Si is doped with 1.0 part per million of As to form material A. Material A is then doped with 0.5 ppm of B to form material B. What is the correct order when the three materials are arranged in order of increasing electrical conductivity?",
+        "options": {
+            "A": "Pure Si < A < B",
+            "B": "B < A < Pure Si",
+            "C": "B < Pure Si < A",
+            "D": "Pure Si < B < A"
+        },
+        "correct_answer": "D",
+        "question_id": "2202154",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202154.png"
+    },
+    {
+        "number": "55",
+        "text": "Which of these could have the formula C6H12O? I. An acyclic ester II. A cyclic ether",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Either I or II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B",
+        "question_id": "2202155",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202155.png"
+    },
+    {
+        "number": "56",
+        "text": "Which is the best explanation for the higher reactivity of conjugated dienes relative to non-conjugated alkenes in electrophilic addition reactions?",
+        "options": {
+            "A": "Conjugated dienes can form allylic cations on reaction with electrophiles while non-conjugated alkenes cannot.",
+            "B": "Conjugated dienes have more potentially reactive sites than do non-conjugated alkenes.",
+            "C": "The \u03c0 bonding in conjugated dienes is weaker than the \u03c0 bonding in non-conjugated alkenes.",
+            "D": "Conjugated dienes are nonplanar while non- conjugated alkenes are planar."
+        },
+        "correct_answer": "A",
+        "question_id": "2202156",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202156.png"
+    },
+    {
+        "number": "57",
+        "text": "Which compound will NOT form in the reaction of acetone (propanone) with aqueous base?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "m after April 19, 2021 Page 9"
+        },
+        "correct_answer": "B",
+        "question_id": "2202157",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202157.png"
+    },
+    {
+        "number": "58",
+        "text": "Which compound would have the lowest C=O stretching frequency in its infrared spectrum?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "B",
+        "question_id": "2202158",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202158.png"
+    },
+    {
+        "number": "59",
+        "text": "Which compound reacts fastest with aqueous acid?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A",
+        "question_id": "2202159",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202159.png"
+    },
+    {
+        "number": "60",
+        "text": "How many possible dipeptides can be formed using the twenty commonly occurring amino acids?",
+        "options": {
+            "A": "40",
+            "B": "200",
+            "C": "210",
+            "D": "400 Page 10 Property of ACS USN"
+        },
+        "correct_answer": "D",
+        "question_id": "2202160",
+        "image_path": "output_images\\2021-usnco-national-exam-part-i\\2202160.png"
+    }
+]

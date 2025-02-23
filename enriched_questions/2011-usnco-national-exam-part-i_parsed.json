@@ -1,0 +1,763 @@
+[
+    {
+        "number": "1",
+        "text": "Which solid does not react with a small amount of 3 M HNO3?",
+        "options": {
+            "A": "calcium carbonate",
+            "B": "manganese(II) sulfide",
+            "C": "potassium sulfite",
+            "D": "silver chloride"
+        },
+        "correct_answer": "D",
+        "question_id": "220111",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220111.png"
+    },
+    {
+        "number": "2",
+        "text": "A metal dissolves in dilute HCl in the absence of air to form a pale green solution that turns yellow upon exposure to air. The metal could be",
+        "options": {
+            "A": "iron.",
+            "B": "manganese.",
+            "C": "nickel.",
+            "D": "vanadium."
+        },
+        "correct_answer": "A",
+        "question_id": "220112",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220112.png"
+    },
+    {
+        "number": "3",
+        "text": "In a glass tube columns of water and mercury appear as shown. This is best attributed to the differences in their",
+        "options": {
+            "A": "densities.",
+            "B": "molar masses.",
+            "C": "surface tensions.",
+            "D": "viscosities."
+        },
+        "correct_answer": "C",
+        "question_id": "220113",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220113.png"
+    },
+    {
+        "number": "4",
+        "text": "Compounds of uranium-235 and uranium-238 can be separated from one another by",
+        "options": {
+            "A": "distillation.",
+            "B": "effusion.",
+            "C": "fractional crystallization.",
+            "D": "paper chromatography."
+        },
+        "correct_answer": "B",
+        "question_id": "220114",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220114.png"
+    },
+    {
+        "number": "5",
+        "text": "A Material Safety Data Sheet (MSDS) provides what type(s) of information about a chemical? I First aid measures II Handling and storage tips",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C",
+        "question_id": "220115",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220115.png"
+    },
+    {
+        "number": "6",
+        "text": "When a 25.00 mL volumetric flask weighing 20.340 g is filled partially with metal shot the mass is 119.691 g. The flask is then filled to the 25.00 mL mark with methanol (d = 0.791 g\u2022cm\u20133) and has a total mass of 130.410 g. What is the density of the metal?",
+        "options": {
+            "A": "6.96 g\u2022cm\u20133",
+            "B": "8.68 g\u2022cm\u20133",
+            "C": "9.27 g\u2022cm\u20133",
+            "D": "11.7 g\u2022cm\u20133 Property of ACS USNCO \u2013 Not for use as an USNCO National\nIONS the corresponding space on the answer sheet using a soft, #2 ide to change an answer, erase the unwanted mark very carefully. ns for which more than one response has been blackened will not er correctly. It is to your advantage to answer every question."
+        },
+        "correct_answer": "B",
+        "question_id": "220116",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220116.png"
+    },
+    {
+        "number": "7",
+        "text": "An aqueous solution contains the ions Ag+, Ba2+, and Ni2+. Dilute aqueous solutions of NaCl, Na2S, and Na2SO4 are available. In what order should these solutions be added if the goal is to precipitate each of the three cations separately?",
+        "options": {
+            "A": "Na2S, Na2SO4, NaCl",
+            "B": "Na2S, NaCl, Na2SO4",
+            "C": "Na2SO4, Na2S, NaCl",
+            "D": "NaCl, Na2SO4, Na2S"
+        },
+        "correct_answer": "D",
+        "question_id": "220117",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220117.png"
+    },
+    {
+        "number": "8",
+        "text": "A 10.00 g sample of a compound containing C, H, and O is burned completely to produce 14.67 g of CO2 and 6.000 g of H2O. What is the empirical formula of this compound?",
+        "options": {
+            "A": "CHO",
+            "B": "CH2O",
+            "C": "CH2O2",
+            "D": "C2H4O"
+        },
+        "correct_answer": "B",
+        "question_id": "220118",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220118.png"
+    },
+    {
+        "number": "9",
+        "text": "What is the molality of a solution made by dissolving 36.0 g of glucose (C6H12O6, M = 180.2) in 64.0 g of H2O?",
+        "options": {
+            "A": "0.0533",
+            "B": "0.200",
+            "C": "0.360",
+            "D": "3.12"
+        },
+        "correct_answer": "D",
+        "question_id": "220119",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220119.png"
+    },
+    {
+        "number": "10",
+        "text": "Which aqueous solution freezes at the lowest temperature?",
+        "options": {
+            "A": "0.30 m C2H5OH",
+            "B": "0.25 m KNO3",
+            "C": "0.20 m CaBr2",
+            "D": "0.10 m FeCl3"
+        },
+        "correct_answer": "C",
+        "question_id": "2201110",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201110.png"
+    },
+    {
+        "number": "12",
+        "text": "Ethanol (C2H5OH, M = 46) and methanol (CH3OH, M = 32) form an ideal solution when mixed. What is the vapor pressure of a solution prepared by mixing equal masses of ethanol and methanol? (The vapor pressures of ethanol and methanol are 44.5 mm Hg and 88.7 mm Hg, respectively.)",
+        "options": {
+            "A": "133 mm Hg",
+            "B": "70.6 mm Hg",
+            "C": "66.6 mm Hg",
+            "D": "44.5 mm Hg"
+        },
+        "correct_answer": "B",
+        "question_id": "2201112",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201112.png"
+    },
+    {
+        "number": "13",
+        "text": "A 5.00 L evacuated cylinder is charged with 25.5 g of NH3 and 36.5 g of HCl. Calculate the final pressure at 85.0 \u02daC after the two compounds have reacted completely. NH3(g) + HCl(g) \u2192 NH4Cl(s)",
+        "options": {
+            "A": "2.94 atm",
+            "B": "5.88 atm",
+            "C": "8.82 atm",
+            "D": "14.7 atm Exam after April 18, 2011"
+        },
+        "correct_answer": "A",
+        "question_id": "2201113",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201113.png"
+    },
+    {
+        "number": "14",
+        "text": "Pure samples of which of the following exhibit hydrogen bonding? I CH3OH II CH3NO2 III CH3CN",
+        "options": {
+            "A": "I only",
+            "B": "I and II only",
+            "C": "II and III only",
+            "D": "I, II, and III"
+        },
+        "correct_answer": "A",
+        "question_id": "2201114",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201114.png"
+    },
+    {
+        "number": "15",
+        "text": "The average molecular velocity in a gas sample at 300 K is 500 m/s. The temperature of this gas is increased until the average velocity of its molecules is 1000 m/s. What is the new temperature?",
+        "options": {
+            "A": "420 K",
+            "B": "573 K",
+            "C": "600 K",
+            "D": "1200K"
+        },
+        "correct_answer": "D",
+        "question_id": "2201115",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201115.png"
+    },
+    {
+        "number": "16",
+        "text": "Which of the following compounds has the lowest boiling point?",
+        "options": {
+            "A": "HF",
+            "B": "HCl",
+            "C": "HBr",
+            "D": "HI"
+        },
+        "correct_answer": "B",
+        "question_id": "2201116",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201116.png"
+    },
+    {
+        "number": "17",
+        "text": "What is the coordination number of each atom in a hexagonal close-packed solid?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+        },
+        "correct_answer": "D",
+        "question_id": "2201117",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201117.png"
+    },
+    {
+        "number": "18",
+        "text": "Water ice exists in several different forms depending on the pressure and temperature. A portion of the phase diagram for ice I, ice III, and liquid water is shown below. IceIII Liquid IceI Temperature Which statement about the densities of these three phases is correct?",
+        "options": {
+            "A": "The density of liquid water is greater than the densities of either ice I or ice III.",
+            "B": "The density of ice I is greater than the densities of either ice III or liquid water.",
+            "C": "The density of ice III is greater than the densities of either ice I or liquid water.",
+            "D": "The densities of ice I and ice III are equal and greater than the density of liquid water."
+        },
+        "correct_answer": "C",
+        "question_id": "2201118",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201118.png"
+    },
+    {
+        "number": "19",
+        "text": "Spontaneous reactions always",
+        "options": {
+            "A": "go to completion.",
+            "B": "are fast.",
+            "C": "involve phase changes.",
+            "D": "release energy and/or show an increase in the system's entropy. CO"
+        },
+        "correct_answer": "D",
+        "question_id": "2201119",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201119.png"
+    },
+    {
+        "number": "20",
+        "text": "The standard enthalpies of combustion of formaldehyde, H \u201322 7C 0= kO J( \u2022g m), o a l\u2013n 1d r efo sprm eci tc i va ec li yd ., WHC haO t O isH \u2206( Hl) \u02da, a fore r \u2013 th5 e6 3 and following reaction? H2C=O(g) + 1/2 O2(g) \u2192 HCOOH(l)",
+        "options": {
+            "A": "\u2013833 kJ\u2022mol\u20131",
+            "B": "\u2013293 kJ\u2022mol\u20131",
+            "C": "293 kJ\u2022mol\u20131",
+            "D": "833 kJ\u2022mol\u20131"
+        },
+        "correct_answer": "B",
+        "question_id": "2201120",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201120.png"
+    },
+    {
+        "number": "21",
+        "text": "What is \u2206H\u02da for the reaction below? TiCl4(g) + 2 H2O(l) \u2192 TiO2(s) + 4 HCl(g) \u2206Sp He \u02dac f i ke Js \u2022 mol-1 T \u20137iC 63l4 (g) \u2013H 22 8O 6( l) T \u20139iO 452( s) \u2013H 9C 2l (g)",
+        "options": {
+            "A": "298 kJ\u2022mol\u20131",
+            "B": "22 kJ\u2022mol\u20131",
+            "C": "12 kJ\u2022mol\u20131",
+            "D": "\u2013264 kJ\u2022mol\u20131"
+        },
+        "correct_answer": "B",
+        "question_id": "2201121",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201121.png"
+    },
+    {
+        "number": "22",
+        "text": "BFo r2r ( B l) r a2 r, e\u2206 2H 4\u02da 5va Jp \u2022= m 3 o1 l\u2013 1k \u2022J K\u2022m \u20131 o al n\u20131 d. I 1f 5 S 3\u02da J v \u2022mal ou le -s 1\u2022 f Ko \u2013r 1 B r2(g) and respectively, what is the normal boiling point for Br2(l)?",
+        "options": {
+            "A": "340 K",
+            "B": "200 K",
+            "C": "130 K",
+            "D": "70 K"
+        },
+        "correct_answer": "A",
+        "question_id": "2201122",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201122.png"
+    },
+    {
+        "number": "23",
+        "text": "vW oh lue mn eM cg hO an r ge ea c ists \u2013 w 4.i 6th m H L2 \u2022O m a ot l \u20132 15 . \u02daC and 1 atm, the MgO(s) + H2O(l) \u2192 Mg(OH)2(s) What is the value of \u2206H - \u2206E for this reaction?",
+        "options": {
+            "A": "\u20134.7 \u00d7 10\u20131 J\u2022mol\u20131",
+            "B": "\u20134.7 \u00d7 10^2 J\u2022mol\u20131",
+            "C": "4.7 \u00d7 10^2 J\u2022mol\u20131",
+            "D": "4.7 \u00d7 10\u20131 J\u2022mol\u20131"
+        },
+        "correct_answer": "A",
+        "question_id": "2201123",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201123.png"
+    },
+    {
+        "number": "24",
+        "text": "\u2206Fo Sr \u02da t =h e \u2013 3d 4is .s 9o Jlu \u2022mtio on l\u2013 1o \u2022f K A \u20131g a2S t 2O 54 , \u02da \u2206 CH . W\u02da = h a1 t7 i. s8 tk hJ e\u2022 m vao lul\u2013 e1 a on f d the Ksp for Ag2SO4 at this temperature?",
+        "options": {
+            "A": "5.0 \u00d7 10\u20132",
+            "B": "7.6 \u00d7 10\u20134",
+            "C": "5.3 \u00d7 10\u20134",
+            "D": "1.1 \u00d7 10\u20135"
+        },
+        "correct_answer": "D",
+        "question_id": "2201124",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201124.png"
+    },
+    {
+        "number": "25",
+        "text": "A rigid container holds an equal number of moles of N2 and H2 gas at a total pressure of 10.0 atm. The gases react according to the equation, N2(g) + 3 H2(g) 2 NH3(g). If the total pressure of the gas decreases at a rate of 0.20 atm\u2022s\u20131, what is the rate of change of the partial pressure of N2 in the container?",
+        "options": {
+            "A": "decreases at 0.40 atm\u2022s\u20131",
+            "B": "decreases at 0.30 atm\u2022s\u20131",
+            "C": "decreases at 0.20 atm\u2022s\u20131",
+            "D": "decreases at 0.10 atm\u2022s\u20131 Not for use as an USNCO National Exam after April 18, 2011"
+        },
+        "correct_answer": "D",
+        "question_id": "2201125",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201125.png"
+    },
+    {
+        "number": "26",
+        "text": "A reaction is found to have the rate law: Rate = k[A]2[B]. Which set of data is consistent with this finding? [A], mol\u2022L\u20131 [B], mol\u2022L\u20131 Rate, mol\u2022L\u20131\u2022s\u20131 Given 0.010 0.010 1.2 \u00d7 10\u20134 A 0.010 0.020 2.4 \u00d7 10\u20134 B 0.020 0.010 6.0 \u00d7 10\u20134 C 0.020 0.020 4.8 \u00d7 10\u20134 D 0.010 0.020 4.8 \u00d7 10\u20134",
+        "options": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "correct_answer": "A",
+        "question_id": "2201126",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201126.png"
+    },
+    {
+        "number": "27",
+        "text": "The value of the specific rate constant, k, for a reaction is determined at two different temperatures and plotted in the accompanying graph. Property of ACS USNCO \u2013 Not for use as an USNCO National knl What is the relationship between the slope of the graph and the activation energy, Ea?",
+        "options": {
+            "A": "slope = Ea",
+            "B": "slope = \u2013Ea",
+            "C": "slope = \u2013Ea/R",
+            "D": "slope = Ea \u00d7 R"
+        },
+        "correct_answer": "C",
+        "question_id": "2201127",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201127.png"
+    },
+    {
+        "number": "28",
+        "text": "Consider the reaction, 2 NO(g) + Cl2(g) \u2192 2 NOCl. Which of the following is/are required for a successful reaction between NO and Cl2 molecules? I Proper orientation II NO/Cl2 Ratio of 2 to 1 III Sufficient collision energy",
+        "options": {
+            "A": "II only",
+            "B": "I and III only",
+            "C": "II and III only",
+            "D": "I, II, and III"
+        },
+        "correct_answer": "B",
+        "question_id": "2201128",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201128.png"
+    },
+    {
+        "number": "29",
+        "text": "When sucrose, C12H22O11, is dissolved in H2O in the presence of an acid catalyst it reacts according to the equation C12H22O11 + H2O \u2192 2 C6H12O6 with a rate law of Rate = k[C12H22O11]. If 3.00 g of sucrose decreases to 2.70 g in 2.50 hours in the presence of a certain concentration of an acid catalyst, what is the half-life for this reaction under these same conditions?",
+        "options": {
+            "A": "12.5 hours",
+            "B": "16.4 hours",
+            "C": "23.7 hours",
+            "D": "37.9 hours"
+        },
+        "correct_answer": "B",
+        "question_id": "2201129",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201129.png"
+    },
+    {
+        "number": "30",
+        "text": "For the reaction H2(g) + 2 ICl(g) \u2192 2 HCl(g) + I2(g) one proposed mechanism is H2(g) + ICl(g) \u2192 HICl(g) + H(g) slow H(g) + ICl(g) \u2192 HCl(g) + I(g) fast HICl(g) \u2192 HCl(g) + I(g) fast I(g) + I(g) \u2192 I2(g) fast Intermediates in this reaction include which of the following?",
+        "options": {
+            "A": "HICl only",
+            "B": "I only",
+            "C": "HICl and H only",
+            "D": "HICl, H, and I"
+        },
+        "correct_answer": "D",
+        "question_id": "2201130",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201130.png"
+    },
+    {
+        "number": "31",
+        "text": "For the hypothetical reaction: A + B \u2192 C + D, the equilibrium constant, K, is less than 1.0 at 25 \u02daC and decreases by 35% on changing the temperature to 45 \u02daC. What must be true according to this information?",
+        "options": {
+            "A": "The \u2206H\u02da for the reaction is negative.",
+            "B": "The \u2206S\u02da for the reaction is positive.",
+            "C": "The \u2206G\u02da for the reaction at 25\u02da is negative.",
+            "D": "The \u2206G\u02da for the reaction at 45\u02da is zero."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "32",
+        "text": "Consider the reaction carried out at constant volume: 2 SO2(g) + O2(g) 2 SO3(g). For initial concentrations of SO2 and O2 of 2.0 M and 1.5 M, respectively, the equilibrium O2 concentration is 0.80 M. What is the value of Kc for this reaction?",
+        "options": {
+            "A": "6.8",
+            "B": "2.9",
+            "C": "0.34",
+            "D": "0.15"
+        },
+        "correct_answer": "A",
+        "question_id": "2201132",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201132.png"
+    },
+    {
+        "number": "33",
+        "text": "Correct statements about the percentage ionization of weak acids in water include which of the following? I The percentage ionization increases as the ionization constant of the acid becomes larger. II The percentage ionization increases as the concentration of the acid becomes smaller.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C",
+        "question_id": "2201133",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201133.png"
+    },
+    {
+        "number": "34",
+        "text": "What is the pH of the solution made by mixing 25.0 mL of 1.00 \u00d7 10\u20133 M HNO3 and 25.0 mL of 1.00 \u00d7 10\u20133 M NH3? [Kb for NH3 = 1.8 \u00d7 10\u20135]",
+        "options": {
+            "A": "4.02",
+            "B": "6.28",
+            "C": "7.72",
+            "D": "9.98"
+        },
+        "correct_answer": "B",
+        "question_id": "2201134",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201134.png"
+    },
+    {
+        "number": "35",
+        "text": "For the synthesis of ammonia, Kc is 1.2 at 375 \u02daC N2(g) + 3 H2(g) 2 NH3(g), What is Kp at this temperature?",
+        "options": {
+            "A": "4.1 \u00d7 10\u20138",
+            "B": "4.2 \u00d7 10\u20134",
+            "C": "1.3 \u00d7 10\u20133",
+            "D": "3.4 \u00d7 10^3 Exam after April 18, 2011"
+        },
+        "correct_answer": "B",
+        "question_id": "2201135",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201135.png"
+    },
+    {
+        "number": "36",
+        "text": "Calculate the aqueous solubility of Ca(OH)2 in grams per liter. [Ksp = 8.0 \u00d7 10\u20136]",
+        "options": {
+            "A": "5.9 \u00d7 10\u20134",
+            "B": "2.0 \u00d7 10\u20132",
+            "C": "0.93",
+            "D": "1.5"
+        },
+        "correct_answer": "C",
+        "question_id": "2201136",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201136.png"
+    },
+    {
+        "number": "37",
+        "text": "What is the coefficient for Zn when the equation below is balanced with the smallest whole number coefficients? Zn + H+(aq) + NO3\u2013 (aq) \u2192 Zn2+ (aq) + N2O(g) + H2O(l)",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "B",
+        "question_id": "2201137",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201137.png"
+    },
+    {
+        "number": "38",
+        "text": "Which change occurs as the chemical reaction takes place in the standard electrochemical cell represented below? Zn(s)|Zn2+(aq)||Sn2+(aq)|Sn(s) Reduction Half-reaction E\u02da (Volts at 298 K) Sn2+(aq) + 2e\u2013 \u2192 Sn(s) \u20130.136 Zn2+(aq) + 2e\u2013 \u2192 Zn(s) \u20130.763 I Electrons move through the external circuit from Zn to Sn. II The concentration of Zn2+(aq) increases. III The voltage increases from a negative value to zero.",
+        "options": {
+            "A": "I and II only",
+            "B": "I and III only",
+            "C": "II and III only",
+            "D": "I, II, and III"
+        },
+        "correct_answer": "A",
+        "question_id": "2201138",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201138.png"
+    },
+    {
+        "number": "1",
+        "text": "What is the value of the standard electrode potential, E\u02da for a fuel cell based on this reaction?",
+        "options": {
+            "A": "1.09 V",
+            "B": "2.18 V",
+            "C": "4.37 V",
+            "D": "21.8 V"
+        },
+        "correct_answer": "D",
+        "question_id": "220111",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220111.png"
+    },
+    {
+        "number": "40",
+        "text": "What occurs when an aqueous solution of Na2SO4 containing several drops of phenolphthalein is electrolyzed between Pt electrodes?",
+        "options": {
+            "A": "The colorless solution turns pink at the anode but remains colorless at the cathode.",
+            "B": "The colorless solution turns pink at the cathode but remains colorless at the anode.",
+            "C": "The pink solution becomes colorless at the anode but remains pink at the cathode.",
+            "D": "The pink solution becomes colorless at the cathode but remains pink at the anode."
+        },
+        "correct_answer": "B",
+        "question_id": "2201140",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201140.png"
+    },
+    {
+        "number": "41",
+        "text": "A current of 12 A is used to plate nickel from a Ni(NO3)2 solution. Both Ni(s) and H2(g) are produced at the cathode. If the current efficiency with respect to the formation of Ni(s) is 62%, how many grams of nickel are plated on the cathode in 45 minutes?",
+        "options": {
+            "A": "0.10",
+            "B": "6.1",
+            "C": "9.9",
+            "D": "12 CO"
+        },
+        "correct_answer": "B",
+        "question_id": "2201141",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201141.png"
+    },
+    {
+        "number": "42",
+        "text": "Calculate the cell potential, E, for a silver-silver chloride electrode immersed in 0.800 M KCl at 25 \u02daC. [Ag+ + e\u2013 \u2192 Ag, E\u02da = 0.799 V; Ksp = 1.8 \u00d7 10\u201310]",
+        "options": {
+            "A": "1.37 V",
+            "B": "0.80 V",
+            "C": "0.57 V",
+            "D": "0.23 V"
+        },
+        "correct_answer": "D",
+        "question_id": "2201142",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201142.png"
+    },
+    {
+        "number": "43",
+        "text": "Which gas-phase atom in its ground state has exactly three unpaired electrons?",
+        "options": {
+            "A": "Sc",
+            "B": "Fe",
+            "C": "Co",
+            "D": "Se"
+        },
+        "correct_answer": "C",
+        "question_id": "2201143",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201143.png"
+    },
+    {
+        "number": "1",
+        "text": "What is the longest wavelength of light that could remove an electron from a Na atom?",
+        "options": {
+            "A": "2.41 \u00d7 10\u20137 m",
+            "B": "2.41 \u00d7 10\u20134 m",
+            "C": "4.14 m",
+            "D": "4.14 \u00d7 10^3 m"
+        },
+        "correct_answer": "D",
+        "question_id": "220111",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220111.png"
+    },
+    {
+        "number": "45",
+        "text": "Which set of quantum numbers could represent an electron in a 5f orbital?",
+        "options": {
+            "A": "l = 4, ml = 2",
+            "B": "l = 2, ml = \u20133",
+            "C": "l = 3, ml = 4",
+            "D": "l = 3, ml = 0"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "46",
+        "text": "Which orbital possesses one angular node and one radial node?",
+        "options": {
+            "A": "2s",
+            "B": "2p",
+            "C": "3p",
+            "D": "3d"
+        },
+        "correct_answer": "C",
+        "question_id": "2201146",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201146.png"
+    },
+    {
+        "number": "47",
+        "text": "The radius of which ion is closest to that of the Li+ ion?",
+        "options": {
+            "A": "Na+",
+            "B": "Be2+",
+            "C": "Mg2+",
+            "D": "Al3+"
+        },
+        "correct_answer": "C",
+        "question_id": "2201147",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201147.png"
+    },
+    {
+        "number": "48",
+        "text": "Of the atoms listed, which has the largest third ionization energy?",
+        "options": {
+            "A": "Ca",
+            "B": "Mg",
+            "C": "Al",
+            "D": "Si"
+        },
+        "correct_answer": "B",
+        "question_id": "2201148",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201148.png"
+    },
+    {
+        "number": "49",
+        "text": "When the molecules N2, N2O, and N2O4 are arranged in order of decreasing N \u2013 N bond length, which order is correct?",
+        "options": {
+            "A": "N2O4, N2O, N2",
+            "B": "N2, N2O, N2O4",
+            "C": "N2O, N2, N2O4",
+            "D": "N2, N2O4, N2O"
+        },
+        "correct_answer": "A",
+        "question_id": "2201149",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201149.png"
+    },
+    {
+        "number": "50",
+        "text": "From a consideration of the Lewis structure, N = C = O ] - what are the formal charges?",
+        "options": {
+            "A": "N = \u20131, C = 0, O = 0",
+            "B": "N = 0, C = 0, O = \u20131",
+            "C": "N = \u20131, C = +1, O = \u20131",
+            "D": "N = \u20131, C = \u20131, O = +1"
+        },
+        "correct_answer": "A",
+        "question_id": "2201150",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201150.png"
+    },
+    {
+        "number": "9",
+        "text": "41 kJ\u2022mol\u20131, respectively. What is the bond energy of a single N\u2013H bond in kJ\u2022mol\u20131?",
+        "options": {
+            "A": "246",
+            "B": "359",
+            "C": "391",
+            "D": "782 Not for use as an USNCO National Exam after April 18, 2011"
+        },
+        "correct_answer": "D",
+        "question_id": "220119",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\220119.png"
+    },
+    {
+        "number": "52",
+        "text": "What is the geometry of the IBr2\u2013 ion?",
+        "options": {
+            "A": "linear",
+            "B": "bent with a bond angle of about 90\u02da",
+            "C": "bent with a bond angle of about 109\u02da",
+            "D": "bent with a bond angle of about 120\u02da"
+        },
+        "correct_answer": "A",
+        "question_id": "2201152",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201152.png"
+    },
+    {
+        "number": "53",
+        "text": "[H Co ow (e m n)a 2n Cy l2 i ]s +o im one sr ,s re ex si ps et cf to ivr eth lye ? [ [C eo n( =N H H3 2) N4C Cl 22 H]+ 4 Nan Hd 2 ]",
+        "options": {
+            "A": "2 and 2",
+            "B": "2 and 3",
+            "C": "3 and 2",
+            "D": "3 and 3"
+        },
+        "correct_answer": "B",
+        "question_id": "2201153",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201153.png"
+    },
+    {
+        "number": "54",
+        "text": "Which statement best describes the structure of the allene molecule, H2C=C=CH2?",
+        "options": {
+            "A": "The C atoms form an angle of 120\u02da and the H atoms lie in the same plane as the C atoms.",
+            "B": "The C atoms form an angle of 120\u02da and the H atoms lie in a plane perpendicular to that of the C atoms.",
+            "C": "The C atoms form an angle of 180\u02da and the four H atoms lie in the same plane.",
+            "D": "The C atoms form an angle of 180\u02da and the two CH2 groups are perpendicular to one another."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "55",
+        "text": "Oxidation of a secondary alcohol with K2Cr2O7 in sulfuric acid gives a product with which functional group?",
+        "options": {
+            "A": "aldehyde",
+            "B": "carboxylic acid",
+            "C": "ester",
+            "D": "ketone"
+        },
+        "correct_answer": "D",
+        "question_id": "2201155",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201155.png"
+    },
+    {
+        "number": "56",
+        "text": "What is the formula for anthracene, which has the structure shown?",
+        "options": {
+            "A": "C10H10",
+            "B": "C10H20",
+            "C": "C14H10",
+            "D": "C14H14"
+        },
+        "correct_answer": "C",
+        "question_id": "2201156",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201156.png"
+    },
+    {
+        "number": "57",
+        "text": "How many chiral centers are present in the molecule shown? H OH CH3 H HO C C C C OH H H H H",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "B",
+        "question_id": "2201157",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201157.png"
+    },
+    {
+        "number": "58",
+        "text": "What is the major product when nitrobenzene is treated with a mixture of HNO3 and H2SO4?",
+        "options": {
+            "A": "1,1-dinitrobenzene",
+            "B": "1,2-dinitrobenzene",
+            "C": "1,3-dinitrobenzene",
+            "D": "1,4-dinitrobenzene Property of ACS USNCO \u2013 Not for use as an USNCO National"
+        },
+        "correct_answer": "C",
+        "question_id": "2201158",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201158.png"
+    },
+    {
+        "number": "59",
+        "text": "Polysaccharides are biochemical molecules that consist of polymers of monosaccharide molecules (simple sugars). All of the following are classified as polysaccharides EXCEPT",
+        "options": {
+            "A": "cellulose.",
+            "B": "fructose.",
+            "C": "glycogen.",
+            "D": "starch."
+        },
+        "correct_answer": "B",
+        "question_id": "2201159",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201159.png"
+    },
+    {
+        "number": "60",
+        "text": "Which metal is found in vitamin B12?",
+        "options": {
+            "A": "Co",
+            "B": "Cu",
+            "C": "Fe",
+            "D": "Mn END OF TEST Exam after April 18, 2011"
+        },
+        "correct_answer": "A",
+        "question_id": "2201160",
+        "image_path": "output_images\\2011-usnco-national-exam-part-i\\2201160.png"
+    }
+]

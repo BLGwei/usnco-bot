@@ -1,0 +1,651 @@
+[
+    {
+        "number": "1",
+        "text": "Which potassium salt is 28.9% chlorine by mass?",
+        "options": {
+            "A": "KCl",
+            "B": "KClO",
+            "C": "KClO2",
+            "D": "KClO3"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "2",
+        "text": "How many sulfur atoms are in 3.00 g of iron pyrite, FeS2 (M = 120.0)?",
+        "options": {
+            "A": "7.53 \u00d7 10^21",
+            "B": "1.51 \u00d7 10^22",
+            "C": "3.01 \u00d7 10^22",
+            "D": "6.02 \u00d7 10^23"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "3",
+        "text": "A gas mixture contains 50 mol% H2 and 50 mol% He. 1.00-L samples of this gas mixture are mixed with variable volumes of O2 (at 0 \u00b0C and 1 atm). A spark is introduced to allow the mixture to undergo complete combustion. The final volume is measured at 0 \u00b0C and 1 atm. Which graph best depicts the final volume as a function of the volume of added O2?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "4",
+        "text": "What is the concentration of nitrate ions in 40.0 mL of a 0.25 M solution of copper(II) nitrate?",
+        "options": {
+            "A": "0.010 M",
+            "B": "0.020 M",
+            "C": "0.050 M",
+            "D": "0.50 M"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "5",
+        "text": "1.000 g of a transition metal carbonate, MCO3, is heated to produce the metal oxide and 0.383 g of carbon dioxide (M = 44.01). What is the identity of the metal M?",
+        "options": {
+            "A": "Mn",
+            "B": "Ni",
+            "C": "Cu",
+            "D": "Zn\nIONS the corresponding space on the answer sheet using a soft, #2 ide to change an answer, erase the unwanted mark very carefully. s for which more than one response has been blackened will not er correctly. It is to your advantage to answer every question."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "6",
+        "text": "14.0 mL of 0.53 M barium nitrate solution and 16.0 mL of 0.44 M sodium sulfate solution are mixed. Which ion is LEAST abundant in solution?",
+        "options": {
+            "A": "Ba2+",
+            "B": "NO3\u2013",
+            "C": "Na+",
+            "D": "SO42-"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "7",
+        "text": "Which salt gives a colorless aqueous solution?",
+        "options": {
+            "A": "NaClO4",
+            "B": "K2CrO4",
+            "C": "Ni(NO3)2",
+            "D": "CuSO4"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "8",
+        "text": "100 mL of a 1.0 M solution of hydrochloric acid is gradually added to a stirred mixture containing 0.01 mol calcium hydroxide, 100 mL water, and a small amount of phenolphthalein. What changes are observed? I. The mixture changes from colorless to pink. II. The mixture changes from cloudy to clear.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "9",
+        "text": "Below is shown a section of a buret filled with titrant before beginning a titration. What initial volume should be recorded?",
+        "options": {
+            "A": "1.20 mL",
+            "B": "1.26 mL",
+            "C": "2.74 mL",
+            "D": "2.80 mL"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "10",
+        "text": "Titration with aqueous triiodide solution to a starch endpoint would be LEAST suitable for which determination?",
+        "options": {
+            "A": "Analysis of nickel content in a Ni/Co alloy",
+            "B": "Determination of ascorbic acid in a vitamin C tablet",
+            "C": "Measurement of sulfite concentration in a white wine",
+            "D": "Determination of waters of hydration in a sodium thiosulfate sample"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "11",
+        "text": "Which liquid will NOT react with metallic sodium?",
+        "options": {
+            "A": "Water",
+            "B": "Mineral oil",
+            "C": "Ethanol",
+            "D": "Carbon tetrachloride"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "12",
+        "text": "The molar enthalpy of solution of a salt that dissolves endothermically in water is measured in a coffee-cup calorimeter by weighing a known amount of distilled water into the cup and measuring its temperature, then adding a known mass of the salt to the water and measuring the temperature after the salt dissolves. If some water is initially present in the cup before the weighed amount of water is added, what is the effect on the experiment?",
+        "options": {
+            "A": "Calculated \u2206H\u00b0soln > True \u2206H\u00b0soln",
+            "B": "Calculated \u2206H\u00b0soln = True \u2206H\u00b0soln",
+            "C": "Calculated \u2206H\u00b0soln < True \u2206H\u00b0soln",
+            "D": "The reaction will be calculated to be exothermic even though it is actually endothermic."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "13",
+        "text": "When liquid water converts to solid ice at 0 \u00b0C and 1 atm pressure, which of the following changes takes place?",
+        "options": {
+            "A": "Heat flows out of the system.",
+            "B": "The volume of the system decreases.",
+            "C": "The vapor pressure of water increases.",
+            "D": "The hydrogen bonds become weaker."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "14",
+        "text": "Which isomer of C4H8O2 has the greatest solubility in water?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "15",
+        "text": "Which compound has the lowest normal boiling point?",
+        "options": {
+            "A": "HF",
+            "B": "HCl",
+            "C": "HBr",
+            "D": "HI"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "16",
+        "text": "A sealed container contains a gaseous sample at 300.0 K consisting of either pure ethane (C2H6), pure neon (Ne), or a mixture of the two. The pressure inside the container at this temperature is 1.00 atm. When the container is cooled to 150.0 K, the pressure is 0.37 atm. What is the composition of the sample? (The vapor pressure of C2H6 at 150 K is 0.10 atm; the critical temperature of Ne is 44 K.)",
+        "options": {
+            "A": "Pure ethane",
+            "B": "Pure neon",
+            "C": "A mixture of ethane and neon.",
+            "D": "It cannot be determined from the information given."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "17",
+        "text": "Which statement about sulfur, whose phase diagram is shown below, is correct?",
+        "options": {
+            "A": "Monoclinic sulfur sublimes at 1 atm pressure while rhombic sulfur does not.",
+            "B": "Rhombic sulfur is less dense than monoclinic sulfur.",
+            "C": "At temperatures above 119 \u00b0C, monoclinic sulfur cannot exist at equilibrium.",
+            "D": "The conversion of rhombic sulfur to monoclinic sulfur is endothermic."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "18",
+        "text": "Aluminum crystallizes in a face-centered cubic unit cell with an edge length of 405 pm. What is its density?",
+        "options": {
+            "A": "0.674 g cm-3",
+            "B": "1.35 g cm-3",
+            "C": "2.70 g cm-3",
+            "D": "5.40 g cm-3"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "19",
+        "text": "A container with 100.0 g of ice at 0 \u00b0C is placed in a humid room whose temperature is 40 \u00b0C. The ice melts as water vapor condenses into the container. Assuming that all the heat transferred to the container comes from condensation, how much water will have condensed in the container once all the ice is melted and has reached 40 \u00b0C? The heat of fusion of ice is 334 J g-1 and the heat of vaporization of water is 2260 J g-(1).",
+        "options": {
+            "A": "13.8 g",
+            "B": "14.8 g",
+            "C": "22.2 g",
+            "D": "677 g"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "20",
+        "text": "The standard enthalpy of formation of hematite, Fe2O3(s), is \u2013825.5 kJ mol-(1). What is the standard enthalpy of reaction for the reduction of hematite with carbon monoxide to give metallic iron as shown below? CO(g) + 1/2 O2(g) \u2192 \u2206H\u00b0rxn = \u2013283.0 kJ mol-1 CO2(g) Fe2O3(s) + 3 CO(g) \u2192 \u2206H\u00b0rxn = ??? 2 Fe(s) + 3 CO2(g)",
+        "options": {
+            "A": "\u201323.5 kJ mol-1",
+            "B": "\u2013542.5 kJ mol-1",
+            "C": "\u2013849.0 kJ mol-1",
+            "D": "\u20131674.5 kJ mol-1"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "21",
+        "text": "Which of the following equations correctly describe the change in internal energy, \u0394E, of a reaction taking place in a bomb calorimeter? I. \u2206E = q II. \u2206E = \u2206H \u2013 V\u2206P",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "22",
+        "text": "Cyclopropane isomerizes exothermically to propene as shown. The C\u2013C single bond in propene has an estimated bond dissociation enthalpy (BDE) of 345 kJ mol-1, while the C=C double bond in propene has a BDE of 611 kJ mol-(1). Assuming that the C\u2013H bonds in propene and cyclopropane all have the same BDE, what is the estimated BDE of a C\u2013C single bond in cyclopropane?",
+        "options": {
+            "A": "308 kJ mol-1",
+            "B": "329 kJ mol-1",
+            "C": "423 kJ mol-1",
+            "D": "924 kJ mol-1"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "23",
+        "text": "Two reactions have similar \u2206H\u00b0rxn values (\u2206H\u00b0rxn (1) \u2248 \u2206H\u00b0rxn (2)), but reaction (1) has a much smaller standard entropy change than reaction (2) (\u2206S\u00b0rxn (1) << \u2206S\u00b0rxn (2)). At 298 K, which statements about these two reactions must be correct? I. Reaction (1) must have a larger equilibrium constant (Keq (1) > Keq (2)). II. Reaction (1) must have a larger Arrhenius prefactor (A(1) > A(2)).",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "25",
+        "text": "Dichromate ion is reduced by chloride ion according to the equation below. If [Cl\u2013] is decreasing at a rate of 0.37 mol L-1 min-1, how is the concentration of Cr3+(aq) changing? 14 H+(aq) + Cr2O72-(aq) + 6 Cl\u2013(aq) \u2192 2 Cr3+(aq) + 3 Cl2(aq) + 7 H2O(l)",
+        "options": {
+            "A": "Increasing by 0.12 mol L-1 min-1",
+            "B": "Increasing by 1.11 mol L-1 min-1",
+            "C": "Decreasing by 0.12 mol L-1 min-1",
+            "D": "Decreasing by 1.11 mol L-1 min-1"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "26",
+        "text": "The isotope cobalt-57 has a half-life of 272 d. How long will it take a sample of 57Co to decay to 38% of its original activity?",
+        "options": {
+            "A": "103 d",
+            "B": "337 d",
+            "C": "188 d",
+            "D": "380 d"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "27",
+        "text": "Which statement best describes the variation of the rate constant of a reaction with temperature?",
+        "options": {
+            "A": "The rate constant does not change with temperature because it is an unvarying characteristic of the specific reaction.",
+            "B": "The rate constant typically decreases with increasing temperature because fewer molecules are able to adopt the required orientation at higher temperature.",
+            "C": "The rate constant typically increases with increasing temperature because increasing the temperature increases the fraction of collisions that result in reaction.",
+            "D": "The rate constant typically increases with increasing temperature because most reactions become more favorable as the temperature increases."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "28",
+        "text": "A mechanism for the reaction of nitric oxide with hydrogen to form water and nitrogen gas is proposed below. What rate law is predicted by this mechanism? 2 NO(g) N2O2(g) fast, unfavorable equilibrium N N2 2O O2 (( gg )) + + \u21c4 H H 22 O(g (g) )\u2192 slow, irreversible N2O(g) + H2(g) \u2192 fast, irreversible H2O(g) + N2(g)",
+        "options": {
+            "A": "Rate = k[NO]2",
+            "B": "Rate = k[NO]2[H2]",
+            "C": "Rate = k[NO]2[H2]2",
+            "D": "[NO] [H ] Rate = k [N O2][H2O2] 2 2"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "29",
+        "text": "An irreversible reaction A + B \u2192 C is carried out under various conditions, but always with [B]0 >> [A](0). Plots of 1/[A] as a function of time for each reaction are linear, and the slopes of these plots do not depend on the initial concentration of B. What is the rate law for the reaction under these conditions?",
+        "options": {
+            "A": "Rate = k[A]",
+            "B": "Rate = k[A][B]",
+            "C": "Rate = k[A]2",
+            "D": "Rate = k[A]2[B]"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "30",
+        "text": "The reaction of H2(g) with C2H4(g) to form C2H6(g) is catalyzed by metallic platinum. Which statement most accurately describes the impact of changing the catalyst in this reaction?",
+        "options": {
+            "A": "The rate of the reaction would not change if a greater mass of catalyst were used because the platinum is a solid so its concentration is a fixed number.",
+            "B": "The rate of the reaction would increase if more finely divided platinum were used because the reaction depends on the surface area of the catalyst.",
+            "C": "The \u2206H\u00b0 for the reaction would become more negative if a greater mass of catalyst were used because the catalyst adsorbs the reactants exothermically.",
+            "D": "The \u2206S\u00b0 for the reaction would become more negative if more finely divided platinum were used because the catalyst absorbs gas-phase reactants to form ordered surface species."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "31",
+        "text": "Lead(II) iodide has a solubility product constant of 1.4 \u00d7 10^-(8). What is the concentration of I\u2013 in a saturated solution of PbI2?",
+        "options": {
+            "A": "1.2 \u00d7 10^-4 M",
+            "B": "2.4 \u00d7 10^-4 M",
+            "C": "1.5 \u00d7 10^-3 M",
+            "D": "3.0 \u00d7 10^-3 M"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "32",
+        "text": "Sodium bicarbonate decomposes at high temperatures according to the following equation: 2 NaHCO3(s) Na2CO3(s) + CO2(g) + H2O(g) At a certain tempera\u21c6ture, 50.0 g of NaHCO3 is allowed to react in a 3.0 L evacuated vessel. At equilibrium, the total pressure is 6.25 atm, with some of both solids still present. If 100.0 g of NaHCO3 is allowed to react in the same vessel at the same temperature, what will the pressure be at equilibrium?",
+        "options": {
+            "A": "6.25 atm",
+            "B": "8.84 atm",
+            "C": "12.5 atm",
+            "D": "25.0 atm"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "33",
+        "text": "In a solution prepared by dissolving 0.1 mol NaNO2 in 1.0 L pure water, which species has the lowest concentration?",
+        "options": {
+            "A": "Na+",
+            "B": "NO2\u2013",
+            "C": "HNO2",
+            "D": "H3O+"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "34",
+        "text": "A saturated solution of which silver salt has the highest concentration of Ag+?",
+        "options": {
+            "A": "AgCl, Ksp = 1.8 \u00d7 10^-10",
+            "B": "Ag2CrO4, Ksp = 1.1 \u00d7 10^-12",
+            "C": "AgBr, Ksp = 5.0 \u00d7 10^-13",
+            "D": "Ag2SO3, Ksp = 1.5 \u00d7 10^-14"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "35",
+        "text": "What is the pH of a 0.10 M solution of NH4F? The Ka of NH4+ is 5.6 \u00d7 10^-10 and the Ka of HF is 6.8 \u00d7 10^-(4).",
+        "options": {
+            "A": "2.08",
+            "B": "5.12",
+            "C": "6.21",
+            "D": "8.08"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "36",
+        "text": "1.000 g of which salt, when titrated with 0.500 M HCl, gives the titration curve shown?",
+        "options": {
+            "A": "Potassium cyanide, KCN (M = 65.12, pKa of HCN = 9.2)",
+            "B": "Sodium nitrite, NaNO2 (M = 69.00, pKa of HNO2 = 3.4)",
+            "C": "Potassium phenoxide, K(C6H5O) (M = 116.20, pKa of C6H5OH = 9.9)",
+            "D": "Sodium pivalate, Na(C4H9COO) (M = 124.11, pKa of C4H9COOH = 4.9)"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "37",
+        "text": "Roman\u00e8chite has the formula Ba2Mn5O10 \u2022 2H2O. What is the average oxidation state of manganese in roman\u00e8chite?",
+        "options": {
+            "A": "+2.0",
+            "B": "+3.2",
+            "C": "+3.6",
+            "D": "+4.0"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "38",
+        "text": "Which element is being reduced in the following equation? 3 Cu(s) + 8 HNO3(aq) \u2192 2 NO(g) + 3 Cu(NO3)2(aq) + 4 H2O(l)",
+        "options": {
+            "A": "Cu",
+            "B": "H",
+            "C": "N",
+            "D": "O"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "39",
+        "text": "A galvanic cell is constructed under standard conditions using cobalt in cobalt(II) nitrate solution and indium in indium(III) nitrate solution. Which statements about this cell are correct? Half-reaction E\u00b0, V Co2+(aq) + 2e\u2013 \u2192 Co(s) \u20130.28 In3+(aq) + 3e\u2013 \u2192 In(s) \u20130.34 I. The standard cell potential is 0.46 V. II. Indium is the anode.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "40",
+        "text": "Molten sodium chloride is electrolyzed for 10.0 minutes with a constant current of 10.0 A. What mass of sodium metal is produced?",
+        "options": {
+            "A": "1.43 g",
+            "B": "2.20 g",
+            "C": "3.63 g",
+            "D": "4.41 g"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "41",
+        "text": "The standard cell potential of a galvanic cell based on the reaction below is 1.10 V. Which concentrations would result in the largest measured voltage? Cu2+(aq) + Zn(s) \u2192 Zn2+(aq) + Cu(s)",
+        "options": {
+            "A": "[Cu2+] = 1.0 M and [Zn2+] = 1.0 M",
+            "B": "[Cu2+] = 3.0 M and [Zn2+] = 1.0 M",
+            "C": "[Cu2+] = 1.0 M and [Zn2+] = 3.0 M",
+            "D": "[Cu2+] = 3.0 M and [Zn2+] = 3.0 M"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "42",
+        "text": "The standard reduction potential of oxygen under acidic conditions at 298 K is +1.23 V. What is the standard reduction potential for the four-electron reduction of O2(g) under basic conditions?",
+        "options": {
+            "A": "1.23 V",
+            "B": "1.02 V",
+            "C": "0.83 V",
+            "D": "0.40 V"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "43",
+        "text": "Photons of what wavelength of light have an energy of 1.00 \u00d7 10^3 kJ mol-1?",
+        "options": {
+            "A": "2.00 \u00d7 10^31 m",
+            "B": "1.20 \u00d7 10^-7 m",
+            "C": "1.20 \u00d7 10^-4 m",
+            "D": "8.36 \u00d7 10^6 m"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "44",
+        "text": "In which set are all three species isoelectronic?",
+        "options": {
+            "A": "H+, Li+, Na+",
+            "B": "C, N\u2013, O2\u2013",
+            "C": "Se2-, Br\u2013, Rb+",
+            "D": "I, Xe, Cs"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "45",
+        "text": "Which change in principal quantum number n involves the greatest change in energy?",
+        "options": {
+            "A": "n = 1 \u2192 n = 2 in H",
+            "B": "n = 2 \u2192 n = 3 in He+",
+            "C": "n = 3 \u2192 n = 4 in Li2+",
+            "D": "n = 4 \u2192 n = 5 in Be3+"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "46",
+        "text": "Which gas-phase ion has the greatest number of unpaired electrons in its ground state?",
+        "options": {
+            "A": "Fe3+",
+            "B": "Co3+",
+            "C": "Ni3+",
+            "D": "Cu3+"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "47",
+        "text": "Which principle restricts the occupancy of an atomic orbital to no more than two electrons?",
+        "options": {
+            "A": "The principle of conservation of energy",
+            "B": "The principle of conservation of angular momentum",
+            "C": "The Pauli exclusion principle",
+            "D": "The Heisenberg uncertainty principle"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "48",
+        "text": "When copper-64 decays by positron emission, what daughter nuclide is formed?",
+        "options": {
+            "A": "64Ni",
+            "B": "65Ni",
+            "C": "64Zn",
+            "D": "65Zn"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "49",
+        "text": "Which molecule has a nonzero dipole moment?",
+        "options": {
+            "A": "CF4",
+            "B": "C2F4",
+            "C": "SF4",
+            "D": "SF6"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "50",
+        "text": "How many \u03c0 bonds are in cyanogen, NCCN?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "7"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "51",
+        "text": "In azomethane, H3CNNCH3, what are the molecular geometries around the carbon and nitrogen atoms, respectively?",
+        "options": {
+            "A": "Tetrahedral at carbon, bent at nitrogen",
+            "B": "Tetrahedral at carbon, linear at nitrogen",
+            "C": "Square planar at carbon, bent at nitrogen",
+            "D": "Square planar at carbon, linear at nitrogen"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "52",
+        "text": "What is the bond order of O2+?",
+        "options": {
+            "A": "1.0",
+            "B": "1.5",
+            "C": "2.0",
+            "D": "2.5"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "53",
+        "text": "Which is the best explanation for phosphorus favoring formation of P4 over P2 molecules, while nitrogen forms only N2 molecules?",
+        "options": {
+            "A": "Phosphorus-phosphorus \u03c0 bonds are weaker than nitrogen-nitrogen \u03c0 bonds.",
+            "B": "Phosphorus can have an expanded octet while nitrogen cannot.",
+            "C": "The nonbonding electrons on phosphorus occupy an unhybridized s orbital while the nonbonding electrons on nitrogen occupy hybrid orbitals.",
+            "D": "The larger size of phosphorus allows the bonding electrons to be closer together."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "54",
+        "text": "In the octahedral complex Co(NH2CH2CO2)3, each glycinate ion NH2CH2CO2\u2013 binds to cobalt through its nitrogen atom and one of its oxygen atoms. How many stereoisomers of Co(NH2CH2CO2)3 are possible?",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "55",
+        "text": "A molecule has the formula C5H10O. Which functional groups might it contain? I. Alcohol II. Ketone",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Either I or II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "56",
+        "text": "How many distinct branched alkanes are there with the formula C6H14?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "57",
+        "text": "Which cycloalkane in its most stable conformation has average internal C\u2013C\u2013C bond angles most different from the value given?",
+        "options": {
+            "A": "Cyclopropane, 60\u00b0",
+            "B": "Cyclobutane, 90\u00b0",
+            "C": "Cyclopentane, 108\u00b0",
+            "D": "Cyclohexane, 120\u00b0"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "58",
+        "text": "Which gas is most reactive toward 1-hexene?",
+        "options": {
+            "A": "N2",
+            "B": "O3",
+            "C": "N2O",
+            "D": "NH3"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "59",
+        "text": "Which structure depicts the enantiomer of the diol shown?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "The diol shown is achiral and does not have an enantiomer."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "60",
+        "text": "Which biomolecule does NOT contain C=O double bonds?",
+        "options": {
+            "A": "Sucrose (a carbohydrate)",
+            "B": "Glyceryl trioleate (a lipid)",
+            "C": "Phenylalanine tRNA (a nucleic acid)",
+            "D": "Trypsin (a protein)"
+        },
+        "correct_answer": "A"
+    }
+]

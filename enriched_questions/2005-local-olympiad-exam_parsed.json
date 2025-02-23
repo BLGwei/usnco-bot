@@ -1,0 +1,751 @@
+[
+    {
+        "number": "1",
+        "text": "When 6 M hydrochloric acid is added to an unknown white solid, a colorless gas is produced. What is a possible identity for this solid?",
+        "options": {
+            "A": "calcium nitrate",
+            "B": "copper(II) chloride",
+            "C": "potassium sulfate",
+            "D": "sodium carbonate"
+        },
+        "correct_answer": "D",
+        "question_id": "120051",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120051.png"
+    },
+    {
+        "number": "2",
+        "text": "sW lowha lt y i as tt h oe n ef i ars tmt c oh sa pn hg ee r et h pa rt e so sc uc ru er ?s when I2(s) is heated",
+        "options": {
+            "A": "The solid melts.",
+            "B": "The solid vaporizes.",
+            "C": "The solid breaks into atoms.",
+            "D": "The solid becomes darker in color."
+        },
+        "correct_answer": "B",
+        "question_id": "120052",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120052.png"
+    },
+    {
+        "number": "3",
+        "text": "Two pure organic compounds melt at 112 \u02daC and 114 \u02daC, respectively. If equal quantities of them are mixed, at what temperature will the mixture begin to melt?",
+        "options": {
+            "A": "below 112 \u02daC",
+            "B": "at 112 \u02daC",
+            "C": "between 112 \u02daC and 114 \u02daC",
+            "D": "above 114 \u02daC"
+        },
+        "correct_answer": "A",
+        "question_id": "120053",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120053.png"
+    },
+    {
+        "number": "4",
+        "text": "What is the major reason for using mercury (rather than water) in barometers?",
+        "options": {
+            "A": "Mercury is much denser than water.",
+            "B": "Mercury has a higher boiling point than water.",
+            "C": "Mercury is chemically unreactive compared with water.",
+            "D": "Mercury expands with a decrease in air pressure; water does not."
+        },
+        "correct_answer": "A",
+        "question_id": "120054",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120054.png"
+    },
+    {
+        "number": "5",
+        "text": "How can 0.1 g samples of the two white solids, lead(II) chloride and silver chloride, be distinguished from one another?",
+        "options": {
+            "A": "Add 10 mL of cold water to each. The silver chloride will dissolve.",
+            "B": "Add 10 mL of hot water to each. The lead(II) chloride will dissolve.",
+            "C": "Add 10 mL of sodium chloride to each solution. The lead(II) chloride will become warm and release chlorine gas.",
+            "D": "Add 10 mL of zinc chloride solution to each. The silver chloride will change to metallic silver. Not for use as a USNCO Local Section Exam after March 28, 2\nIONS the corresponding space on the answer sheet using a soft, #2 ide to change an answer, erase the unwanted mark very carefully. s for which more than one response has been blackened will not er correctly. It is to your advantage to answer every question."
+        },
+        "correct_answer": "B",
+        "question_id": "120055",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120055.png"
+    },
+    {
+        "number": "6",
+        "text": "Which is the proper way to heat a liquid in a test tube?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+        },
+        "correct_answer": "D",
+        "question_id": "120056",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120056.png"
+    },
+    {
+        "number": "7",
+        "text": "What is the mass of one molecule of water in grams?",
+        "options": {
+            "A": "18",
+            "B": "1.1 \u00d7 10^-21",
+            "C": "3.0 \u00d7 10^-23",
+            "D": "1.7 \u00d7 10^-24"
+        },
+        "correct_answer": "C",
+        "question_id": "120057",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120057.png"
+    },
+    {
+        "number": "8",
+        "text": "If nitrogen atoms are represented as filled circles and and oxygen atoms as open circles, how much N thO e 2m c ia xn tu b re e p shre op wa nre ?d from",
+        "options": {
+            "A": "4 molecules",
+            "B": "5 molecules",
+            "C": "6 molecules",
+            "D": "8 molecules"
+        },
+        "correct_answer": "D",
+        "question_id": "120058",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120058.png"
+    },
+    {
+        "number": "9",
+        "text": "A mineral containing iron(II) sulfide but no other sulfides is treated with excess hydrochloric acid to produce hydrogen sulfide. If a 3.15 g sample of the mineral yields 448 mL of hydrogen sulfide gas (measured at 0 \u02daC and 760 mm Hg), what is the mass percentage of iron(II) sulfide in the sample?",
+        "options": {
+            "A": "20.4",
+            "B": "35.5",
+            "C": "55.8",
+            "D": "71.0 05"
+        },
+        "correct_answer": "C",
+        "question_id": "120059",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120059.png"
+    },
+    {
+        "number": "4",
+        "text": "What is the percentage of Tl-205?",
+        "options": {
+            "A": "14.0%",
+            "B": "30.0%",
+            "C": "50.0 %",
+            "D": "70.0 %"
+        },
+        "correct_answer": "A",
+        "question_id": "120054",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120054.png"
+    },
+    {
+        "number": "2",
+        "text": ".0 0 1 b5 al. a5 n g c eo df c N he2mO4i ca an ld e q4 u.6 a8 ti og n o if s N ; 2H4 when they react? The 2N2O4 + N2H4 r 6NO + 2H2O.",
+        "options": {
+            "A": "4.38",
+            "B": "5.04",
+            "C": "15.2",
+            "D": "26.2"
+        },
+        "correct_answer": "B",
+        "question_id": "120052",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120052.png"
+    },
+    {
+        "number": "12",
+        "text": "What volume of 0.108 M H2SO4 is required to neutralize 25.0 mL of 0.145 M KOH?",
+        "options": {
+            "A": "16.8 mL",
+            "B": "33.6 mL",
+            "C": "37.2 mL",
+            "D": "67.1 mL"
+        },
+        "correct_answer": "A",
+        "question_id": "1200512",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200512.png"
+    },
+    {
+        "number": "2",
+        "text": "How do their average",
+        "options": {
+            "A": "He = H2 = N2 = CO2",
+            "B": "CO2 < H2 = N2 < He",
+            "C": "He < H2 < N2 < CO2",
+            "D": "CO2 < N2 < He < H2"
+        },
+        "correct_answer": "B",
+        "question_id": "120052",
+        "image_path": "output_images\\2005-local-olympiad-exam\\120052.png"
+    },
+    {
+        "number": "800",
+        "text": "mm Hg pressure and 25.0 \u02daC the mass is 1052.4 g. What is the molar mass of the gas (in g\u00b7mol-1)?",
+        "options": {
+            "A": "28",
+            "B": "31",
+            "C": "54",
+            "D": "56"
+        },
+        "correct_answer": null
+    },
+    {
+        "number": "15",
+        "text": "A mixture of 0.100 mol of Vapor pressure @ 22 \u02daC N2 and 0.200 mol of O2 is H2O 22 mmHg c mo mlle Hct ge d a no dv e ar tH em2O p ea rt a a tun r ea t om f o 2s 2p h \u02daCer .i c W p hr ae ts s isu r te h eo f p a7 r5 t0 ia. l pressure (in mmHg) of O2 in this mixture?",
+        "options": {
+            "A": "478",
+            "B": "485",
+            "C": "500",
+            "D": "515"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "16",
+        "text": "A solid is insoluble in water, does not conduct electricity, and does not melt below 1000 \u02daC. This solid could be",
+        "options": {
+            "A": "Pt.",
+            "B": "SiC.",
+            "C": "CsCl.",
+            "D": "C10H"
+        },
+        "correct_answer": "B",
+        "question_id": "1200516",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200516.png"
+    },
+    {
+        "number": "22",
+        "text": "17. Which property(ies) of a I. vapor pressure liquid increases when the II. surface tension temperature is raised?",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II No"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "18",
+        "text": "Which statement is correct about the substance represented by this phase diagram?",
+        "options": {
+            "A": "The solid sublimes at 1 atm pressure.",
+            "B": "Its normal boiling point is above 300K.",
+            "C": "It exists as a liquid at 25 \u02daC and 1 atm pressure.",
+            "D": "The density of the solid is greater than that of the liquid."
+        },
+        "correct_answer": "D",
+        "question_id": "1200518",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200518.png"
+    },
+    {
+        "number": "19",
+        "text": "Which equation represents the reaction for the standard e an tmth ?alpy of formation, \u2206Hf\u02da, for B5H9(g) at 298 K and 1",
+        "options": {
+            "A": "5B(s) + 9H(g) r B5H9(g)",
+            "B": "2B(s) + 3BH3(g) r B5H9(g)",
+            "C": "52B2(g) + 92H2(g) r B5H9(g)",
+            "D": "5 B(s) + 92H2(g) r B5H9(g) \u20ac20 . C2H6(\u20acg) + 72O2(g) \u20ac r 2CO2(g) + 3H2O(g) \u2206H\u02da = \u20131427.7 kJ I w o\u20acf f h t Hh ate 2 O ie s (n \u2206 gth )H ?a \u02dal p fy o ro tf h v isa p reo ar ciz tia ot nio in f f Ho 2r O H (2lO ) i( sl ) f ois r m44 e. d0 ik nJ s/ tm eao dl, \n(A) \u20131295.7 kJ \n(B) \u20131383.7 kJ \n(C) \u20131471.7 kJ \n(D) \u20131559.7 kJ"
+        },
+        "correct_answer": "D",
+        "question_id": "1200519",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200519.png"
+    },
+    {
+        "number": "21",
+        "text": "A gold ring that Specific Heat Capacity (J\u00b7g-1\u00b7\u02daC-1) weighs 3.81 g is Au 0.129 heated to 84.0 \u02daC H2O 4.18 a ten md p p el ra ac tue rd e ?in 50.0 g of H2O at 22.1 \u02daC. What is the final",
+        "options": {
+            "A": "22.2 \u02daC",
+            "B": "24.0 \u02daC",
+            "C": "26.5 \u02daC",
+            "D": "53.1 \u02daC"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "22",
+        "text": "Calculate the change in enthalpy, \u2206Hf\u02da (kJ\u00b7mol-1) \u2206H, for the combustion of 11.2 L H2O(g) \u2013241.8 of hydrogen gas, measured at 0 \u02daC and 1 atm pressure, to form H2O(g).",
+        "options": {
+            "A": "\u201360.5 kJ",
+            "B": "\u2013121 kJ",
+            "C": "\u2013484 kJ",
+            "D": "\u20132710 kJ"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "23",
+        "text": "Which reaction proceeds with the greatest increase in entropy?",
+        "options": {
+            "A": "H2(g) + O2(g) r H2O2(l)",
+            "B": "Br2(l) + F2(g) r 2BrF(g)",
+            "C": "Cu2+(aq) + Zn(s) r Cu(s) + Zn2+(aq)",
+            "D": "4NH3(g) + 7O2(g) r 4NO2(g) + 6H2O(g)"
+        },
+        "correct_answer": "B",
+        "question_id": "1200523",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200523.png"
+    },
+    {
+        "number": "24",
+        "text": "For the reaction, This reaN ct2iH o4n( l i) s r N2(g) + 2H2(g) \u2206H\u02da = -(50).6 kJ.",
+        "options": {
+            "A": "spontaneous at all temperatures.",
+            "B": "non-spontaneous at all temperatures.",
+            "C": "spontaneous only at low temperatures.",
+            "D": "spontaneous only at high temperatures."
+        },
+        "correct_answer": "A",
+        "question_id": "1200524",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200524.png"
+    },
+    {
+        "number": "25",
+        "text": "All of the following are expected to affect the rate of an irreversible chemical reaction EXCEPT",
+        "options": {
+            "A": "adding a catalyst.",
+            "B": "removing some products.",
+            "C": "increasing the temperature.",
+            "D": "decreasing the reactant concentration."
+        },
+        "correct_answer": "B",
+        "question_id": "1200525",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200525.png"
+    },
+    {
+        "number": "26",
+        "text": "The oxidation of ammonia produces nitrogen and water according to the equation: I 3f . 0th me ora l.t Le4 -o 1N .f s H -f 1o3 , ( r wg m) ha + at ti o3 in sO to2 h( f eg N ) r a2r ta e t2 oaN f c2 d( e ig r s) t aa + pin p 6 etH e am r2 aO p n( e cg r e) a otu f r Oe 2i ?s",
+        "options": {
+            "A": "2.0 mol.L-(1).s-1",
+            "B": "3.0 mol.L-(1).s-1",
+            "C": "4.5 mol.L-(1).s-1",
+            "D": "9.0 mol.L-(1).s-1"
+        },
+        "correct_answer": "C",
+        "question_id": "1200526",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200526.png"
+    },
+    {
+        "number": "27",
+        "text": "What are the units of the rate constant for a second order reaction when the rate is expressed in mol.L-(1).s-1?",
+        "options": {
+            "A": "s-1",
+            "B": "L.mol-1",
+            "C": "L.mol-(1).s-1",
+            "D": "L2.mol-(2).s-1"
+        },
+        "correct_answer": "C",
+        "question_id": "1200527",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200527.png"
+    },
+    {
+        "number": "28",
+        "text": "For the reaction: (CH3)3CBr(aq) + OH\u2013(aq) r (CH3)3COH(aq) + Br\u2013(aq) i ct a i us s f eo su tn hd e t rh ea at c th ioal nv i rn ag te t th oe bc eo n hc ae lvn etr da t bi uo tn h o af l v(C inH g 3t) h3C eBr concentration of OH\u2013 has no effect on the rate. What is the rate law?",
+        "options": {
+            "A": "Rate=k[(CH3)3CBr]12[OH\u2013]",
+            "B": "Rate=k[(CH3)3CBr]2[OH\u2013] \u20ac",
+            "C": "Rate=k[(CH3)3CBr]12 \u20ac",
+            "D": "Rate=k[(CH3)3CBr] \u20ac \u20ac Not for use as a USNCO Local Section Exam after March 28, 2"
+        },
+        "correct_answer": "D",
+        "question_id": "1200528",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200528.png"
+    },
+    {
+        "number": "29",
+        "text": "A catalyst speeds up a chemical reaction by",
+        "options": {
+            "A": "shifting the equilibrium.",
+            "B": "increasing the activation energy.",
+            "C": "decreasing the reaction enthalpy.",
+            "D": "providing an alternate reaction pathway."
+        },
+        "correct_answer": "D",
+        "question_id": "1200529",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200529.png"
+    },
+    {
+        "number": "30",
+        "text": "The activation energy for a reaction can be determined by measuring the reaction rate at different",
+        "options": {
+            "A": "temperatures.",
+            "B": "catalyst concentrations.",
+            "C": "reactant concentrations.",
+            "D": "times on the reaction curve."
+        },
+        "correct_answer": "A",
+        "question_id": "1200530",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200530.png"
+    },
+    {
+        "number": "31",
+        "text": "W eqh ui ic lih b rc2 ih uS a mO n ?2g( eg () s )+ w O i2l( l g i) n c s rea s2 eS tO he3( qg u) antity o\u2206 fH S < O 30 (g) at I. increasing the temperature II. reducing the volume of the container III. adding He to increase the pressure",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "I and III only",
+            "D": "II and III only"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "32",
+        "text": "What is the equilibrium expression for the reaction; 2ZnS(s) + 3O2(g) s 2ZnO(s) + 2SO2(g)",
+        "options": {
+            "A": "K= 2 3[ [S OO 22 ]]",
+            "B": "K= [ [S OO 22 ]] 32 \u20ac",
+            "C": "K= 2 3[ [Z Zn nO S] ][ [S OO 22 ]] \u20ac",
+            "D": "K= [Z [Zn nO S] ]2 2[ [S OO 22 ]] 32"
+        },
+        "correct_answer": "B",
+        "question_id": "1200532",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200532.png"
+    },
+    {
+        "number": "33",
+        "text": "What is the pH of a 0.0015 M solution of HNO3? \u20ac",
+        "options": {
+            "A": "1.41",
+            "B": "2.82 \u20ac",
+            "C": "5.65",
+            "D": "11.18"
+        },
+        "correct_answer": "B",
+        "question_id": "1200533",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200533.png"
+    },
+    {
+        "number": "34",
+        "text": "[I Hn +a ] =so 2lu .3ti \u00d7o 1n 0 o -3f . Wfor hm ati c is a tc hi ed c(K onac = e n1 t. r7 a\u00d7 ti1 o0 n- 4 o), f t fh oe rmic acid in mol.L-1?",
+        "options": {
+            "A": "7.2\u00d7 10^-2",
+            "B": "3.1\u00d7 10^-2",
+            "C": "5.3\u00d7 10^-6",
+            "D": "3.9\u00d7 10^-7"
+        },
+        "correct_answer": "B",
+        "question_id": "1200534",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200534.png"
+    },
+    {
+        "number": "35",
+        "text": "What is the [H+] in a solution in which [HA] = 4.0\u00d7 10^-2 and [A-] = 2.0\u00d7 10^-(2). [Ka = 3.0\u00d7 10^-6]",
+        "options": {
+            "A": "1.5\u00d7 10^-6",
+            "B": "3.0\u00d7 10^-6",
+            "C": "6.0\u00d7 10^-6",
+            "D": "3.8\u00d7 10^-3 05"
+        },
+        "correct_answer": "C",
+        "question_id": "1200535",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200535.png"
+    },
+    {
+        "number": "36",
+        "text": "b o w cW oe f a l ri th o rn e ee w c r cn ,r t ea w ?t arh he se i i a n cc r hgo r am osn o rp g dlo ue eu bd r n i ili sd in ts yo r inder B B C Ca a a aC S C SO OO O4 43 3 Ks 2 1 4 7p . . . .6 1 9 1\u00d7 \u00d7 \u00d7 \u00d71 1 1 10 0 0 0- - - -9 1 9 90",
+        "options": {
+            "A": "BaCO3, BaSO4, CaCO3, CaSO4",
+            "B": "BaSO4, CaCO3, CaSO4, BaCO3",
+            "C": "CaSO4, CaCO3, BaCO3, BaSO4",
+            "D": "BaSO4, BaCO3, CaCO3, CaSO4"
+        },
+        "correct_answer": "D",
+        "question_id": "1200536",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200536.png"
+    },
+    {
+        "number": "37",
+        "text": "Which represents an oxidation?",
+        "options": {
+            "A": "BrO\u2013 r Br2",
+            "B": "NO2 r N2O4",
+            "C": "Cr3+ r CrO42\u2013",
+            "D": "VO3\u2013 r VO2+ Questions 38 and 39 should be answered using the unbalanced equation; ClO3- + Br\u2013 r Cl2 + Br2"
+        },
+        "correct_answer": "C",
+        "question_id": "1200537",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200537.png"
+    },
+    {
+        "number": "38",
+        "text": "Which is the reducing agent?",
+        "options": {
+            "A": "ClO3-",
+            "B": "Br\u2013",
+            "C": "Cl2",
+            "D": "Br2"
+        },
+        "correct_answer": "B",
+        "question_id": "1200538",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200538.png"
+    },
+    {
+        "number": "39",
+        "text": "rW atih oe ?n this equation is balanced, what is the Br - / ClO3-",
+        "options": {
+            "A": "1/1",
+            "B": "2/1",
+            "C": "3/1",
+            "D": "5/1 Questions 40 and 41 require the use of these Standard Reduction Potentials. Half Reaction Eo (V) Zn2+(aq) + 2e- r Zn(s) \u20130.763 Cr3+(aq) + e- r Cr2+(aq) \u20130.408 Tl+(aq) + e- r Tl(s) \u20130.336 Cu2+(aq) + e- r Cu+(aq) +0.161 Fe3+(aq) + e- r Fe2+(aq) +0.769"
+        },
+        "correct_answer": "D",
+        "question_id": "1200539",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200539.png"
+    },
+    {
+        "number": "40",
+        "text": "Use the standard reduction potentials to find the standard cell potential, E\u02da, for the reaction; Zn(s) + 2Tl+(aq) r Zn2+(aq) + 2Tl(s)",
+        "options": {
+            "A": "0.427 V",
+            "B": "0.091 V",
+            "C": "\u20130.091 V",
+            "D": "\u20130.427 V"
+        },
+        "correct_answer": "A",
+        "question_id": "1200540",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200540.png"
+    },
+    {
+        "number": "41",
+        "text": "Based on the standard reduction potentials above, which reaction(s) is(are) spontaneous? I. Cr2+(aq) + Fe3+(aq) r Cr3+(aq) + Fe2+(aq) II. Cu2+(aq) + Fe2+(aq) r Cu+(aq) + Fe3+(aq)",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II No"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "42",
+        "text": "S C elo u el cSu tOt ri oo 4 ln a ys n z d eo d f A A iu ng C tN hl3eO ar3, e apparatus depicted. If the electrolysis is stopped before any of the ions are deposited completely, how do the number of moles (n) of Ag, Cu and Au deposited compare?",
+        "options": {
+            "A": "nAg = nCu = nAu",
+            "B": "nAg < nCu < nAu",
+            "C": "nAg > nCu > nAu",
+            "D": "nAg = nCu > nAu"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "43",
+        "text": "Which set of quantum numbers (n, l, ml, ms) is not permitted by the rules of quantum mechanics?",
+        "options": {
+            "A": "1, 0, 0, 12",
+            "B": "2, 1, \u20131, \u201312",
+            "C": "3, 3, 1, \u201312",
+            "D": "4, 3, 2, 12"
+        },
+        "correct_answer": "C",
+        "question_id": "1200543",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200543.png"
+    },
+    {
+        "number": "44",
+        "text": "Ho\u20acw many unpaired electrons are in\u20ac a gaseous iron atom in its ground state? \u20ac \u20ac",
+        "options": {
+            "A": "6",
+            "B": "4",
+            "C": "2",
+            "D": "0"
+        },
+        "correct_answer": "B",
+        "question_id": "1200544",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200544.png"
+    },
+    {
+        "number": "45",
+        "text": "Evidence for the electron arrangement in atoms has been obtained primarily from the study of",
+        "options": {
+            "A": "isotopes.",
+            "B": "radioactivity.",
+            "C": "stoichiometry.",
+            "D": "atomic spectra."
+        },
+        "correct_answer": "D",
+        "question_id": "1200545",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200545.png"
+    },
+    {
+        "number": "46",
+        "text": "Which statement about the radii of atoms and their ions is correct?",
+        "options": {
+            "A": "Cations are smaller than their atoms, anions are larger.",
+            "B": "Cations and anions are both smaller than their atoms.",
+            "C": "Cations and anions are both larger than their atoms.",
+            "D": "Cations are larger than their atoms, anions are smaller."
+        },
+        "correct_answer": "A",
+        "question_id": "1200546",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200546.png"
+    },
+    {
+        "number": "47",
+        "text": "When the atoms; Li, Be, B, Na, are arranged in order of increasing atomic radius which is the correct order?",
+        "options": {
+            "A": "Li, Be, B, Na",
+            "B": "Li, Na, B, Be",
+            "C": "Na, Li, Be, B",
+            "D": "B, Be, Li, Na"
+        },
+        "correct_answer": "D",
+        "question_id": "1200547",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200547.png"
+    },
+    {
+        "number": "48",
+        "text": "Which type of radioactive decay produces a daughter nucleus with a higher atomic number?",
+        "options": {
+            "A": "\u03b1",
+            "B": "\u03b2\u2013",
+            "C": "\u03b3",
+            "D": "\u03b2+"
+        },
+        "correct_answer": "B",
+        "question_id": "1200548",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200548.png"
+    },
+    {
+        "number": "49",
+        "text": "In which species is the central atom NOT surrounded by exactly 8 valence electrons?",
+        "options": {
+            "A": "BF4\u2013",
+            "B": "NCl3",
+            "C": "PCl4+",
+            "D": "SF4"
+        },
+        "correct_answer": "D",
+        "question_id": "1200549",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200549.png"
+    },
+    {
+        "number": "50",
+        "text": "In which pair of formulas are both species polar?",
+        "options": {
+            "A": "CO2 and H2O",
+            "B": "BF3 and PCl3",
+            "C": "SO2 and SCl2",
+            "D": "CS2 and NO2"
+        },
+        "correct_answer": "C",
+        "question_id": "1200550",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200550.png"
+    },
+    {
+        "number": "51",
+        "text": "The nitrite ion can be represented; I. II. Which of the structures represent possible resonance forms of this ion?",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "52",
+        "text": "Which statement is true about the most stable Lewis structure for CS2?",
+        "options": {
+            "A": "There are no lone pairs.",
+            "B": "All bonds are double bonds.",
+            "C": "The central atom does not have an octet of electrons.",
+            "D": "A sulfur atom must be the central atom for the structure to be stable."
+        },
+        "correct_answer": "B",
+        "question_id": "1200552",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200552.png"
+    },
+    {
+        "number": "53",
+        "text": "W inch re en a st ih ne g m boo nle dc u stl re es n N gt2h, ,O w2, h F ic2h a r oe r da err ra in s g ce od r ri en c o t?rder of",
+        "options": {
+            "A": "N2, O2, F2",
+            "B": "N2, F2, O2",
+            "C": "O2, N2, F2",
+            "D": "F2, O2, N2"
+        },
+        "correct_answer": "D",
+        "question_id": "1200553",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200553.png"
+    },
+    {
+        "number": "54",
+        "text": "Which molecule contains three sigma (\u03c3) and two pi (\u03c0) bonds?",
+        "options": {
+            "A": "C2H2",
+            "B": "C2H4",
+            "C": "C2H6",
+            "D": "C3H4"
+        },
+        "correct_answer": "A",
+        "question_id": "1200554",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200554.png"
+    },
+    {
+        "number": "55",
+        "text": "Which is an isomer of 1-butanol?",
+        "options": {
+            "A": "1-propanol",
+            "B": "butanone",
+            "C": "1-chlorobutane",
+            "D": "diethyl ether"
+        },
+        "correct_answer": "D",
+        "question_id": "1200555",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200555.png"
+    },
+    {
+        "number": "56",
+        "text": "Which compound is an aldehyde?",
+        "options": {
+            "A": "CH3OCH3",
+            "B": "CH3CHO",
+            "C": "CH3COOH",
+            "D": "CH3COOCH3"
+        },
+        "correct_answer": "B",
+        "question_id": "1200556",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200556.png"
+    },
+    {
+        "number": "57",
+        "text": "How many isomers exist for dibromobenzene (C6H4Br2)?",
+        "options": {
+            "A": "one",
+            "B": "two",
+            "C": "three",
+            "D": "four Not for use as a USNCO Local Section Exam after March 28, 2"
+        },
+        "correct_answer": "C",
+        "question_id": "1200557",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200557.png"
+    },
+    {
+        "number": "58",
+        "text": "What is the name for the compound with the structure?",
+        "options": {
+            "A": "2-isopropyl-1-butene",
+            "B": "2,3-dimethyl-2-hexene",
+            "C": "2-methyl-3-isopropyl-1-butene",
+            "D": "2,3,4-trimethyl-1-pentene"
+        },
+        "correct_answer": "D",
+        "question_id": "1200558",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200558.png"
+    },
+    {
+        "number": "59",
+        "text": "What is the hybridization of carbon atoms 1, 2, and 3, respectively in the structure?",
+        "options": {
+            "A": "sp3, sp, sp2",
+            "B": "sp2, sp, sp2",
+            "C": "sp3, sp2, sp2",
+            "D": "sp2, sp2, sp2"
+        },
+        "correct_answer": "D",
+        "question_id": "1200559",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200559.png"
+    },
+    {
+        "number": "60",
+        "text": "When egg white is coagulated the protein is said to be",
+        "options": {
+            "A": "condensed.",
+            "B": "denatured.",
+            "C": "hydrolyzed.",
+            "D": "polymerized. END OF TEST 05"
+        },
+        "correct_answer": "B",
+        "question_id": "1200560",
+        "image_path": "output_images\\2005-local-olympiad-exam\\1200560.png"
+    }
+]

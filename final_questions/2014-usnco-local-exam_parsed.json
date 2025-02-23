@@ -1,0 +1,754 @@
+[
+    {
+        "number": "1",
+        "text": "Which compound contains the highest percentage of magnesium by mass?",
+        "options": {
+            "A": "MgNH4PO4",
+            "B": "Mg(H2PO4)2",
+            "C": "Mg2P4O7",
+            "D": "Mg3(PO4)2"
+        },
+        "correct_answer": "D",
+        "question_id": "120141",
+        "image_path": "output_images\\2014-usnco-local-exam\\120141.png"
+    },
+    {
+        "number": "2",
+        "text": "In the diagram above the paired open spheres represent H2 molecules and the paired solid spheres represent N2 molecules. When the molecules in the box react to form the maximum possible amount of ammonia (NH3) molecules, what is the limiting reactant and how many molecules of NH3 can be formed?",
+        "options": {
+            "A": "N2 is limiting. 5 molecules of NH3 can be formed.",
+            "B": "N2 is limiting. 10 molecules of NH3 can be formed.",
+            "C": "H2 is limiting. 8 molecules of NH3 can be formed.",
+            "D": "H2 is limiting.12 molecules of NH3 can be formed."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "3",
+        "text": "Vanillin, C8H8O3 (M = 152 g/mol), is the molecule responsible for the vanilla flavor in food. How many oxygen atoms are present in a 45.0 mg sample of vanillin?",
+        "options": {
+            "A": "1.78 \u00d7 10^20",
+            "B": "5.35 \u00d7 10^20",
+            "C": "1.78 \u00d7 10^23",
+            "D": "5.35 \u00d7 10^23"
+        },
+        "correct_answer": "B",
+        "question_id": "120143",
+        "image_path": "output_images\\2014-usnco-local-exam\\120143.png"
+    },
+    {
+        "number": "4",
+        "text": " ",
+        "options": {
+            "A": "0.110 M",
+            "B": "0.138 M",
+            "C": "0.220 M",
+            "D": "0.275 M"
+        },
+        "correct_answer": "C",
+        "question_id": "120144",
+        "image_path": "output_images\\2014-usnco-local-exam\\120144.png"
+    },
+    {
+        "number": "5",
+        "text": " ",
+        "options": {
+            "A": "dilute.",
+            "B": "saturated.",
+            "C": "supersaturated.",
+            "D": "unsaturated."
+        },
+        "correct_answer": "D",
+        "question_id": "120145",
+        "image_path": "output_images\\2014-usnco-local-exam\\120145.png"
+    },
+    {
+        "number": "6",
+        "text": "Which of the following is a weak electrolyte in aqueous solution?",
+        "options": {
+            "A": "HF",
+            "B": "NaF",
+            "C": "HCl",
+            "D": "KCl"
+        },
+        "correct_answer": "A",
+        "question_id": "120146",
+        "image_path": "output_images\\2014-usnco-local-exam\\120146.png"
+    },
+    {
+        "number": "7",
+        "text": "Which list gives nonmetals that are found in their elemental forms in nature?",
+        "options": {
+            "A": "neon, phosphorus, fluorine",
+            "B": "helium, hydrogen, iodine",
+            "C": "nitrogen, oxygen, sulfur",
+            "D": "oxygen, chlorine, phosphorus"
+        },
+        "correct_answer": "C",
+        "question_id": "120147",
+        "image_path": "output_images\\2014-usnco-local-exam\\120147.png"
+    },
+    {
+        "number": "8",
+        "text": "Which one of the following cannot act as an oxidizing agent?",
+        "options": {
+            "A": "S2\u2013",
+            "B": "SO32\u2013",
+            "C": "SO42\u2013",
+            "D": "S2O82\u2013"
+        },
+        "correct_answer": "A",
+        "question_id": "120148",
+        "image_path": "output_images\\2014-usnco-local-exam\\120148.png"
+    },
+    {
+        "number": "9",
+        "text": "Which substance is the primary component in stalactites and stalagmites in caves?",
+        "options": {
+            "A": "CaO",
+            "B": "CaCO3",
+            "C": "Ca(OH)2",
+            "D": "CaSO4"
+        },
+        "correct_answer": "B",
+        "question_id": "120149",
+        "image_path": "output_images\\2014-usnco-local-exam\\120149.png"
+    },
+    {
+        "number": "10",
+        "text": "Five successive determinations of the density of an alloy gave the following results: 10.29 g/mL, 9.95 g/mL, 10.06 g/mL, 9.89 g/mL, 10.18 g/mL What value should be reported for the density of this alloy?",
+        "options": {
+            "A": "10.074 g/mL",
+            "B": "10.07 + 0.16 g/mL",
+            "C": "10.1 + 0.2 g/mL",
+            "D": "1.0 \u00d7 10^1 g/mL"
+        },
+        "correct_answer": "B",
+        "question_id": "1201410",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201410.png"
+    },
+    {
+        "number": "11",
+        "text": "How are values for TS, SS and DS (per 25 mL water) determined?",
+        "options": {
+            "A": "TS = mass 1, SS = mass 1 \u2013 mass 2, DS = mass 2",
+            "B": "TS = mass 1, SS = mass 2, DS = mass 1 \u2013 mass 2",
+            "C": "TS = mass 1 + mass 2, SS = mass 1, DS = mass 2",
+            "D": "TS = mass 1 + mass 2, SS = mass 2, DS = mass 1"
+        },
+        "correct_answer": "A",
+        "question_id": "1201411",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201411.png"
+    },
+    {
+        "number": "12",
+        "text": "Which method(s) can be used to determine the concentration of HNO3 in an aqueous solution of nitric acid? I titration with a standard base II titration with a standard oxidizing agent III precipitation with Ag+",
+        "options": {
+            "A": "I only",
+            "B": "III only",
+            "C": "I and II only",
+            "D": "I, II, and III"
+        },
+        "correct_answer": "A",
+        "question_id": "1201412",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201412.png"
+    },
+    {
+        "number": "13",
+        "text": "The kinetic theory of gases assumes all of the following EXCEPT:",
+        "options": {
+            "A": "Gases are composed of particles in random, ceaseless motion.",
+            "B": "The sizes of gas particles are negligible compared to the size of the container.",
+            "C": "Gas particles do not attract or repel each other.",
+            "D": "When gas particles collide, kinetic energy is lost."
+        },
+        "correct_answer": "D",
+        "question_id": "1201413",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201413.png"
+    },
+    {
+        "number": "14",
+        "text": "A sample of He gas in a flexible container at room temperature exhibits a certain pressure. What will be the new pressure when the absolute temperature and volume of the container are both halved? The pressure of the He will be",
+        "options": {
+            "A": "the same.",
+            "B": "doubled.",
+            "C": "halved.",
+            "D": "quadrupled."
+        },
+        "correct_answer": "A",
+        "question_id": "1201414",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201414.png"
+    },
+    {
+        "number": "15",
+        "text": "The molecules in a sample of pure liquid dichloromethane, CH2Cl2, experience which of the following intermolecular forces? I dispersion forces II dipole-dipole forces III hydrogen bonding",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "I and II only",
+            "D": "I, II, and III"
+        },
+        "correct_answer": "C",
+        "question_id": "1201415",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201415.png"
+    },
+    {
+        "number": "16",
+        "text": "Which property best distinguishes metals from other types of solids?",
+        "options": {
+            "A": "Metals exhibit three-dimensional order.",
+            "B": "Metals melt at low temperatures.",
+            "C": "Metals have a shiny, silvery-white appearance.",
+            "D": "Metals exhibit three-dimensional electrical conductivity."
+        },
+        "correct_answer": "D",
+        "question_id": "1201416",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201416.png"
+    },
+    {
+        "number": "17",
+        "text": "What type of solid is silicon carbide, SiC?",
+        "options": {
+            "A": "ionic",
+            "B": "metallic",
+            "C": "molecular",
+            "D": "network covalent"
+        },
+        "correct_answer": "D",
+        "question_id": "1201417",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201417.png"
+    },
+    {
+        "number": "18",
+        "text": "The normal boiling point and vapor pressure at 25 \u00b0C are measured for liquids in two flasks. Flask A contains pure water and flask B contains a 1.0 M aqueous NaCl solution. Which flask contains the liquid with the higher boiling point? Which flask contains the liquid with the higher vapor pressure? Higher boiling point Higher vapor pressure",
+        "options": {
+            "A": "Flask A Flask A",
+            "B": "Flask A Flask B",
+            "C": "Flask B Flask A",
+            "D": "Flask B Flask B"
+        },
+        "correct_answer": "C",
+        "question_id": "1201418",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201418.png"
+    },
+    {
+        "number": "19",
+        "text": " ",
+        "options": {
+            "A": "\u2013603.2 kJ\u2022mol\u20131",
+            "B": "\u2013562.0 kJ\u2022mol\u20131",
+            "C": "\u20131206.4 kJ\u2022mol\u20131",
+            "D": "\u20131124.0 kJ\u2022mol\u20131"
+        },
+        "correct_answer": "D",
+        "question_id": "1201419",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201419.png"
+    },
+    {
+        "number": "20",
+        "text": "Consider the following reactions I 2 NO2(g) \uf0ae N2(g) + 2 O2(g) II 2 IBr(g) \uf0ae I2(s) + Br2(l) For which reaction is \u0394S\u00b0 < 0?",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B",
+        "question_id": "1201420",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201420.png"
+    },
+    {
+        "number": "21",
+        "text": " ",
+        "options": {
+            "A": "206 kJ",
+            "B": "413 kJ",
+            "C": "826 kJ",
+            "D": "1650 kJ"
+        },
+        "correct_answer": "A",
+        "question_id": "1201421",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201421.png"
+    },
+    {
+        "number": "22",
+        "text": "The specific heat capacities of three metals are given below. Metal Fe Pb Zn Specific heat, J\u2022g\u20131\u2022\u00b0C\u20131 0.470 0.130 0.388 If 1.00 g of each metal is heated to 100 \u00b0C and added to 10.0 g of H2O at 25.0 \u00b0C, what is the order of the temperatures of the final mixtures from the lowest to the highest?",
+        "options": {
+            "A": "Fe < Zn < Pb",
+            "B": "Pb < Zn < Fe",
+            "C": "Zn < Pb < Fe",
+            "D": "Zn < Fe < Pb"
+        },
+        "correct_answer": "B",
+        "question_id": "1201422",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201422.png"
+    },
+    {
+        "number": "23",
+        "text": "The enthalpy of formation, \u2206Hf\u02da, equals zero at 25 \u00b0C for which of the following in their standard states?",
+        "options": {
+            "A": "elements",
+            "B": "compounds",
+            "C": "gases",
+            "D": "solids"
+        },
+        "correct_answer": "A",
+        "question_id": "1201423",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201423.png"
+    },
+    {
+        "number": "24",
+        "text": "Liquid water is injected into an oven at 400 K. What are the signs for \uf044G, \uf044H, and \uf044S for the physical transformation that occurs? \uf044G \uf044H \uf044S",
+        "options": {
+            "A": "+ \u2013 \u2013",
+            "B": "+ \u2013 0",
+            "C": "\u2013 + +",
+            "D": "\u2013 + 0 \n(A) \n(A) \n(B) \n(B) \n(C) \n(C) \n(D) \n(D)"
+        },
+        "correct_answer": "C",
+        "question_id": "1201424",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201424.png"
+    },
+    {
+        "number": "25",
+        "text": "A device used to test alcohol in the bloodstream uses the reaction 2 K2Cr2O7(aq) + 8 H2SO4(aq) + 3 CH3CH2OH(aq) \uf0ae 2 Cr2(SO4)3(aq) + 2 K2SO4(aq) + 3 CH3COOH(aq) + 11 H2O If the rate of disappearance of K2Cr2O7 is 1.24 M/min what is the rate of disappearance of CH3CH2OH?",
+        "options": {
+            "A": "0.415 M/min",
+            "B": "0.826 M/min",
+            "C": "1.86 M/min",
+            "D": "3.72 M/min"
+        },
+        "correct_answer": "C",
+        "question_id": "1201425",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201425.png"
+    },
+    {
+        "number": "26",
+        "text": "C(s) + CO2(g) \uf0ae 2 CO(g) \u2206H = 172 kJ\u2022mol\u20131 In a suitable reaction vessel, pieces of graphite are mixed with carbon dioxide gas at 1.00 atm and 1000 K. Which of the following changes will result in an increase in reaction rate?",
+        "options": {
+            "A": "decrease size of the graphite pieces",
+            "B": "decrease temperature",
+            "C": "decrease partial pressure of CO(g)",
+            "D": "decrease partial pressure of CO2(g)"
+        },
+        "correct_answer": "A",
+        "question_id": "1201426",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201426.png"
+    },
+    {
+        "number": "27",
+        "text": "The reaction CH3NC \uf0ae CH3CN is first order. Which reaction characteristic changes as the reaction proceeds?",
+        "options": {
+            "A": "the half life",
+            "B": "the rate constant",
+            "C": "the rate law",
+            "D": "the reaction rate"
+        },
+        "correct_answer": "D",
+        "question_id": "1201427",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201427.png"
+    },
+    {
+        "number": "28",
+        "text": "A(g) + B(g) \uf0ae C(g) The data below were obtained for the reaction between A and B. What is the rate law for this reaction? Trial [A]0 (mol\u2022L\u20131) [B]0 (mol\u2022L\u20131) I Rn ei ati ca tl i oR na te of (mol\u2022L\u20131\u2022 s\u20131) 1 0.10 0.10 6.5 \u00d7 10\u20135 2 0.20 0.10 2.6 \u00d7 10\u20134 3 0.10 0.20 6.5 \u00d7 10\u20135",
+        "options": {
+            "A": "Rate = k[A]",
+            "B": "Rate = k[A][B]",
+            "C": "Rate = k[A]2",
+            "D": "Rate = k[A]2[B]"
+        },
+        "correct_answer": "C",
+        "question_id": "1201428",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201428.png"
+    },
+    {
+        "number": "29",
+        "text": "A first-order reaction is carried out at several different temperatures. The data are plotted as ln k vs 1/T. How is the slope of the graph related to Ea?",
+        "options": {
+            "A": "Ea = slope \u00d7 8.314 J\u2022mol\u20131\u2022K\u20131",
+            "B": "Ea = \u2013slope \u00d7 8.314 J\u2022mol\u20131\u2022K\u20131",
+            "C": "1/Ea = slope \u00d7 8.314 J\u2022mol\u20131\u2022K\u20131",
+            "D": "1/Ea = \u2013slope \u00d7 8.314 J\u2022mol\u20131\u2022K\u20131"
+        },
+        "correct_answer": "B",
+        "question_id": "1201429",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201429.png"
+    },
+    {
+        "number": "30",
+        "text": "Which statement about the behavior of a catalyst is correct?",
+        "options": {
+            "A": "A catalyst reacts with the product and shifts the equilibrium to the right speeding up the reaction.",
+            "B": "A catalyst lowers the activation energy of the original reaction pathway.",
+            "C": "A catalyst provides additional energy to a reactant so it can achieve the necessary activation energy.",
+            "D": "A catalyst provides an alternative reaction pathway with a lower activation energy. Questions 31 and 32 should be answered with reference to the equation 2 C(s) + O2(g) 2 CO(g) \u2206H < 0"
+        },
+        "correct_answer": "D",
+        "question_id": "1201430",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201430.png"
+    },
+    {
+        "number": "31",
+        "text": "What is the equilibrium expression for the reaction represented by the equation above?",
+        "options": {
+            "A": "K\uf03d 2[CO]",
+            "B": "K \uf03d2[CO] 2[C]+[O2] [O2]",
+            "C": "K\uf03d [CO]2",
+            "D": "K \uf03d[CO]2 [C]2[O2] [O2]"
+        },
+        "correct_answer": "D",
+        "question_id": "1201431",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201431.png"
+    },
+    {
+        "number": "32",
+        "text": "If the reaction is at equilibrium with excess C(s) remaining, what change will increase the quantity of CO(g) for the reaction at equilibrium? I Adding C(s) II Increasing the temperature III Increasing the pressure",
+        "options": {
+            "A": "I only",
+            "B": "III only",
+            "C": "I, II, and III",
+            "D": "None of these"
+        },
+        "correct_answer": "D",
+        "question_id": "1201432",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201432.png"
+    },
+    {
+        "number": "33",
+        "text": "An endothermic reaction has a positive value for \u2206S. Which of the following is true about the equilibrium constant for this reaction?",
+        "options": {
+            "A": "It may be greater than 1 only at low temperatures.",
+            "B": "It may be greater than 1 only at high temperatures.",
+            "C": "It is greater than 1 at all temperatures.",
+            "D": "It is less than 1 at all temperatures."
+        },
+        "correct_answer": "B",
+        "question_id": "1201433",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201433.png"
+    },
+    {
+        "number": "34",
+        "text": "Phosphoric acid, H3PO4, establishes the following equilibria in aqueous solution. H3PO4(aq) + H2O(l) H3O+(aq) + H2PO4\u2013(aq) K1 H HP2P OO 44 2\u2013 \u2013( (a aq q) ) + + H H2 2O O( (l l) ) H H3 3O O+ +( (a aq q) ) + + H PP OO 434\u20132 (\u2013 a( qa )q ) K K2 3 What is the relationship among the K values?",
+        "options": {
+            "A": "K1 = K2 = K3",
+            "B": "K1 > K2 = K3",
+            "C": "K1 > K2 > K3",
+            "D": "K1 < K2 < K3"
+        },
+        "correct_answer": "C",
+        "question_id": "1201434",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201434.png"
+    },
+    {
+        "number": "35",
+        "text": "Which pair of solutes could be used to prepare an aqueous buffer solution with a pH < 7?",
+        "options": {
+            "A": "HCl \u2013 NH4Cl",
+            "B": "HF \u2013 NaF",
+            "C": "NH3 \u2013 NH4Cl",
+            "D": "NaOH \u2013 NaCl"
+        },
+        "correct_answer": "B",
+        "question_id": "1201435",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201435.png"
+    },
+    {
+        "number": "36",
+        "text": "What will be the result when 15.0 mL of 0.040 M lead(II) nitrate is mixed with 15.0 mL of 0.040 M sodium chloride? PbCl2(s) Pb2+(aq) + 2 Cl\u2013 (aq) [Ksp = 1.7 \u00d7 10\u20135]",
+        "options": {
+            "A": "A clear solution with no precipitate will result.",
+            "B": "Solid PbCl2 will precipitate and excess Pb2+ ions will remain in solution.",
+            "C": "Solid PbCl2 will precipitate and excess Cl\u2013 ions will remain in solution.",
+            "D": "Solid PbCl2 will precipitate and no excess ions will remain in solution."
+        },
+        "correct_answer": "A",
+        "question_id": "1201436",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201436.png"
+    },
+    {
+        "number": "37",
+        "text": "What is the oxidation number of As in the compound K(NH4)2AsO4\u20226H2O?",
+        "options": {
+            "A": "\u20133",
+            "B": "+1",
+            "C": "+3",
+            "D": "+5"
+        },
+        "correct_answer": "D",
+        "question_id": "1201437",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201437.png"
+    },
+    {
+        "number": "38",
+        "text": "When the equation __ MnO4\u2013 + __ SO32\u2013 + __ H+ \uf0ae __ Mn2+ + __ SO42\u2013+ __ H2O is balanced correctly with the smallest whole number coefficients, what is the coefficient for H2O?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "8",
+            "D": "10"
+        },
+        "correct_answer": "A",
+        "question_id": "1201438",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201438.png"
+    },
+    {
+        "number": "39",
+        "text": "Half-Reaction E\u00b0 (V) 2 H+ + 2 e\u2013 \uf0ae H2 0.00 Pd2+ + 2 e\u2013 \uf0ae Pd 0.90 O2 + 4 H+ + 4 e\u2013 \uf0ae 2 H2O 1.23 According to the equations and data in the table above, which species is the strongest reducing agent of the following choices?",
+        "options": {
+            "A": "H+",
+            "B": "H2",
+            "C": "H2O",
+            "D": "Pd2+"
+        },
+        "correct_answer": "B",
+        "question_id": "1201439",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201439.png"
+    },
+    {
+        "number": "40",
+        "text": "Half-Reaction E\u00b0 (V) Zn2+(aq) + 2 e\u2013\u2192 Zn(s) \u20130.76 Cr3+(aq) + 3 e\u2013\u2192 Cr(s) \u20130.744 Fe2+(aq) + 2 e\u2013 \u2192 Fe(s) \u20130.409 Use the E\u00b0 values in the table above to determine which of the following reactions will give the highest potential in a voltaic cell.",
+        "options": {
+            "A": "3 Zn2+(aq) + 2 Cr(s) \u2192 3 Zn(s) + 2 Cr3+(aq)",
+            "B": "3 Zn(s) + 2 Cr3+(aq) \u2192 3 Zn2+(aq) + 2 Cr(s)",
+            "C": "Zn2+(aq) + Fe(s) \u2192 Zn(s) + Fe2+(aq)",
+            "D": "Zn(s) + Fe2+(s) \u2192 Zn2+(aq) + Fe(s)"
+        },
+        "correct_answer": "D",
+        "question_id": "1201440",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201440.png"
+    },
+    {
+        "number": "42",
+        "text": " ",
+        "options": {
+            "A": "49.7",
+            "B": "149",
+            "C": "745",
+            "D": "4020"
+        },
+        "correct_answer": "B",
+        "question_id": "1201442",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201442.png"
+    },
+    {
+        "number": "43",
+        "text": "A sulfur atom in its ground state has the electron configuration 1s2 2s2 2p6 3s2 3p4 How many orbitals are occupied by at least one electron?",
+        "options": {
+            "A": "3",
+            "B": "5",
+            "C": "8",
+            "D": "9"
+        },
+        "correct_answer": "D",
+        "question_id": "1201443",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201443.png"
+    },
+    {
+        "number": "44",
+        "text": "For which of the following transitions would a hydrogen atom absorb a photon with longest wavelength?",
+        "options": {
+            "A": "n = 1 to n = 2",
+            "B": "n = 3 to n = 2",
+            "C": "n = 5 to n = 6",
+            "D": "n = 7 to n = 6"
+        },
+        "correct_answer": "C",
+        "question_id": "1201444",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201444.png"
+    },
+    {
+        "number": "45",
+        "text": "Which set of quantum numbers is not possible?",
+        "options": {
+            "A": "n = 2, l = 1, ml = +1, ms = \u2013\u00bd",
+            "B": "n = 3, l = 2, ml = +1, ms = +\u00bd",
+            "C": "n = 4, l = 4, ml = \u20131, ms = +\u00bd",
+            "D": "n =5, l = 2, ml = 2, ms = \u2013\u00bd"
+        },
+        "correct_answer": "C",
+        "question_id": "1201445",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201445.png"
+    },
+    {
+        "number": "46",
+        "text": "What property of the oxygen atom is represented by the equation O(g) + e\u2013 \uf0ae O\u2013(g)?",
+        "options": {
+            "A": "electronegativity",
+            "B": "first electron affinity",
+            "C": "first ionization energy",
+            "D": "lattice energy"
+        },
+        "correct_answer": "B",
+        "question_id": "1201446",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201446.png"
+    },
+    {
+        "number": "47",
+        "text": "Which of the following isoelectronic species has the largest radius?",
+        "options": {
+            "A": "K+",
+            "B": "Ca2+",
+            "C": "P3\u2013",
+            "D": "S2\u2013"
+        },
+        "correct_answer": "C",
+        "question_id": "1201447",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201447.png"
+    },
+    {
+        "number": "48",
+        "text": "Which group best illustrates the transition from non- metallic to metallic behavior with increasing atomic number?",
+        "options": {
+            "A": "Be, Mg, Ca, Sr",
+            "B": "N, P, As, Sb",
+            "C": "F, Cl, Br, I",
+            "D": "Fe, Ru, Os, Hs"
+        },
+        "correct_answer": "B",
+        "question_id": "1201448",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201448.png"
+    },
+    {
+        "number": "49",
+        "text": "Which atom is least likely to violate the octet rule in its compounds?",
+        "options": {
+            "A": "B",
+            "B": "Cl",
+            "C": "F",
+            "D": "H"
+        },
+        "correct_answer": "C",
+        "question_id": "1201449",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201449.png"
+    },
+    {
+        "number": "50",
+        "text": "In the Lewis structure for formic acid, HCOOH, how many bonding pairs and lone pairs of electrons are present?",
+        "options": {
+            "A": "4 bonding, 2 lone",
+            "B": "4 bonding, 5 lone",
+            "C": "5 bonding, 0 lone",
+            "D": "5 bonding, 4 lone"
+        },
+        "correct_answer": "D",
+        "question_id": "1201450",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201450.png"
+    },
+    {
+        "number": "51",
+        "text": "Which ionic compound has the largest lattice energy?",
+        "options": {
+            "A": "LiF",
+            "B": "BeO",
+            "C": "KBr",
+            "D": "CaS"
+        },
+        "correct_answer": "B",
+        "question_id": "1201451",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201451.png"
+    },
+    {
+        "number": "53",
+        "text": "Which species has a different number of pi bonds than the others?",
+        "options": {
+            "A": "C2H2",
+            "B": "CO2",
+            "C": "N2",
+            "D": "O3"
+        },
+        "correct_answer": "D",
+        "question_id": "1201453",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201453.png"
+    },
+    {
+        "number": "54",
+        "text": "Which molecule is correctly matched with its shape as predicted by VSEPR theory?",
+        "options": {
+            "A": "PCl3 trigonal pyramidal",
+            "B": "OF2 linear",
+            "C": "ClF3 trigonal planar",
+            "D": "SF6 hexagonal"
+        },
+        "correct_answer": "A",
+        "question_id": "1201454",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201454.png"
+    },
+    {
+        "number": "55",
+        "text": "Which of the following statements regarding structural isomers is correct? They have",
+        "options": {
+            "A": "the same molecular formula but the atoms are bonded in different ways.",
+            "B": "the same molar mass but different atoms in their composition.",
+            "C": "the same physical properties but different chemical properties.",
+            "D": "different isotopes in their structures."
+        },
+        "correct_answer": "A",
+        "question_id": "1201455",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201455.png"
+    },
+    {
+        "number": "56",
+        "text": "What is the IUPAC name for the compound CH3CH2CH2CH2CHO?",
+        "options": {
+            "A": "pentanal",
+            "B": "pentanoic acid",
+            "C": "1-pentanol",
+            "D": "1-pentanone"
+        },
+        "correct_answer": "A",
+        "question_id": "1201456",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201456.png"
+    },
+    {
+        "number": "57",
+        "text": "Which compound will react rapidly with Br2?",
+        "options": {
+            "A": "benzene",
+            "B": "hexane",
+            "C": "1-hexene",
+            "D": "1-hexanol"
+        },
+        "correct_answer": "C",
+        "question_id": "1201457",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201457.png"
+    },
+    {
+        "number": "58",
+        "text": "The reaction below is best classified as",
+        "options": {
+            "A": "addition.",
+            "B": "esterification.",
+            "C": "neutralization.",
+            "D": "saponification."
+        },
+        "correct_answer": "B",
+        "question_id": "1201458",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201458.png"
+    },
+    {
+        "number": "59",
+        "text": "Which element is not found in common amino acids?",
+        "options": {
+            "A": "hydrogen",
+            "B": "nitrogen",
+            "C": "oxygen",
+            "D": "phosphorus"
+        },
+        "correct_answer": "D",
+        "question_id": "1201459",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201459.png"
+    },
+    {
+        "number": "60",
+        "text": "Which of the following is not classified as a carbohydrate?",
+        "options": {
+            "A": "glucose",
+            "B": "glycine",
+            "C": "lactose",
+            "D": "starch"
+        },
+        "correct_answer": "B",
+        "question_id": "1201460",
+        "image_path": "output_images\\2014-usnco-local-exam\\1201460.png"
+    }
+]

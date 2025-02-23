@@ -1,0 +1,640 @@
+[
+    {
+        "number": "1",
+        "text": "Which metal reacts most vigorously with water?",
+        "options": {
+            "A": "Al",
+            "B": "Ca",
+            "C": "Fe",
+            "D": "K"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "2",
+        "text": "Which are strong acids? I. HI II. HNO3 III. H2SO3",
+        "options": {
+            "A": "II only",
+            "B": "I and II only",
+            "C": "II and III only",
+            "D": "I, II and III"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "3",
+        "text": "W anh da (t N p Hro 4d )2u Sc t as r er e msu ixlt e w d?hen aqueous solutions of CuCl2",
+        "options": {
+            "A": "CuS(aq) and NH4Cl(s)",
+            "B": "CuS(s) and NH4Cl(aq)",
+            "C": "CuS(aq) and NH4Cl(g)",
+            "D": "CuS(s) and NH4Cl(s)"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "4",
+        "text": "Which element has the highest electrical conductivity?",
+        "options": {
+            "A": "Ga",
+            "B": "Ge",
+            "C": "As",
+            "D": "Si"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "5",
+        "text": "The molar mass of a volatile liquid (bp < 90\u02daC) is to be determined by measuring the density of its vapor in an Erlenmeyer flask capped with Al foil with a pinhole to allow the vapor to escape. A sample of the liquid is added to the pre-weighed flask that is heated in a water bath until the liquid has evaporated, after which the flask is dried and reweighed. Which piece of information is not required to determine the molar mass of the liquid?",
+        "options": {
+            "A": "barometric pressure",
+            "B": "mass of liquid sample",
+            "C": "temperature of water",
+            "D": "volume of the flask"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "6",
+        "text": "Which set of reactants produces a gaseous product? I. 6 M HNO3(aq) + Cu(s) II. 6 M HCl(aq) + CaCO3(s)",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "7",
+        "text": "Which metal, when exposed to air, forms an oxide coating that protects the metal from further reaction?",
+        "options": {
+            "A": "Al",
+            "B": "Cu",
+            "C": "Fe",
+            "D": "Zn ,"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "8",
+        "text": "The principal reason that solid sodium hydroxide is not used as a primary standard for acid-base titrations is that it",
+        "options": {
+            "A": "absorbs water from air.",
+            "B": "has a low molar mass.",
+            "C": "reacts slowly with many acids.",
+            "D": "ionizes in water."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "9",
+        "text": "A chloride salt of rhenium contains 63.6% Re by mass. What is its empirical formula?",
+        "options": {
+            "A": "ReCl",
+            "B": "ReCl2",
+            "C": "ReCl3",
+            "D": "ReCl5"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "10",
+        "text": "The amount of chloride ion Molar Mass, g\u00b7mol\u20131 in a water sample is to be determined by adding AgNO3 169.91 excess silver nitrate. If AgCl 143.25 1.0 g of silver chloride is precipitated, what mass of chloride ion is in the original sample?",
+        "options": {
+            "A": "0.25 g",
+            "B": "0.34 g",
+            "C": "0.50 g",
+            "D": "0.75 g"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "11",
+        "text": "__Sn2+(aq) + __MnO4\u2013 _(a _q S) n + 4+ _ (a_ qH ) ++( a _q _) Mfi n2+(aq) + __H2O(l) When this equation for the reaction of Sn2+(aq) and M Snn 2O + /4 \u2013 M(aq n) O i 4s \u2013? balanced correctly, what is the ratio,",
+        "options": {
+            "A": "1/1",
+            "B": "1/2",
+            "C": "2/1",
+            "D": "5/2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "13",
+        "text": "A 1.50 mL sample of a sulfuric acid solution from an automobile storage battery is titrated with 1.47 M sodium hydroxide solution to a phenolphthalein endpoint, requiring 23.70 mL. What is the molarity of the sulfuric acid solution?",
+        "options": {
+            "A": "23.2 M",
+            "B": "11.6 M",
+            "C": "6.30 M",
+            "D": "0.181 M"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "14",
+        "text": "According to the equation What volume ofS hn yO d2r o+ g 2 eH n,2 mfi ea S sun r + ed 2 aH t 21O atm and 273 K, is required to react with 2.00 g of SnO2?",
+        "options": {
+            "A": "0.00133 L",
+            "B": "0.00265 L",
+            "C": "0.297 L",
+            "D": "0.595 L"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "15",
+        "text": "Which terms are matched correctly?",
+        "options": {
+            "A": "high vapor pressures high D H values vap",
+            "B": "high D H values low boiling points vap",
+            "C": "low vapor pressure high boiling points",
+            "D": "low boiling points low vaporization rates"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "16",
+        "text": "Three balloons are filled with the same number of atoms of He, Ar, and Xe, respectively. Which statement is true under the same conditions of temperature and pressure?",
+        "options": {
+            "A": "The balloons contain the same mass of gas.",
+            "B": "All balloons have the same volume.",
+            "C": "The densities of the three gases are the same.",
+            "D": "The average speed of the different types of atoms is the same."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "17",
+        "text": "A 0.239 g sample of a gas in a 100-mL flask exerts a pressure of 600 mmHg at 14 \u00b0C. What is the gas?",
+        "options": {
+            "A": "chlorine",
+            "B": "nitrogen",
+            "C": "krypton",
+            "D": "xenon"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "18",
+        "text": "Which parameter affects the vapor pressure of a liquid?",
+        "options": {
+            "A": "volume of the liquid",
+            "B": "surface area of the liquid",
+            "C": "volume of space above the liquid",
+            "D": "temperature of the liquid"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "19",
+        "text": "Which points in this phase diagram represent conditions of temperature a and pressure where liquid f will be present? b d c g e T, \u00b0C",
+        "options": {
+            "A": "a, b, and g only",
+            "B": "a, c, d and g only",
+            "C": "a, c, d and f only",
+            "D": "c, d, e and g only"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "20",
+        "text": "Which compound is expected to be the most soluble in water at 25 \u00b0C?",
+        "options": {
+            "A": "N2(g)",
+            "B": "O2(g)",
+            "C": "(C2H5)2NH(l)",
+            "D": "C2H5OC2H5(l)"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "21",
+        "text": "A hard, crystalline solid with a high melting point does not conduct electricity in any phase. This solid is most likely",
+        "options": {
+            "A": "an ionic solid.",
+            "B": "a metallic solid.",
+            "C": "a molecular solid.",
+            "D": "a network covalent solid."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "22",
+        "text": "For the formation of one mole of each of these gases from their elements, which reaction is most endothermic?",
+        "options": {
+            "A": "CO (D Ho = \u2013110.5 kJ\u00b7mol\u20131) f",
+            "B": "NO2 (D Ho f = +33.9 kJ\u00b7mol\u20131)",
+            "C": "O3 (D Ho f = +142.2 kJ\u00b7mol\u20131)",
+            "D": "SO2 (D Ho f = \u2013300.4 kJ\u00b7mol\u20131)"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "23",
+        "text": "The specific heats of Specific Heat, J\u00b7g\u20131\u00b7\u00b0C\u20131 several metals are given in the table. If the same Al 0.900 number of Joules were Au 0.129 applied to the same mass Cu 0.385 of each metal, which metal Hg 0.139 would show the greatest temperature change?",
+        "options": {
+            "A": "Al",
+            "B": "Au",
+            "C": "Cu",
+            "D": "Hg , 2001."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "24",
+        "text": "4Li(s) + O2(g) fi 2Li2O(s) At 25 \u00b0C, D Ho for this reaction is \u2013598.8 kilojoules per m reao cle te o df wL ii t2hO e(s x) cf eo sr sm Oed 2(. g W ) inh a ot r dm ea rs ts o o rf e lL ei a s sh e o 1u 5l 0d . b ke J?",
+        "options": {
+            "A": "0.874 g",
+            "B": "1.74 g",
+            "C": "3.48 g",
+            "D": "6.98 g"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "25",
+        "text": "When these substances are arranged in order of increasing S\u02da values at 25 \u02daC, what is the correct order?",
+        "options": {
+            "A": "Na(s), Cl2(g), NaCl(s)",
+            "B": "NaCl(s), Cl2(g), Na(s)",
+            "C": "Cl2(g), NaCl(s), Na(s)",
+            "D": "Na(s), NaCl(s), Cl2(g)"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "26",
+        "text": "The D Ho and D Sovalues for a particular reaction are \u201360.0 kJ and \u20130.200 kJ\u00b7K\u20131 respectively. Under what conditions is this reaction spontaneous?",
+        "options": {
+            "A": "all conditions",
+            "B": "T < 300 K",
+            "C": "T = 300 K",
+            "D": "T > 300 K"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "27",
+        "text": "For the reaction; at a certain temp2 eN raO tu2( rg e) , fi the 2 iN niO ti( ag l) r+ a tO e 2o( fg ) decomposition o fof rN mO at2i ois n 0 o. f0 0 O3 26 (g )m io nl m\u00b7L o\u20131 l\u00b7 \u00b7s L\u20131 \u2013. 1 \u00b7W s\u20131h ?at is the initial rate of",
+        "options": {
+            "A": "0.0018",
+            "B": "0.0036",
+            "C": "0.0054",
+            "D": "0.0072"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "1",
+        "text": "If the activation enthalpy for the forward reaction is 120.0 kJ\u00b7mol\u20131, what is the activation energy for the reverse reaction AB fi A + B?",
+        "options": {
+            "A": "35.0 kJ\u00b7mol\u20131",
+            "B": "85.0 kJ\u00b7mol\u20131",
+            "C": "120.0 kJ\u00b7mol\u20131",
+            "D": "205.0 kJ\u00b7mol\u20131"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "30",
+        "text": "( WC h) icr ha t ee q = u ak t i[ oH nI i] n [ dC ic2H at5eI s] t he p( rD e) senr ca ete o = f ak c[H atI a] l2 y [ sC t 2inH 5tI h] e2 reaction? , 2001.",
+        "options": {
+            "A": "A + B fi D + B",
+            "B": "A + B fi C + D",
+            "C": "A + A fi D",
+            "D": "A fi B + C"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "31",
+        "text": "The reaction A fi B + C obeys the rate law: rate = k[A]. Which graph will produce a straight line?",
+        "options": {
+            "A": "[A] vs time",
+            "B": "ln[A] vs time",
+            "C": "1/[A] vs time",
+            "D": "[A] vs 1/time Questions 32 and 33 should both be answered with reference to this system. H2(g) + I2(s) (cid:190) 2HI(g) D H=+51.8 kJ"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "32",
+        "text": "Which would increase the equilibrium quantity of HI(g)? Assume the system has reached equilibrium with all three components present. I. increasing pressure II. increasing temperature",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "33",
+        "text": "What is the equilibrium constant expression for this system?",
+        "options": {
+            "A": "K= [ H[H ]I [] I2 ]",
+            "B": "K= [H [H2] I[ ]I 22] 2 2",
+            "C": "K= [ H2[ 2H ][I I] 2]",
+            "D": "K= [ [H HI 2] ]2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "34",
+        "text": "The ionization of benzoic acid is represented by this equation. C6H5COOH(aq) (cid:190) H+(aq) + C6H5COO\u2013(aq) If a 0.045 M solution of benzoic acid has an [H+] = 1.7 \u00b7 l0\u20133, what is the Ka of benzoic acid?",
+        "options": {
+            "A": "7.7 \u00b7 l0\u20135",
+            "B": "6.4 \u00b7 l0\u20135",
+            "C": "3.8 \u00b7 l0\u20132",
+            "D": "8.4 \u00b7 l0\u20131"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "1",
+        "text": "What is the strongest base in this system?",
+        "options": {
+            "A": "C6H5OH(aq)",
+            "B": "CN\u2013(aq)",
+            "C": "HCN(aq)",
+            "D": "C6H5O\u2013(aq)"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "36",
+        "text": "HOCl(aq) (cid:190) H+(aq) + OCl\u2013(aq) The ionization of hypochlorous acid represented above has K = 3.0 \u00b7 l0\u20138 at 25\u02daC. What is K for this reaction? OCl\u2013(aq) + H2O(l) (cid:190) HOCl(aq) + OH\u2013(aq)",
+        "options": {
+            "A": "3.3 \u00b7 l0\u20137",
+            "B": "3.0 \u00b7 l0\u20138",
+            "C": "3.0 \u00b7 l06",
+            "D": "3.3 \u00b7 l07"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "37",
+        "text": "L b sore o la umd b( i lI d eI) e if n(l P u wo b ar Bi td er2e r) . , ( WP anb hdF i c2l) he, a ll d ee ( aa I dd I) ( sI iI o a) l dc ti h wdl eo i lr ( li P d inbe I c 2( r)P e ab arC se el a2 i) l n, l l se la igd h(I tI l) y solubility when its saturated solution is acidified?",
+        "options": {
+            "A": "PbF2",
+            "B": "PbCl2",
+            "C": "PbBr2",
+            "D": "PbI2"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "38",
+        "text": "In which process does the nitrogen undergo oxidation?",
+        "options": {
+            "A": "N2 fi 2NH3",
+            "B": "N2O4 fi 2NO2",
+            "C": "2NO3\u2013 fi N2O5",
+            "D": "NO2\u2013 fi NO3\u2013"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "39",
+        "text": "Which statement is not true about the electrolysis of a 1 M solution of KI to which phenolphthalein has been added?",
+        "options": {
+            "A": "Potassium metal is formed.",
+            "B": "A yellow color appears at the anode.",
+            "C": "A pink color appears at the cathode.",
+            "D": "A gas is produced at the cathode. Questions 40 and 41 should be answered with reference to these half-reactions and their standard reduction potentials. Al3+(aq) + 3e\u2013 fi Al(s) Eo = \u20131.66 V Mn2+(aq) + 2e\u2013 fi Mn(s) Eo = \u20131.18 V"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "40",
+        "text": "What process occurs at the anode of a voltaic cell utilizing these two half-reactions?",
+        "options": {
+            "A": "Al(s) fi Al3+(aq) + 3e\u2013",
+            "B": "Al3+(aq) + 3e\u2013fi Al(s)",
+            "C": "Mn(s) fi Mn2+(aq) + 2e\u2013",
+            "D": "Mn2+(aq) + 2e\u2013 fi Mn(s)"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "41",
+        "text": "What is the standard potential of a voltaic cell produced by using these two half-reactions?",
+        "options": {
+            "A": "0.04 V",
+            "B": "0.48 V",
+            "C": "2.84 V",
+            "D": "6.68 V"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "42",
+        "text": "Ni(s) + Cu2+(aq) fi Ni2+(aq) + Cu(s) The voltaic cell based on this reaction has a voltage of 0.59 V under standard conditions. Which of these changes will produce a higher voltage? I. increasing [Cu2+] II. increasing the size of the Ni(s) electrode",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "43",
+        "text": "When a phosphorus atom is converted to a phosphide ion, what happens to the number of unpaired electrons and the total number of electrons around the phosphorus? unpaired electrons total electrons",
+        "options": {
+            "A": "increases increases",
+            "B": "decreases increases",
+            "C": "increases remains the same",
+            "D": "decreases remains the same"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "44",
+        "text": "Which list includes species with the same number of electrons?",
+        "options": {
+            "A": "Mg, Ca, Sr",
+            "B": "Li+, Na+, K+",
+            "C": "K+, Cl\u2013, S2\u2013",
+            "D": "Fe2+, Co2+, Ni2+"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "45",
+        "text": "Which pair of symbols represents nuclei with the same number of neutrons?",
+        "options": {
+            "A": "56Co and 58Co",
+            "B": "57Mn and 57Fe",
+            "C": "57Fe and 58Ni",
+            "D": "57Co and 58Ni"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "46",
+        "text": "Which list includes elements in order of increasing metallic character?",
+        "options": {
+            "A": "Si, P, S",
+            "B": "As, P, N",
+            "C": "Al, Ge, Sb",
+            "D": "Br, Se, As"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "47",
+        "text": "How many unpaired electrons are in an iron atom in its ground state?",
+        "options": {
+            "A": "6",
+            "B": "4",
+            "C": "2",
+            "D": "0"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "48",
+        "text": "How do the energy gaps between successive electron energy levels in an atom vary from low to high n values?",
+        "options": {
+            "A": "All energy gaps are the same.",
+            "B": "The energy gap decreases as n increases.",
+            "C": "The energy gap increases as n increases.",
+            "D": "The energy gap changes unpredictably as n increases. , 2001."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "49",
+        "text": "Which bond is expected to be the least polar?",
+        "options": {
+            "A": "O\u2013F",
+            "B": "P\u2013F",
+            "C": "Si\u2013N",
+            "D": "B\u2013Cl"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "50",
+        "text": "For which element would XH3 be a stable species?",
+        "options": {
+            "A": "C",
+            "B": "Cl",
+            "C": "P",
+            "D": "S"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "51",
+        "text": "Which species has a Lewis diagram and structure most like that of the carbonate ion, CO32\u2013?",
+        "options": {
+            "A": "NO3\u2013",
+            "B": "CH3+",
+            "C": "SO32\u2013",
+            "D": "PO43\u2013"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "52",
+        "text": "Which compounds contain both ionic and covalent bonds? I. BaSO4 II. Ca(NO3)2 III. NH4Cl",
+        "options": {
+            "A": "I only",
+            "B": "I and III only",
+            "C": "II and III only",
+            "D": "I, II and III"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "53",
+        "text": "W ordh ee rn o t fh e in s cp ree ac sie ins gN HH \u20134+ X, \u2013H H3O b+ o, na dn d a nH g2lF e s+ , a wre h aa tr r ia sn tg he ed in correct order?",
+        "options": {
+            "A": "H3O+ < NH4+ < H2F +",
+            "B": "H2F + < H3O+ < NH4+",
+            "C": "NH4+ < H2F + < H3O+",
+            "D": "NH4+ < H3O+ < H2F +"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "54",
+        "text": "T reh se o nn ait nr cit ee fi oo rn m, sN . O Th2\u2013 e, m lea ny g tb he s r oe fp tr he es e nn it te rod g b ey n -t tw o-o o m xya gjo enr bonds in this ion are expected to be",
+        "options": {
+            "A": "the same as the length of nitrogen-to-oxygen double bonds.",
+            "B": "the same as the length of nitrogen-to-oxygen triple bonds.",
+            "C": "between the lengths of a nitrogen-to-oxygen single bond and a nitrogen-to-oxygen double bond.",
+            "D": "between the lengths of a nitrogen-to-oxygen double bond and a nitrogen-to-oxygen triple bond. END O , 2001."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "55",
+        "text": "Which of these compounds contains a carboxyl group?",
+        "options": {
+            "A": "propanol",
+            "B": "propanal",
+            "C": "propanone",
+            "D": "propanoic acid"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "56",
+        "text": "Which class of compounds consists exclusively of saturated hydrocarbons?",
+        "options": {
+            "A": "alkanes",
+            "B": "alkenes",
+            "C": "alkynes",
+            "D": "aromatics"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "57",
+        "text": "How many different alcohols (not including optical isomers) have the molecular formula C4H10O?",
+        "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "58",
+        "text": "What is the position of the bromine atom relative to the methyl group in 3-bromotoluene?",
+        "options": {
+            "A": "meta",
+            "B": "ortho",
+            "C": "para",
+            "D": "trans"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "59",
+        "text": "Which of these compounds have cis- and trans- isomers?",
+        "options": {
+            "A": "dichlorobenzene",
+            "B": "1-chloropropene",
+            "C": "1,2-dichloropropane",
+            "D": "dichloroethyne"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "60",
+        "text": "If a certain polymer has the formula (\u2013CH2CCl2CH2CCl2\u2013)n, from which monomer is it made?",
+        "options": {
+            "A": "HC CCl",
+            "B": "ClHC=CClH",
+            "C": "Cl2C=CH2",
+            "D": "H2C=CClH TEST"
+        },
+        "correct_answer": "C"
+    }
+]

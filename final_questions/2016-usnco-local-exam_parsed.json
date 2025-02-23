@@ -1,0 +1,756 @@
+[
+    {
+        "number": "1",
+        "text": "A 20.0 g sample of mercury(II) oxide (HgO, M = 216.6) is heated strongly, causing it to decompose to metallic Hg and O2 gas. What volume of O2 gas is produced (measured at STP)?",
+        "options": {
+            "A": "1.03 L",
+            "B": "2.07 L",
+            "C": "4.14 L",
+            "D": "14.0 L"
+        },
+        "correct_answer": "A",
+        "question_id": "120161",
+        "image_path": "output_images\\2016-usnco-local-exam\\120161.png"
+    },
+    {
+        "number": "2",
+        "text": "When 30.0 mL of 0.10 M AgNO3 is added to 30.0 mL of 0.10 M NaCl, aqueous NaNO3 and solid AgCl are formed. How much solid AgCl is produced?",
+        "options": {
+            "A": "0.0030 mol",
+            "B": "0.0060 mol",
+            "C": "0.030 mol",
+            "D": "0.060 mol"
+        },
+        "correct_answer": "A",
+        "question_id": "120162",
+        "image_path": "output_images\\2016-usnco-local-exam\\120162.png"
+    },
+    {
+        "number": "3",
+        "text": " ",
+        "options": {
+            "A": "3.32 g",
+            "B": "6.64 g",
+            "C": "9.97 g",
+            "D": "13.3 g"
+        },
+        "correct_answer": "A",
+        "question_id": "120163",
+        "image_path": "output_images\\2016-usnco-local-exam\\120163.png"
+    },
+    {
+        "number": "4",
+        "text": "A 10.00 g sample of a compound containing only carbon, hydrogen, and oxygen forms 23.98 g CO2 and 4.91 g H2O upon complete combustion. What is the empirical formula of the compound?",
+        "options": {
+            "A": "C2HO",
+            "B": "C3H3O",
+            "C": "C6H3O2",
+            "D": "C6H6O"
+        },
+        "correct_answer": "B",
+        "question_id": "120164",
+        "image_path": "output_images\\2016-usnco-local-exam\\120164.png"
+    },
+    {
+        "number": "5",
+        "text": "Which of the following is a nonelectrolyte in aqueous solution?",
+        "options": {
+            "A": "H2SO4",
+            "B": "NaC2H3O2",
+            "C": "K2CO3",
+            "D": "CH2O"
+        },
+        "correct_answer": "D",
+        "question_id": "120165",
+        "image_path": "output_images\\2016-usnco-local-exam\\120165.png"
+    },
+    {
+        "number": "6",
+        "text": "An aqueous solution of potassium sulfate (K2SO4) has a freezing point of \u20132.24 \u00baC. What is its molality? (Kf = 1.86 \u00baC\u2022m\u20131)",
+        "options": {
+            "A": "0.401 m",
+            "B": "0.602 m",
+            "C": "1.20 m",
+            "D": "4.17 m"
+        },
+        "correct_answer": "A",
+        "question_id": "120166",
+        "image_path": "output_images\\2016-usnco-local-exam\\120166.png"
+    },
+    {
+        "number": "7",
+        "text": "Dissolution of which salt in water results in a decrease in the temperature of the solution?",
+        "options": {
+            "A": "KHSO4",
+            "B": "NaOH",
+            "C": "AlCl3",
+            "D": "NH4NO3"
+        },
+        "correct_answer": "D",
+        "question_id": "120167",
+        "image_path": "output_images\\2016-usnco-local-exam\\120167.png"
+    },
+    {
+        "number": "8",
+        "text": "What is observed when equal volumes of 0.1 M aqueous HCl and 0.01 M aqueous Na2SO3 are mixed?",
+        "options": {
+            "A": "Colorless solution and a white precipitate",
+            "B": "Colored solution and a white precipitate",
+            "C": "Colorless solution and a colored precipitate",
+            "D": "Colorless solution, no precipitate, and gas evolution"
+        },
+        "correct_answer": "D",
+        "question_id": "120168",
+        "image_path": "output_images\\2016-usnco-local-exam\\120168.png"
+    },
+    {
+        "number": "9",
+        "text": "Which combination of dilute aqueous reagents will not produce a precipitate?",
+        "options": {
+            "A": "AgNO3 + HCl",
+            "B": "NaOH + HClO4",
+            "C": "BaBr2 + Na2SO4",
+            "D": "ZnI2 + KOH"
+        },
+        "correct_answer": "B",
+        "question_id": "120169",
+        "image_path": "output_images\\2016-usnco-local-exam\\120169.png"
+    },
+    {
+        "number": "10",
+        "text": "A solution of a salt of which metal produces a bright red color in a flame test?",
+        "options": {
+            "A": "Lithium",
+            "B": "Sodium",
+            "C": "Potassium",
+            "D": "Copper"
+        },
+        "correct_answer": "A",
+        "question_id": "1201610",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201610.png"
+    },
+    {
+        "number": "11",
+        "text": "Which cation forms a colorless aqueous solution?",
+        "options": {
+            "A": "Co2+",
+            "B": "Ni2+",
+            "C": "Cu2+",
+            "D": "Zn2+"
+        },
+        "correct_answer": "D",
+        "question_id": "1201611",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201611.png"
+    },
+    {
+        "number": "13",
+        "text": " ",
+        "options": {
+            "A": "1.30 g L\u20131",
+            "B": "1.79 g L\u20131",
+            "C": "1.96 g L\u20131",
+            "D": "2.60 g L\u20131"
+        },
+        "correct_answer": "B",
+        "question_id": "1201613",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201613.png"
+    },
+    {
+        "number": "14",
+        "text": "Which statements about the behavior of gaseous H2 molecules in a container at 1 atm and 298 K are correct? I. All H2 molecules are moving at the same speed. II. The H2 molecules are colliding more frequently with the walls of the container than they would in the same container at 398 K.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "D",
+        "question_id": "1201614",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201614.png"
+    },
+    {
+        "number": "15",
+        "text": "Which species has a normal boiling point closest to the normal boiling point of argon, Ar?",
+        "options": {
+            "A": "H2",
+            "B": "N2",
+            "C": "F2",
+            "D": "Cl2"
+        },
+        "correct_answer": "C",
+        "question_id": "1201615",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201615.png"
+    },
+    {
+        "number": "16",
+        "text": "A sample of methanol, CH3OH, is introduced into an evacuated chamber with a movable piston. The pressure is measured as a function of the volume of the container while the temperature is maintained at 50 \u00baC, and the graph below is obtained. 400 350 mmHg , P 300 250 200 20 40 60 V, mL 80 100 120 Which statements are correct? I. At volumes less than 60 mL, only liquid methanol is present. II. At volumes greater than 60 mL, only gaseous methanol is present.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "B",
+        "question_id": "1201616",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201616.png"
+    },
+    {
+        "number": "17",
+        "text": "How many nearest neighbors does each silicon atom have in solid Si?",
+        "options": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12"
+        },
+        "correct_answer": "A",
+        "question_id": "1201617",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201617.png"
+    },
+    {
+        "number": "18",
+        "text": "Which sample contains the smallest number of atoms?",
+        "options": {
+            "A": "1.0 L of Ar at STP",
+            "B": "1.0 L of H2 at STP",
+            "C": "1.0 L of Ar at 25 \u00baC and 760 mm Hg",
+            "D": "1.0 L of H2 at 0 \u00baC and 900 mm Hg"
+        },
+        "correct_answer": "C",
+        "question_id": "1201618",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201618.png"
+    },
+    {
+        "number": "19",
+        "text": "The standard enthalpy of formation, \u2206H\u00baf, for HCOOH(l) is equal to the standard enthalpy change for which reaction?",
+        "options": {
+            "A": "C(g) + 2 H(g) + 2 O(g) \uf0ae HCOOH(l)",
+            "B": "C(s) + H2(g) + O2(g) \uf0ae HCOOH(l)",
+            "C": "C(g) + H2(g) + O2(g) \uf0ae HCOOH(l)",
+            "D": "CO2(g) + H2(g) \uf0ae HCOOH(l)"
+        },
+        "correct_answer": "B",
+        "question_id": "1201619",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201619.png"
+    },
+    {
+        "number": "20",
+        "text": "40.0 mL of 0.200 M aqueous NaOH is added to 200.0 mL of 0.100 M aqueous NaHCO3 in a flask maintained at 25 \u00baC. Neglecting the effects of dilution, what is q for this reaction? \u2206H\u00baf, kJ mol\u20131 OH\u2013(aq) \u2013230 HCO3\u2013(aq) \u2013692 CO32\u2013(aq) \u2013677 H2O(l) \u2013286",
+        "options": {
+            "A": "\u201341 J",
+            "B": "\u201374 J",
+            "C": "\u2013330 J",
+            "D": "\u2013820 J"
+        },
+        "correct_answer": "C",
+        "question_id": "1201620",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201620.png"
+    },
+    {
+        "number": "21",
+        "text": "g water at 32.0 \u00baC. What is the final temperature when the mixture reaches equilibrium? (The heat of fusion of ice is 334 J g\u20131.)",
+        "options": {
+            "A": "18.0 \u00baC",
+            "B": "20.6 \u00baC",
+            "C": "22.0 \u00baC",
+            "D": "28.0 \u00baC"
+        },
+        "correct_answer": "A",
+        "question_id": "1201621",
+        "image_path": "output_images\\2016-usnco-local-exam\\12016350.png"
+    },
+    {
+        "number": "22",
+        "text": "Which is the best explanation for the negative sign of \u2206S\u00ba in the following reaction? CaSO4(s) \uf0ae Ca2+(aq) + SO42\u2013(aq) \u2206S\u00ba = \u2013143 J mol\u20131 K\u20131",
+        "options": {
+            "A": "There are more ways of arranging the Ca2+ and SO42\u2013 ions in aqueous solution than in the crystal lattice.",
+            "B": "Solid CaSO4 is a network covalent solid, whereas it separates into ions in aqueous solution.",
+            "C": "Aqueous Ca2+ and SO42\u2013 ions are tightly solvated, decreasing the number of ways of arranging water molecules when the solid dissolves.",
+            "D": "Calcium sulfate dissolves exothermically, leading to a net loss of entropy."
+        },
+        "correct_answer": "C",
+        "question_id": "1201622",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201622.png"
+    },
+    {
+        "number": "23",
+        "text": "The Ksp of Al(OH)3 is 2.0 \uf0b4 10\u201331 at 298 K. What is \u2206G\u00ba (at 298 K) for the precipitation of Al(OH)3 according to the equation below? Al3+(aq) + 3 OH\u2013(aq) \uf0ae Al(OH)3(s)",
+        "options": {
+            "A": "\u2013175 kJ mol\u20131",
+            "B": "14.7 kJ mol\u20131",
+            "C": "70.6 kJ mol\u20131",
+            "D": "175 kJ mol\u20131"
+        },
+        "correct_answer": "A",
+        "question_id": "1201623",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201623.png"
+    },
+    {
+        "number": "24",
+        "text": "What is the bond dissociation enthalpy of the Cl\u2013Cl bond?",
+        "options": {
+            "A": "88 kJ mol\u20131",
+            "B": "96 kJ mol\u20131",
+            "C": "188 kJ mol\u20131",
+            "D": "243 kJ mol\u20131"
+        },
+        "correct_answer": "A",
+        "question_id": "1201624",
+        "image_path": "output_images\\2016-usnco-local-exam\\120161.png"
+    },
+    {
+        "number": "25",
+        "text": "Which statement about chemical reaction mechanisms is correct?",
+        "options": {
+            "A": "The overall rate law can be determined from any step in the mechanism.",
+            "B": "The rate of a reaction is the rate of the fastest elementary step of its mechanism.",
+            "C": "The chemical equation for the sum of all the elementary steps is the chemical equation of the overall reaction.",
+            "D": "Species that are produced and subsequently consumed in the mechanism serve as catalysts for the reaction."
+        },
+        "correct_answer": "C",
+        "question_id": "1201625",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201625.png"
+    },
+    {
+        "number": "26",
+        "text": " ",
+        "options": {
+            "A": "1.0 \uf0b4 10\u20132 M s\u20131",
+            "B": "1.0 \uf0b4 10\u20134 M s\u20131",
+            "C": "5.0 \uf0b4 10\u20135 M s\u20131",
+            "D": "2.5 \uf0b4 10\u20135 M s\u20131"
+        },
+        "correct_answer": "C",
+        "question_id": "1201626",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201626.png"
+    },
+    {
+        "number": "27",
+        "text": " ",
+        "options": {
+            "A": "Rate = k[A]",
+            "B": "Rate = k[B]",
+            "C": "Rate = k[A][B]",
+            "D": "Rate = k[A][B]2"
+        },
+        "correct_answer": "C",
+        "question_id": "1201627",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201627.png"
+    },
+    {
+        "number": "28",
+        "text": "What are the units of k if the rate law of a reaction is rate = k[X]0[Y]0?",
+        "options": {
+            "A": "M s\u20131",
+            "B": "s\u20131",
+            "C": "M\u20131 s\u20131",
+            "D": "k is dimensionless"
+        },
+        "correct_answer": "A",
+        "question_id": "1201628",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201628.png"
+    },
+    {
+        "number": "29",
+        "text": "Hydrogen peroxide, H2O2(aq), decomposes into water and oxygen. Adding a small amount of FeCl3(aq) increases the rate of gas evolution in this reaction. What is the best description of the role of FeCl3?",
+        "options": {
+            "A": "Transition state",
+            "B": "Reaction intermediate",
+            "C": "Heterogeneous catalyst",
+            "D": "Homogeneous catalyst"
+        },
+        "correct_answer": "D",
+        "question_id": "1201629",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201629.png"
+    },
+    {
+        "number": "30",
+        "text": " ",
+        "options": {
+            "A": "1.07 M",
+            "B": "0.503 M",
+            "C": "0.335 M",
+            "D": "0.128 M"
+        },
+        "correct_answer": "A",
+        "question_id": "1201630",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201630.png"
+    },
+    {
+        "number": "31",
+        "text": "A 60.0 g sample of CaCO3 is heated to 950 K in a 1.00 L evacuated container, where it reacts according to the following equation: CaCO3(s) CaO(s) + CO2(g) After equilibrium is attained, the pressure of CO2(g) is 30.0 mm Hg. When the experiment is repeated using 120.0 g CaCO3, what is the equilibrium pressure P?",
+        "options": {
+            "A": "15.0 mm Hg \u2264 P < 30.0 mm Hg",
+            "B": "P = 30.0 mm Hg",
+            "C": "30.0 mm Hg < P < 60.0 mm Hg",
+            "D": "P = 60.0 mm Hg"
+        },
+        "correct_answer": "B",
+        "question_id": "1201631",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201631.png"
+    },
+    {
+        "number": "32",
+        "text": "What is the best description of the species present in a 0.1 M solution of nitrous acid?",
+        "options": {
+            "A": "HNO2(aq) is the predominant species; much smaller amounts of H+(aq) and NO2–(aq) exist. ",
+            "B": "H+(aq) and NO2\u2013(aq) are the predominant species; much smaller amounts of HNO2(aq) exist.",
+            "C": "Only H+(aq) and NO2\u2013(aq) are present in measurable amounts.",
+            "D": "HNO2(aq), H+(aq), and NO2\u2013(aq) are all present in comparable amounts."
+        },
+        "correct_answer": "B",
+        "question_id": "120164",
+        "image_path": "output_images\\2016-usnco-local-exam\\120164.png"
+    },
+    {
+        "number": "33",
+        "text": "What mass of Ag2SO4 will dissolve per liter of water?",
+        "options": {
+            "A": "0.019 g",
+            "B": "1.7 g",
+            "C": "2.4 g",
+            "D": "7.7 g"
+        },
+        "correct_answer": "D",
+        "question_id": "1201633",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201633.png"
+    },
+    {
+        "number": "34",
+        "text": "IBr(g) is in equilibrium with I2(g) and Br2(g) at 150 \u00baC: 2 IBr(g) I2(g) + Br2(g) K = 8.50 \uf0b4 10\u20133 Initially, a closed vessel at 150 \u00baC has a partial pressure of IBr of 0.350 atm and partial pressures of I2 and Br2 each of 0.750 atm. What is the partial pressure of IBr once the system reaches equilibrium?",
+        "options": {
+            "A": "1.01 atm",
+            "B": "1.09 atm",
+            "C": "1.56 atm",
+            "D": "1.82 atm"
+        },
+        "correct_answer": "C",
+        "question_id": "1201634",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201634.png"
+    },
+    {
+        "number": "36",
+        "text": "The tetramminecopper(II) ion, Cu(NH3)42+, has a formation constant Kf = 1.1 \uf0b4 \n1013. What is the minimum concentration of free ammonia in solution required to ensure that at least 99.9% of the dissolved copper(II) ion is found in the form of its ammonia complex?",
+        "options": {
+            "A": "9 \uf0b4 10\u201314 M",
+            "B": "9 \uf0b4 10\u201311 M",
+            "C": "8 \uf0b4 10\u20134 M",
+            "D": "3 \uf0b4 10\u20133 M"
+        },
+        "correct_answer": "D",
+        "question_id": "1201636",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201636.png"
+    },
+    {
+        "number": "37",
+        "text": " ",
+        "options": {
+            "A": "1 : 1",
+            "B": "2 : 1",
+            "C": "3 : 1",
+            "D": "3 : 2"
+        },
+        "correct_answer": "B",
+        "question_id": "1201637",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201637.png"
+    },
+    {
+        "number": "38",
+        "text": "When an aqueous solution of KI is electrolyzed, what forms at the anode?",
+        "options": {
+            "A": "O2",
+            "B": "I2",
+            "C": "K",
+            "D": "H2O"
+        },
+        "correct_answer": "B",
+        "question_id": "1201638",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201638.png"
+    },
+    {
+        "number": "39",
+        "text": "How long will it take to deposit 1.00 g Pt(s) (M = 195.1)?",
+        "options": {
+            "A": "1600 s",
+            "B": "3300 s",
+            "C": "6600 s",
+            "D": "13000 s"
+        },
+        "correct_answer": "B",
+        "question_id": "1201639",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201639.png"
+    },
+    {
+        "number": "40",
+        "text": "In the galvanic cell Al(s) \u01c0 Al3+(aq, 1 M) \u01c0\u01c0 Cu2+(aq, 1 M) \u01c0 Cu(s) which of the following changes will increase the cell potential? I. Dilution of the Al3+ solution to 0.001 M II. Dilution of the Cu2+ solution to 0.001 M III. Increasing the surface area of the Al(s) electrode",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "III only",
+            "D": "I and III only"
+        },
+        "correct_answer": "A",
+        "question_id": "1201640",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201640.png"
+    },
+    {
+        "number": "41",
+        "text": "What is the equilibrium constant for the following reaction at 25 \u00b0C? 2 Ag+(aq) + Cu(s) \u2192 Cu2+(aq) + 2 Ag(s) Half-Reaction E\u00ba, V Ag+(aq) + e\u2013 \uf0ae Ag(s) +0.80 Cu2+(aq) + 2e\u2013 \uf0ae Cu(s) +0.34",
+        "options": {
+            "A": "6.0 \uf0b4 107",
+            "B": "3.6 \uf0b4 1015",
+            "C": "3.6 \uf0b4 1038",
+            "D": "4.2 \uf0b4 1042"
+        },
+        "correct_answer": "B",
+        "question_id": "1201641",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201641.png"
+    },
+    {
+        "number": "42",
+        "text": "In the galvanic cell Sn(s) | Sn2+(aq) || Cu2+(aq) | Cu(s) the standard potential is 0.48 V. Starting with standard concentrations, what are the concentrations of Sn2+ and Cu2+ when the cell has discharged to a potential of 0.45 V?",
+        "options": {
+            "A": "[Sn2+ ] = 0.47 M, [Cu2+] = 1.53 M",
+            "B": "[Sn2+ ] = [Cu2+] = 1.00 M",
+            "C": "[Sn2+ ] = 1.53 M, [Cu2+] = 0.47 M",
+            "D": "[Sn2+ ] = 1.82 M, [Cu2+] = 0.18 M"
+        },
+        "correct_answer": "D",
+        "question_id": "1201642",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201642.png"
+    },
+    {
+        "number": "43",
+        "text": "Which of the following statements is best supported by the data from Rutherford\u2019s experiment of scattering alpha particles with a thin metal foil?",
+        "options": {
+            "A": "The mass and positive charge of an atom are concentrated in its center.",
+            "B": "Electrons in atoms occupy only certain specific energy levels.",
+            "C": "Moving particles can also be described as waves.",
+            "D": "Atoms of a given element do not all have identical masses."
+        },
+        "correct_answer": "A",
+        "question_id": "1201643",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201643.png"
+    },
+    {
+        "number": "44",
+        "text": "What is the formula of the most stable oxide of francium?",
+        "options": {
+            "A": "Fr2O",
+            "B": "FrO",
+            "C": "Fr2O3",
+            "D": "FrO2"
+        },
+        "correct_answer": "A",
+        "question_id": "1201644",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201644.png"
+    },
+    {
+        "number": "45",
+        "text": "As atomic number increases from 11 to 15, the atomic radii of the elements",
+        "options": {
+            "A": "increase",
+            "B": "decrease",
+            "C": "increase, then decrease",
+            "D": "decrease, then increase"
+        },
+        "correct_answer": "B",
+        "question_id": "1201645",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201645.png"
+    },
+    {
+        "number": "46",
+        "text": "Nitrogen has a greater first ionization energy than oxygen. What is the best explanation for this observation?",
+        "options": {
+            "A": "Nitrogen is more electronegative than oxygen.",
+            "B": "A nitrogen atom is smaller than an oxygen atom.",
+            "C": "The electron ionized from nitrogen experiences less electron-electron repulsion than the electron ionized from oxygen.",
+            "D": "The electron ionized from nitrogen is a 2s electron, while the electron ionized from oxygen is a 2p electron."
+        },
+        "correct_answer": "C",
+        "question_id": "1201646",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201646.png"
+    },
+    {
+        "number": "47",
+        "text": "Which set of quantum numbers n, l, ml, ms is invalid?",
+        "options": {
+            "A": "1, 1, 0, \u2013\u00bd",
+            "B": "2, 0, 0, +\u00bd",
+            "C": "3, 1, 0, +\u00bd",
+            "D": "4, 3, 2, \u2013\u00bd"
+        },
+        "correct_answer": "A",
+        "question_id": "1201647",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201647.png"
+    },
+    {
+        "number": "48",
+        "text": "What is the product of alpha emission from the isotope uranium-238?",
+        "options": {
+            "A": "232Th",
+            "B": "234Th",
+            "C": "237Np",
+            "D": "231Pa"
+        },
+        "correct_answer": "B",
+        "question_id": "1201648",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201648.png"
+    },
+    {
+        "number": "49",
+        "text": "Which molecule is nonpolar, yet contains polar covalent bonds?",
+        "options": {
+            "A": "CO2",
+            "B": "HCN",
+            "C": "NH3",
+            "D": "P4"
+        },
+        "correct_answer": "A",
+        "question_id": "1201649",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201649.png"
+    },
+    {
+        "number": "50",
+        "text": "The nitrite ion, NO2\u2013, can be represented as a resonance hybrid of two significant Lewis structures. Which statements about this are correct? I. The two resonance structures contribute equally to the structure. II. The formal charge of nitrogen is zero in both resonance structures.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "C",
+        "question_id": "1201650",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201650.png"
+    },
+    {
+        "number": "51",
+        "text": "Which is not a stable molecule?",
+        "options": {
+            "A": "NF3",
+            "B": "NF5",
+            "C": "PF3",
+            "D": "PF5"
+        },
+        "correct_answer": "B",
+        "question_id": "1201651",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201651.png"
+    },
+    {
+        "number": "52",
+        "text": "What is the molecular geometry of IF3?",
+        "options": {
+            "A": "Trigonal planar",
+            "B": "Trigonal pyramidal",
+            "C": "T-shaped",
+            "D": "Tetrahedral"
+        },
+        "correct_answer": "C",
+        "question_id": "1201652",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201652.png"
+    },
+    {
+        "number": "53",
+        "text": "Which is the best explanation for this difference?",
+        "options": {
+            "A": "N2 has valence electrons only in bonding and nonbonding orbitals, while P2 has some valence electrons in antibonding orbitals.",
+            "B": "The greater electronegativity of N compared to P stabilizes compounds with lower molar masses.",
+            "C": "The greater size of P compared to N results in decreased overlap in pi bonds.",
+            "D": "The preference of P to adopt smaller bond angles than N favors formation of tetrahedral P4 molecules."
+        },
+        "correct_answer": "A",
+        "question_id": "1201653",
+        "image_path": "output_images\\2016-usnco-local-exam\\120162.png"
+    },
+    {
+        "number": "54",
+        "text": "Which contains sp3-hybridized carbon atoms?",
+        "options": {
+            "A": "Benzene, C6H6",
+            "B": "Ethane, C2H6",
+            "C": "Ethene, C2H4",
+            "D": "Ethyne, C2H2"
+        },
+        "correct_answer": "B",
+        "question_id": "1201654",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201654.png"
+    },
+    {
+        "number": "55",
+        "text": "How many sigma bonds are in 2-butyne (CH3C\uf0baCCH3)?",
+        "options": {
+            "A": "3",
+            "B": "6",
+            "C": "9",
+            "D": "11"
+        },
+        "correct_answer": "C",
+        "question_id": "1201655",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201655.png"
+    },
+    {
+        "number": "56",
+        "text": "Which alcohol will undergo acid-catalyzed dehydration under the mildest conditions?",
+        "options": {
+            "A": "CH3CH2CH2CH2OH",
+            "B": "CH3CH2CH(OH)CH3",
+            "C": "(CH3)2CHCH2OH",
+            "D": "(CH3)3COH"
+        },
+        "correct_answer": "D",
+        "question_id": "1201656",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201656.png"
+    },
+    {
+        "number": "57",
+        "text": "A 1.0 M aqueous solution of which compound has the lowest pH?",
+        "options": {
+            "A": "CH3CH2OH",
+            "B": "CH3COOH",
+            "C": "CH3CHO",
+            "D": "Cl3CCHO"
+        },
+        "correct_answer": "B",
+        "question_id": "1201657",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201657.png"
+    },
+    {
+        "number": "58",
+        "text": "A six-carbon organic compound containing oxygen is suspected of being either a secondary alcohol or a ketone. Which chemical or physical test would best distinguish between these two possibilities?",
+        "options": {
+            "A": "Water solubility",
+            "B": "Melting point",
+            "C": "Treatment with sodium bicarbonate",
+            "D": "Treatment with acidic dichromate"
+        },
+        "correct_answer": "D",
+        "question_id": "1201658",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201658.png"
+    },
+    {
+        "number": "59",
+        "text": "Which two bases are found as a hydrogen-bonded base pair in DNA?",
+        "options": {
+            "A": "A and T",
+            "B": "C and T",
+            "C": "C and U",
+            "D": "G and U"
+        },
+        "correct_answer": "A",
+        "question_id": "1201659",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201659.png"
+    },
+    {
+        "number": "60",
+        "text": "What is the nature of the peptide bonds in a protein?",
+        "options": {
+            "A": "Hydrogen bonds",
+            "B": "Amide bonds",
+            "C": "Disulfide bonds",
+            "D": "Ionic bonds END OF TEST"
+        },
+        "correct_answer": "B",
+        "question_id": "1201660",
+        "image_path": "output_images\\2016-usnco-local-exam\\1201660.png"
+    }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "number": "1",
+        "text": "How many atoms are in 4.0 \uf0b4 10\u20135 grams of Al?",
+        "options": {
+            "A": "8.9 \uf0b4 1017",
+            "B": "2.4 \uf0b4 1019",
+            "C": "6.5 \uf0b4 1020",
+            "D": "2.0 \uf0b4 1022"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "2",
+        "text": "How many moles of sulfate ions are in 100 mL of a solution of 0.0020 M Fe2(SO4)3?",
+        "options": {
+            "A": "2.0 \uf0b4 10\u20134",
+            "B": "6.0 \uf0b4 10\u20134",
+            "C": "2.0 \uf0b4 10\u20131",
+            "D": "6.0 \uf0b4 10\u20131"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "3",
+        "text": "The value of which concentration unit for a solution changes with temperature?",
+        "options": {
+            "A": "molarity",
+            "B": "molality",
+            "C": "mole fraction",
+            "D": "mass percentage"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "4",
+        "text": "How many moles of water are produced by the complete combustion of 14.4 g of C5H12? C5H12 + 8O2 \uf0ae 5CO2 + 6H2O",
+        "options": {
+            "A": "0.200",
+            "B": "0.600",
+            "C": "1.20",
+            "D": "2.40"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "5",
+        "text": "A solution of Ba(OH)2 is standardized with potassium acid phthalate (abbreviated KHP), KHC8H8O4 (M = 204). If 1.530 g of KHP is titrated with 34.50 mL of the Ba(OH)2 solution, what is the molarity of Ba(OH)2?",
+        "options": {
+            "A": "0.0217 M",
+            "B": "0.0435 M",
+            "C": "0.109 M",
+            "D": "0.217 M"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "6",
+        "text": "30.0 mL of 0.10 M Ca(NO3)2 and 15.0 mL of 0.20 M Na3PO4 solutions are mixed. After the reaction is complete, which of these ions has the lowest concentration in the final solution?",
+        "options": {
+            "A": "Na+",
+            "B": "NO3\u2013",
+            "C": "Ca2+",
+            "D": "PO43\u2013"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "7",
+        "text": "A dilute solution of which acid is most likely to produce a reduction product other than H2 when it reacts with a metal?",
+        "options": {
+            "A": "HF",
+            "B": "HCl",
+            "C": "HNO3",
+            "D": "H2SO4"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "8",
+        "text": "Which two substances react spontaneously?",
+        "options": {
+            "A": "Ag and Cu",
+            "B": "Ag+ and Cu",
+            "C": "Ag and Cu2+",
+            "D": "Ag+ and Cu2+ Property of ACS USNCO \u2013 Not for use as a USNCO Local Exa"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "9",
+        "text": "Which spectral series for hydrogen contains lines in the visible region of the spectrum?",
+        "options": {
+            "A": "Lyman series",
+            "B": "Balmer series",
+            "C": "Paschen series",
+            "D": "Brackett series"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "10",
+        "text": "Which piece of laboratory apparatus is not used for the purpose listed? Apparatus Purpose",
+        "options": {
+            "A": "aspirator measure height",
+            "B": "buret measure volume",
+            "C": "calorimeter measure thermal energy change",
+            "D": "desiccator store samples in dry conditions ( A) A \n(B) B \n(C) C \n(D) D"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "11",
+        "text": "Which transformation demonstrates that the bonds between water molecules are weaker than the bonds within a water molecule?",
+        "options": {
+            "A": "freezing water",
+            "B": "electrolysis of water",
+            "C": "boiling water",
+            "D": "reaction of water with Na(s)"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "12",
+        "text": "The molar mass of an unknown organic liquid (M ~ 100) is determined by placing 5 mL of the liquid in a weighed 125-mL conical flask fitted with a piece of Al foil with a pin hole in it. The flask is heated in a boiling water bath until the liquid evaporates to expel the air and fill the flask with the unknown vapor at atmospheric pressure. After cooling to room temperature the flask and its contents are reweighed. The uncertainty in which piece of apparatus causes the largest percentage error in the molar mass?",
+        "options": {
+            "A": "balance (+0.01 g)",
+            "B": "barometer (+0.2 mm Hg)",
+            "C": "flask (+1.0 mL)",
+            "D": "thermometer (+0.2 \u02daC) after March 31, 2012"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "13",
+        "text": "At the molecular level, the factor that determines whether a substance will be a solid, liquid, or gas is the balance between the",
+        "options": {
+            "A": "kinetic energies of the molecules and their intermolecular forces.",
+            "B": "potential energies of the molecules and their intermolecular forces.",
+            "C": "kinetic energies of the molecules and their intramolecular forces.",
+            "D": "potential energies of the molecules and their intramolecular forces."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "14",
+        "text": "A gas sample in a flexible container is maintained at constant pressure while its temperature is increased from 25 \u02daC to 75 \u02daC. If the initial volume of the gas is 4.2 L, what is the change in volume due to the temperature increase?",
+        "options": {
+            "A": "0.7 L",
+            "B": "4.9 L",
+            "C": "8.4 L",
+            "D": "12.6 L"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "15",
+        "text": "The critical temperature of carbon dioxide is 304.3 K. Which statement is true about the behavior of carbon dioxide above this temperature?",
+        "options": {
+            "A": "Solid, liquid and gaseous carbon dioxide are in equilibrium above this temperature.",
+            "B": "Liquid and gaseous carbon dioxide are in equilibrium above this temperature.",
+            "C": "Liquid carbon dioxide does not exist above this temperature.",
+            "D": "Carbon dioxide molecules do not exist above this temperature."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "16",
+        "text": "Which substance is matched incorrectly with the type of solid it forms?",
+        "options": {
+            "A": "ammonium sulfate-ionic solid",
+            "B": "lead-metallic solid",
+            "C": "potassium chloride-ionic solid",
+            "D": "silicon dioxide-molecular solid"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "17",
+        "text": "Metallic sodium has a body-centered cubic unit cell. How many atoms are contained in one unit cell?",
+        "options": {
+            "A": "1",
+            "B": "2",
+            "C": "5",
+            "D": "9"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "18",
+        "text": "Which substance has the lowest boiling point?",
+        "options": {
+            "A": "H2O",
+            "B": "H2S",
+            "C": "H2Se",
+            "D": "H2Te"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "19",
+        "text": "T cah re b oc no m dib ou xs it dio en a no df 1 w.0 a0 te rm ao nl de o ref l m eae st eh sa 8n 0e, 2 C kH J\u20224 m, p or l\u2013o 1d . uces When 3.00 mol of oxygen react with a stoichiometric quantity of methane, what is \u2206H for the reaction?",
+        "options": {
+            "A": "\u20131.20 \uf0b4 103 kJ",
+            "B": "\u20138.02 \uf0b4 102 kJ",
+            "C": "8.02 \uf0b4 102 kJ",
+            "D": "1.20 \uf0b4 103 kJ"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "20",
+        "text": "What is the final temperature when 20.0 g of water (specific heat capacity 4.184 J\u2022g\u20131\u2022K\u20131) at 80.0 \u02daC is mixed with 30.0 g of water at 20.0 \u02daC in an insulated container?",
+        "options": {
+            "A": "32 \u02daC",
+            "B": "44 \u02daC",
+            "C": "50 \u02daC",
+            "D": "56 \u02daC"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "21",
+        "text": "PCl5(s) reacts with H2O(l) according to the equation: PCl5(s) + 4H2O(l) \uf0ae H3PO4(aq) + 5HCl(aq) What is \u2206H\u02da for this reaction in kJ\u2022mol\u20131? Substance PCl5(s) H2O(l) H3PO4(aq) (cid:13)HCl(aq) \u2206Hf\u02da, kJ/mol \u2013443.5 \u2013285.8 \u20131284.4 \u2013167.1",
+        "options": {
+            "A": "\u2013722.2",
+            "B": "\u2013533.2",
+            "C": "533.2",
+            "D": "722.2"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "22",
+        "text": "Which is a statement of the Second Law of Thermodynamics?",
+        "options": {
+            "A": "The energy of the universe is conserved.",
+            "B": "The energy of the universe is decreasing.",
+            "C": "The entropy of the universe is conserved.",
+            "D": "The entropy of the universe is increasing."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "23",
+        "text": "For which signs of \u2206H and \u2206S will a reaction always be spontaneous?",
+        "options": {
+            "A": "\u2206H +, \u2206S +",
+            "B": "\u2206H +, \u2206S \u2013",
+            "C": "\u2206H \u2013, \u2206S \u2013",
+            "D": "\u2206H \u2013, \u2206S +"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "24",
+        "text": "What is correct about the signs and magnitudes of the free energy, \u2206G\u02da, and the equilibrium constant, K, for a thermodynamically spontaneous reaction under standard conditions?",
+        "options": {
+            "A": "\u2206G\u02da < 0, K < 0",
+            "B": "\u2206G\u02da = 0, K > 0",
+            "C": "\u2206G\u02da < 0, K = 0",
+            "D": "\u2206G\u02da < 0, K > 0"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "25",
+        "text": "The rate of a stoichiometric reaction between a solid and a gas in a container may be increased by increasing all of the following factors EXCEPT the",
+        "options": {
+            "A": "pressure of the gas.",
+            "B": "temperature of the gas.",
+            "C": "volume of the container.",
+            "D": "surface area of the solid. O \u2013 Not for use as a USNCO Local Exam after March 31, 2012"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "26",
+        "text": "The gas phase decomposition of dinitrogen pentoxide is represented by this equation. 2N2O5(g) \uf0ae 4NO2(g) + O2(g) What is the rate of formation of oxygen gas (in mol\u2022L\u20131\u2022s\u20131) in an experiment where 0.080 mol of N2O5 is consumed in a 4.0 L container every 0.20 seconds?",
+        "options": {
+            "A": "0.020",
+            "B": "0.050",
+            "C": "0.10",
+            "D": "0.20"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "27",
+        "text": "Which accounts for the increase in the rate of a reaction when a catalyst is added to a chemical system?",
+        "options": {
+            "A": "a decrease in the enthalpy change between the reactants and products",
+            "B": "an increase in the potential energy of the reactants",
+            "C": "a decrease in the potential energy of the activated complex",
+            "D": "a decrease in the entropy of the activated complex"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "28",
+        "text": "For this first-order isomerization reaction, CH3NC \uf0ae CH3CN, how do the properties of the reaction in the table below vary as the reaction proceeds? Rate of reaction Half-life, (s) \u2013\u2206[CH3NC] , (M\u2022s\u20131) \u2206t",
+        "options": {
+            "A": "remains the same decreases",
+            "B": "decreases remains the same",
+            "C": "remains the same remains the same",
+            "D": "decreases decreases \n(A) A \n(B) B \n(C) C \n(D) D"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "29",
+        "text": "The rate of a reaction between A and B follows the rate law Rate = k[A]2[B]. Determine the rate of Experiment Two in the table below at the same temperature as Experiment One. Experiment [A], M [B], M Observed Rate, mol\u2022L\u20131\u2022s\u20131 1 0.10 0.10 R 2 0.30 0.20 ?",
+        "options": {
+            "A": "3R",
+            "B": "6R",
+            "C": "12R",
+            "D": "18R"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "30",
+        "text": "One proposed mechanism for the hydrolysis of an ester is shown below. R R RC C CO O (OO H HR O )' OR + ' R+ H '+ (O3 O H H+ 2 2 O )\uf0ae + \uf0ae + R H C R 2OO C H ( \uf0aeOO H R ) R' O+ C + R O 'H ( OO2 HO H 2 +) + R 'OH + H3O+ Which species is considered an intermediate?",
+        "options": {
+            "A": "RCOHOR'+",
+            "B": "H3O+",
+            "C": "RCOOR'",
+            "D": "R'OH Property of ACS USNCO \u2013 Not for use as a USNCO Local Exa"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "31",
+        "text": "Which statement(s) characterize(s) a chemical system at equilibrium? I The rate of the forward reaction is equal to the rate of the reverse reaction. II The concentrations of the reactants and products are equal.",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "Both I and II",
+            "D": "Neither I nor II"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "32",
+        "text": "W perh a lit t eis r t ah te 2 s 5o \u02dalu Cb ?i l i t y [i Kn sp p u (r 2e 5 w \u02daCat )e =r o 6f . 0B \uf0b4a( 1IO 0\u201331) 02 ] i n moles",
+        "options": {
+            "A": "1.2 \uf0b4 10\u20135",
+            "B": "1.7 \uf0b4 10\u20135",
+            "C": "5.3 \uf0b4 10\u20134",
+            "D": "8.4 \uf0b4 10\u20134"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "33",
+        "text": "C(s) + H2O(g) CO(g) + H2(g) \u2206H > 0 For the system above at equilibrium, which changes will increase the amount of H2(g)? I Adding C(s) II Increasing the volume of the container III Increasing the temperature",
+        "options": {
+            "A": "I only",
+            "B": "III only",
+            "C": "II and III only",
+            "D": "I, II and III"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "34",
+        "text": "Determine the volume of 0.125 M NaOH required to titrate to the equivalence point 25.0 mL of a 0.175 M solution of a monoprotic weak acid that is 20% ionized.",
+        "options": {
+            "A": "7.00 mL",
+            "B": "17.9 mL",
+            "C": "28.0 mL",
+            "D": "35.0 mL"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "74",
+        "text": "Which of the following actions will change the pH of this solution? I Adding 15 mL of 0.10 M HCl II Adding 0.010 mol of NaC2H3O2 III Diluting the solution from 75 mL to 125 mL",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "I and II only",
+            "D": "I, II and III"
+        },
+        "correct_answer": null
+    },
+    {
+        "number": "36",
+        "text": "Which acid-base indicator will give the best results for the titration of an aqueous ammonia solution with 0.10 M HCl? Indicator Color change pH range Methyl violet red \uf0ae blue 0 \uf0ae 2 Methyl red red \uf0ae yellow 4 \uf0ae 6 Cresol red yellow \uf0ae purple 7 \uf0ae 9 Phenolphthalein colorless \uf0ae pink 8 \uf0ae 10",
+        "options": {
+            "A": "Methyl violet",
+            "B": "Methyl red",
+            "C": "Cresol red",
+            "D": "Phenolphthalein after March 31, 2012"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "37",
+        "text": "Which species has an atom with an oxidation number of +3?",
+        "options": {
+            "A": "ClO2\u2013",
+            "B": "PO43\u2013",
+            "C": "S2O32\u2013",
+            "D": "NO2+"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "38",
+        "text": "According to the reduction potentials in the table below, which statement is true at standard conditions? Reaction E\u02da, V L2+ + 2e\u2013 \uf0ae L \u20130.13 M2+ + 2e\u2013 \uf0ae M \u20130.44 N2+ + 2e\u2013 \uf0ae N \u20130.76",
+        "options": {
+            "A": "L2+ ions oxidize M metal.",
+            "B": "M metal reduces N2+ ions.",
+            "C": "M is a better reducing agent than N.",
+            "D": "M2+ ions are better oxidizing agents than L2+ ions."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "39",
+        "text": "How many H+ ions are required when the equation below is balanced with the smallest whole number coefficients? Cu(s) + NO3\u2013 (aq) + H+(aq) \uf0aeCu2+(aq) + NO(g) + H2O(l)",
+        "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "40",
+        "text": "Ag+ + e\u2013 \uf0ae Ag E\u02da = 0.80 V Co2+ + 2e\u2013 \uf0ae Co E\u02da = \u20130.28 V What is the E\u02da value for the voltaic cell using the half- reactions above at standard conditions?",
+        "options": {
+            "A": "0.52 V",
+            "B": "1.08 V",
+            "C": "1.32 V",
+            "D": "1.88 V"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "41",
+        "text": "Sn(s) | Sn2+(aq) || Cu2+(aq) | Cu(s) For the voltaic cell represented above, which change will increase the voltage?",
+        "options": {
+            "A": "increasing the size of the Sn electrode",
+            "B": "increasing the size of the Cu electrode",
+            "C": "increasing the [Sn2+]",
+            "D": "increasing the [Cu2+]"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "42",
+        "text": "For how many seconds must a current of 5.00 A flow in order to deposit 1.30 g of nickel from a solution of nickel(II) nitrate? (Coulombs = Amperes \uf0b4 seconds)",
+        "options": {
+            "A": "2.14 \uf0b4 102",
+            "B": "4.28 \uf0b4 102",
+            "C": "8.55 \uf0b4 102",
+            "D": "4.28 \uf0b4 103"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "43",
+        "text": "The isotope 14C undergoes radioactive decay slowly. Which mode of decay is most likely?",
+        "options": {
+            "A": "alpha emission",
+            "B": "beta emission",
+            "C": "positron emission",
+            "D": "electron capture"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "44",
+        "text": "The quantum numbers, n = 4, l = 1, ml = 0 could represent a valence electron in which atom in its ground state?",
+        "options": {
+            "A": "Fe",
+            "B": "In",
+            "C": "Pd",
+            "D": "Se"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "45",
+        "text": "A gas phase atom with the electron configuration 1s2 2s2 2p6 3s2 3p6 4s2 3d6 loses three electrons. What is the electron configuration of the resulting gas phase ion?",
+        "options": {
+            "A": "1s2 2s2 2p6 3s2 3p6 3d5",
+            "B": "1s2 2s2 2p6 3s2 3p6 4s1 3d4",
+            "C": "1s2 2s2 2p6 3s2 3p6 4s2 3d3",
+            "D": "1s2 2s2 2p6 3s2 3p5 4s1 3d5"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "46",
+        "text": "Which existing element would the chemistry of element 119 most resemble?",
+        "options": {
+            "A": "Rn (Z = 86)",
+            "B": "Fr (Z= 87)",
+            "C": "Ra (Z = 88)",
+            "D": "Ac (Z = 89)"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "47",
+        "text": "Which atom has the largest atomic radius?",
+        "options": {
+            "A": "S",
+            "B": "Cl",
+            "C": "Se",
+            "D": "Br"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "48",
+        "text": "Of the elements listed, which has the highest first ionization energy?",
+        "options": {
+            "A": "Li",
+            "B": "Be",
+            "C": "Na",
+            "D": "Mg"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "49",
+        "text": "Which species contains only covalent bonds?",
+        "options": {
+            "A": "AlF3",
+            "B": "NH4NO3",
+            "C": "H2SO4",
+            "D": "K2Cr2O7"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "50",
+        "text": "In which species can we describe the central atom as having sp2 hybridization?",
+        "options": {
+            "A": "BeF2",
+            "B": "CO2",
+            "C": "KrF2",
+            "D": "SO2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "51",
+        "text": "Which Lewis dot structure is a valid representation for the sulfite ion, [SO32\u2013]?",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": "O \u2013 Not for use as a USNCO Local Exam after March 31, 2012"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "52",
+        "text": "In which species does sulfur have the lowest oxidation state?",
+        "options": {
+            "A": "SCl2",
+            "B": "OSF2",
+            "C": "H2SO3",
+            "D": "SF6"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "53",
+        "text": "A triple bond is found in which of the following species? I CO II C2H2 III CN\u2013",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "I and II only",
+            "D": "I, II and III"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "54",
+        "text": "Which of the following compounds has a non-zero dipole moment?",
+        "options": {
+            "A": "CO2",
+            "B": "AsH3",
+            "C": "CCl4",
+            "D": "PF5"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "55",
+        "text": "Which molecule contains the fewest hydrogen atoms?",
+        "options": {
+            "A": "cyclopropane",
+            "B": "propane",
+            "C": "propene",
+            "D": "propyne"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "56",
+        "text": "What is the difference between 2-chloropentane and 3-chloropentane?",
+        "options": {
+            "A": "the number of carbon atoms in the molecule",
+            "B": "the number of chlorine atoms in the molecule",
+            "C": "the position of the chlorine atom in the molecule",
+            "D": "the geometry of the carbon chain"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "57",
+        "text": "Alanine is a(n)",
+        "options": {
+            "A": "amino acid.",
+            "B": "ester.",
+            "C": "nucleic acid.",
+            "D": "sugar."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "58",
+        "text": "A secondary alcohol results from the attachment of a hydroxyl group to which carbon atom?",
+        "options": {
+            "A": "C1",
+            "B": "C2",
+            "C": "C3",
+            "D": "C4 Property of ACS USNCO \u2013 Not for use as a USNCO Local Exa"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "59",
+        "text": "Aspirin has the structural formula below. Which functional groups does this molecule contain? I acid II alcohol III ester IV ether",
+        "options": {
+            "A": "I and III",
+            "B": "II and III",
+            "C": "II and IV",
+            "D": "I, II, III and IV"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "60",
+        "text": "Which substance yields the most energy per gram of sample upon metabolism?",
+        "options": {
+            "A": "carbohydrate",
+            "B": "fat",
+            "C": "protein",
+            "D": "vitamin END OF TEST after March 31, 2012"
+        },
+        "correct_answer": "B"
+    }
+]

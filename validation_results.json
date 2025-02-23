@@ -1,0 +1,154 @@
+{
+  "2000-local-olympiad-exam_parsed.json": [
+    {
+      "question_number": "11",
+      "missing_fields": [
+        "missing_image_path",
+        "missing_question_id"
+      ],
+      "question_data": {
+        "number": "11",
+        "text": "How many mL of 8.00M HCl are needed to mL of a 1.60 M HCl solution?",
+        "options": {
+          "A": "30.0 mL",
+          "B": "24.0 mL",
+          "C": "18.8 mL",
+          "D": "12.0 mL"
+        },
+        "correct_answer": "A"
+      }
+    },
+    {
+      "question_number": "34",
+      "missing_fields": [
+        "missing_image_path",
+        "missing_question_id"
+      ],
+      "question_data": {
+        "number": "34",
+        "text": "Which would increase the partial pressure of NO2(g) at equilibrium?",
+        "options": {
+          "A": "decreasing the volume of the system",
+          "B": "adding a noble gas to increase the pressure of the system",
+          "C": "removing some NO(g) from the system",
+          "D": "adding an appropriate catalyst"
+        },
+        "correct_answer": "A"
+      }
+    }
+  ],
+  "2003-local-olympiad-exam_parsed.json": [
+    {
+      "question_number": "23",
+      "missing_fields": [
+        "missing_image_path",
+        "missing_question_id"
+      ],
+      "question_data": {
+        "number": "23",
+        "text": " ",
+        "options": {
+          "A": "-956 kJ",
+          "B": "-580 kJ",
+          "C": "-478 kJ",
+          "D": "-290 kJ"
+        },
+        "correct_answer": "D"
+      }
+    },
+    {
+      "question_number": "30",
+      "missing_fields": [
+        "missing_image_path",
+        "missing_question_id"
+      ],
+      "question_data": {
+        "number": "30",
+        "text": "The reaction, 3I-(aq) + S2O82-(aq) r I3-(aq) + 2SO42\u2013(aq) yields the kinetic data in the table. [I-]o (mol.L-1) [S2O82-]o (mol.L-1) Relative Rate 0.001 0.001 1 0.002 0.001 2 0.002 0.002 4 What is the rate equation?",
+        "options": {
+          "A": "Rate = k[I-][ S2O82-]",
+          "B": "Rate = k[I-]2[S2O82-]",
+          "C": "Rate = k[I-]3[S2O82-]",
+          "D": "Rate = k[I-]2[S2O82-]2"
+        },
+        "correct_answer": "A"
+      }
+    },
+    {
+      "question_number": "33",
+      "missing_fields": [
+        "missing_image_path",
+        "missing_question_id"
+      ],
+      "question_data": {
+        "number": "33",
+        "text": "What is the [H+] in a 0.10 M Ka solution of ascorbic acid, C6H8O6? C6H8O6 8.0 \u00d7 10^-5",
+        "options": {
+          "A": "8.0 \u00d7 10^-6 M",
+          "B": "2.8 \u00d7 10^-3 M",
+          "C": "4.0 \u00d7 10^-3 M",
+          "D": "5.3 \u00d7 10^-3 M"
+        },
+        "correct_answer": "B"
+      }
+    },
+    {
+      "question_number": "36",
+      "missing_fields": [
+        "missing_image_path",
+        "missing_question_id"
+      ],
+      "question_data": {
+        "number": "36",
+        "text": "A saturated solution of Ksp w loh wic eh st c [o Cm a2p +o ]?und has the CaF2 4.0 \u00d7 10^-11 CaCO3 8.7 \u00d7 10^-9 Ca(OH)2 8.0 \u00d7 10^-6 CaSO4 2.4 \u00d7 10^-5",
+        "options": {
+          "A": "CaF2",
+          "B": "CaCO3",
+          "C": "Ca(OH)2",
+          "D": "CaSO4"
+        },
+        "correct_answer": "B"
+      }
+    }
+  ],
+  "2004-local-olympiad-exam_parsed.json": [
+    {
+      "question_number": "13",
+      "missing_fields": [
+        "missing_image_path",
+        "missing_question_id"
+      ],
+      "question_data": {
+        "number": "13",
+        "text": "A sample of oxygen Mass of gas and a sample of an evacuated flask 124.46 g unknown gas are Mass of flask weighed separately in + oxygen 125.10 g the same evacuated f gl ia vs ek n. U tos fe i nth de t hd ea t ma olar M + ua nss k no of wfl nas gk as 125.34 g mass of the unknown gas (assume experiments are carried out at the same pressure and temperature).",
+        "options": {
+          "A": "22 g/mol",
+          "B": "38 g/mol",
+          "C": "44 g/mol",
+          "D": "84 g/mol"
+        },
+        "correct_answer": "C"
+      }
+    }
+  ],
+  "2014-usnco-local-exam_parsed.json": [
+    {
+      "question_number": "2",
+      "missing_fields": [
+        "missing_image_path",
+        "missing_question_id"
+      ],
+      "question_data": {
+        "number": "2",
+        "text": "In the diagram above the paired open spheres represent H2 molecules and the paired solid spheres represent N2 molecules. When the molecules in the box react to form the maximum possible amount of ammonia (NH3) molecules, what is the limiting reactant and how many molecules of NH3 can be formed?",
+        "options": {
+          "A": "N2 is limiting. 5 molecules of NH3 can be formed.",
+          "B": "N2 is limiting. 10 molecules of NH3 can be formed.",
+          "C": "H2 is limiting. 8 molecules of NH3 can be formed.",
+          "D": "H2 is limiting.12 molecules of NH3 can be formed."
+        },
+        "correct_answer": "C"
+      }
+    }
+  ]
+}

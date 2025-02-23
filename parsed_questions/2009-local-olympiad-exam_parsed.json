@@ -1,0 +1,629 @@
+[
+    {
+        "number": "1",
+        "text": "Which salt is colorless?",
+        "options": {
+            "A": "KMnO4",
+            "B": "BaSO4",
+            "C": "Na2CrO4",
+            "D": "CoCl2"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "2",
+        "text": "Which 0.10 M aqueous solution exhibits the lowest electrical conductivity?",
+        "options": {
+            "A": "NH4Cl",
+            "B": "CuBr2",
+            "C": "Na2CO3",
+            "D": "C2H5OH"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "3",
+        "text": "Which element is a liquid at 25\u02daC and 1 atm?",
+        "options": {
+            "A": "fluorine",
+            "B": "chlorine",
+            "C": "bromine",
+            "D": "iodine"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "4",
+        "text": "Mixing which combination produces a gaseous product?",
+        "options": {
+            "A": "solid ammonium nitrate and solid calcium hydroxide",
+            "B": "copper metal and 0.10 M hydrochloric acid",
+            "C": "solutions of barium hydroxide and 0.10 M sulfuric acid",
+            "D": "solutions of aluminum nitrate and sodium chloride"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "5",
+        "text": "Which technique can be used to determine the number of components in a plant pigment?",
+        "options": {
+            "A": "calorimetry",
+            "B": "chromatography",
+            "C": "colorimetry",
+            "D": "gravimetry"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "6",
+        "text": "In the determination of the molar mass of a solid acid by titrating it with a standardized base, which procedural error will yield a molar mass that is smaller than the actual value?",
+        "options": {
+            "A": "adding the standardized base to a buret containing drops of water",
+            "B": "dissolving the weighed solid acid in twice the recommended volume of water",
+            "C": "using half as many drops of indicator as suggested",
+            "D": "weighing out half of the recommended mass of solid acid Not valid for use as a USNCO Local Section Exam after March\nIONS the corresponding space on the answer sheet using a soft, #2 ide to change an answer, erase the unwanted mark very carefully. s for which more than one response has been blackened will not er correctly. It is to your advantage to answer every question."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "7",
+        "text": "The mass of one atom of an element is 1.71\u00d710\u201322 g. What is the atomic mass of this element in g\u00b7mol-1?",
+        "options": {
+            "A": "101",
+            "B": "103",
+            "C": "105",
+            "D": "107"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "8",
+        "text": "What is the percent by mass of nitrogen in ammonium carbonate, (NH4) 2CO3?",
+        "options": {
+            "A": "14.53%",
+            "B": "27.83%",
+            "C": "29.16%",
+            "D": "33.34%"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "9",
+        "text": "How many moles of water will be produced from the complete combustion of 4.4 g of C3H8?",
+        "options": {
+            "A": "0.10",
+            "B": "0.25",
+            "C": "0.40",
+            "D": "0.80"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "10",
+        "text": "A 10.0 g sample of an oxide of copper forms metallic copper and 1.26 g of water when heated in a stream of hydrogen. What is the mass percent of copper in this oxide?",
+        "options": {
+            "A": "11.2%",
+            "B": "66.6%",
+            "C": "79.9%",
+            "D": "88.8%"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "11",
+        "text": "A 49.9 g sample of barium Molar Mass / g\u00b7mol-1 hydroxide octahydrate, Ba(OH)2\u00b78H2O 315 Ba(OH)2\u00b78H2O, is dissolved in water and the solution is diluted to give a final volume of 2.50 L. What is the concentration of the hydroxide ion in this solution?",
+        "options": {
+            "A": "0.0634 M",
+            "B": "0.127 M",
+            "C": "0.190 M",
+            "D": "0.634 M"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "1",
+        "text": "When the pressure is changed to P2, what is the volume V2? (Assume the temperature remains constant.)",
+        "options": {
+            "A": "P1P2",
+            "B": "P1V1 V1 P2",
+            "C": "P2V1",
+            "D": "P2 P1 P1V1 ! ! ! ! 31, 2009"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "14",
+        "text": "How do the number of molecules, n, in 1.0 L of each of the following gases; CH4, N2, CO2, compare at 1 atm and 25 \u02daC?",
+        "options": {
+            "A": "nCH4 <nCO2 <nN2",
+            "B": "nN2 <nCO2 <nCH4",
+            "C": "nCO2 <nCH4 <nN2",
+            "D": "nCH4 =nCO2 =nN2 !15 . Solid sodium acetate, NaC!2 H3O2, is what type of solid? ! \n(A) ionic ! \n(B) metallic \n(C) molecular \n(D) network covalent"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "16",
+        "text": "Which substance has the highest vapor pressure at 25\u02daC?",
+        "options": {
+            "A": "methanol, CH3OH",
+            "B": "ethanol, CH3CH2OH",
+            "C": "1-propanol, CH3CH2CH2OH",
+            "D": "1-butanol, CH3CH2CH2CH2OH"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "17",
+        "text": "Which point on the phase diagram represents the normal boiling point?",
+        "options": {
+            "A": "point A",
+            "B": "point B",
+            "C": "point C",
+            "D": "point D"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "18",
+        "text": "What types of I. dipole-dipole forces intermolecular forces II. hydrogen bonding are exerted by CH3Cl III. London dispersion forces molecules in the liquid phase?",
+        "options": {
+            "A": "I only",
+            "B": "II only",
+            "C": "I and III only",
+            "D": "II and III only"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "19",
+        "text": "A 22.0 g piece of metal is heated Cp / J\u00b7g\u20131\u00b7\u02daC\u20131 to 100.0\u02daC and placed in 75.0 g H2O 4.18 H2O at 25.0\u02daC. If the final temperature of the metal and water is 27.8\u02daC, what is the specific heat capacity of the metal in J\u00b7g\u20131\u00b7\u02daC\u20131? (Assume no heat is lost/gained by the surroundings.)",
+        "options": {
+            "A": "0.038",
+            "B": "0.16",
+            "C": "0.55",
+            "D": "5.0"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "20",
+        "text": "Which change(s) I. conversion of O2(g) to O3(g) is(are) accompanied II. freezing of water by an increase in III. sublimation of iodine entropy of the system?",
+        "options": {
+            "A": "I only",
+            "B": "III only",
+            "C": "I and II only",
+            "D": "II and III only Not vali"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "21",
+        "text": "N O(g)\" 12N2(g)+12O2(g) #H1o 2 NO(g)\"N2O(g)+12O2(g) #H2o Which relationship is correct?",
+        "options": {
+            "A": "\u2206H1\u02da = \u2206H2\u02da",
+            "B": "\u2206Hf\u02da for NO(g) = \u2206H1\u02da",
+            "C": "\u2206Hf\u02da for N2O(g) = \u2206H2\u02da",
+            "D": "\u2206Hf\u02da for N2O(g) = \u2206H2\u02da \u2013 2\u2206H1\u02da"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "22",
+        "text": "When 2.74 g of Ba(s) reacts with O2(g) at 298 K and 1 atm to form BaO(s), 11,100 J of heat is released. What is \u2206Hf\u02da for BaO(s) in kJ\u00b7mol\u20131?",
+        "options": {
+            "A": "556",
+            "B": "221",
+            "C": "\u2013221",
+            "D": "\u2013556"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "23",
+        "text": "A reaction has \u2206H\u02da > 0 and \u2206G\u02da > 0 at 25\u02daC. This reaction",
+        "options": {
+            "A": "is at equilibrium at 25\u02daC.",
+            "B": "could not be spontaneous under standard conditions at any temperature.",
+            "C": "could be spontaneous under standard conditions at temperatures above 25\u02daC.",
+            "D": "could be spontaneous under standard conditions at temperatures below 25\u02daC."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "24",
+        "text": "An ionic compound has a solubility of 1 mol\u00b7L\u20131 in water at 25 \u02daC and its solubility increases as the temperature is raised. What are the signs of \u2206H\u02da and \u2206S\u02da for the dissolving process? \u2206H\u02da \u2206S\u02da",
+        "options": {
+            "A": "+ +",
+            "B": "+ \u2013",
+            "C": "\u2013 +",
+            "D": "\u2013 \u2013"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "25",
+        "text": "For the reaction represented by the accompanying diagram, which reaction rate is the greatest?",
+        "options": {
+            "A": "average rate",
+            "B": "final rate",
+            "C": "initial rate",
+            "D": "rate at 20 seconds"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "26",
+        "text": "Which units are appropriate for a reaction rate?",
+        "options": {
+            "A": "mol\u00b7L\u20131\u00b7s\u20131",
+            "B": "mol\u00b7L\u20131",
+            "C": "mol\u00b7L\u00b7s\u20131",
+            "D": "L\u00b7mol\u20131\u00b7s\u20131"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "27",
+        "text": "What is the rate equation for a reaction, A + B r products, based on the rate data? [A]o, mol\u00b7L\u20131 [B]o, mol\u00b7L\u20131 Rate 0.15 0.10 x 0.30 0.20 4x 0.30 0.40 16x",
+        "options": {
+            "A": "Rate = k[A]2",
+            "B": "Rate = k[B]2",
+            "C": "Rate = k[A][B]",
+            "D": "Rate = k[A][B]2"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "28",
+        "text": "The effect of temperature on the rates of chemical reactions is primarily a result of the",
+        "options": {
+            "A": "size of the colliding molecules.",
+            "B": "orientation of the colliding molecules.",
+            "C": "enthalpies of the reactants and products.",
+            "D": "kinetic energies of the colliding molecules."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "29",
+        "text": "The value of the rate constant for a gas phase reaction can be changed by increasing the",
+        "options": {
+            "A": "amount of product.",
+            "B": "pressure of the reactant.",
+            "C": "temperature of the reaction vessel.",
+            "D": "volume of the reaction vessel."
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "30",
+        "text": "What is the half life of the irreversible first order reaction, A r B, if 75% of A is converted to B in 60 minutes?",
+        "options": {
+            "A": "30 minutes",
+            "B": "45 minutes",
+            "C": "60 minutes",
+            "D": "80 minutes"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "31",
+        "text": "What is the Keq expression for the reaction, C(s) + CO2(g) s 2CO(g)?",
+        "options": {
+            "A": "Keq = [2 C[C OO 2]]",
+            "B": "Keq = 2[ [C C] O[C 2O ] ]",
+            "C": "[CO]2",
+            "D": "[C][CO]2 ! Keq = [CO2] ! Keq = [CO2] !32 . T K wh p i le = l n e 1q o1u t i a cl ni ab d ur si \u2206u eH m a\u02da c s = hy as 5 nt 7e g m k eJ iN \u00b7 nm !2 tO o hl4 e\u2013( 1 g p a) ot ss 2 it5 i o2 \u02da nN C O o. fW2 ( thg h) ei c h ha s a c tion equilibrium? \n(A) increasing the temperature \n(B) adding NO2(g) \n(C) adding xenon gas to increase the pressure \n(D) increasing the container volume Not valid for use as a USNCO Local Section Exam after March"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "33",
+        "text": "Which is not a conjugate acid/base pair?",
+        "options": {
+            "A": "H2CO3 & CO32\u2013",
+            "B": "HSO4\u2013 & SO42\u2013",
+            "C": "H2PO4\u2013 & HPO42\u2013",
+            "D": "H3O+ & H2O"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "34",
+        "text": "What is the [OH\u2013] in an aqueous solution which has a pH = 11.70?",
+        "options": {
+            "A": "7.1\u00d710\u20132 M",
+            "B": "5.0\u00d710\u20133 M",
+            "C": "1.4\u00d710\u20136 M",
+            "D": "2.0\u00d710\u201312 M"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "35",
+        "text": "Equal volumes of 0.25 M HNO2 and 0.25 M HNO3 are titrated separately with 0.25 M KOH. Which would be the same for both titrations?",
+        "options": {
+            "A": "initial pH",
+            "B": "pH halfway to the equivalence point",
+            "C": "pH at the equivalence point",
+            "D": "pH when 5 mL excess KOH has been added"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "36",
+        "text": "For which salt is the molar solubility, s, equal to 4\u00d710\u20136 M?",
+        "options": {
+            "A": "AgC2H3O2 Ksp = 2\u00d710\u20133",
+            "B": "TlBr Ksp = 4\u00d710\u20136",
+            "C": "MnCO3 Ksp = 2\u00d710\u201311",
+            "D": "Zn(OH)2 Ksp = 3\u00d710\u201317"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "37",
+        "text": "Which substance can act only as a reducing agent?",
+        "options": {
+            "A": "I2",
+            "B": "BrCl",
+            "C": "NaBr",
+            "D": "HIO4"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "38",
+        "text": "When the equation S isn b2+ a( la aq n) c e+ d I ,O w3 h\u2013( aa tq i) s + th H e + S(a nq 2+) ( ar q )S /n I4 O+(a 3\u2013q () a + q )I 2 m(a oq l) e r+ a t iH o?2O (l)",
+        "options": {
+            "A": "1 / 1",
+            "B": "2 / 1",
+            "C": "1 / 2",
+            "D": "5 / 2"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "39",
+        "text": "Given the standard reduction potentials, which statement is correct? Cu2+ (aq) + 2e\u2013 r Cu(s) E\u02da = 0.34 V 2H+(aq) + 2e\u2013 r H2(g) E\u02da = 0.00 V Cr3+(aq) + 3e\u2013 r Cr(s) E\u02da = \u20130.73 V",
+        "options": {
+            "A": "Cr(s) will react with acid.",
+            "B": "Cu(s) will react with acid.",
+            "C": "Cu2+(aq) will react with acid.",
+            "D": "Cu(s) will react with Cr3+(aq). 31, 2009"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "40",
+        "text": "Use the standard reduction potentials given to calculate the standard potential for the reaction; Pb(s) + 2Ag+(aq) r Pb2+(aq) + 2Ag(s) Ag+ (aq) + e\u2013 r Ag(s) E\u02da = 0.80 V Pb2+(aq) + 2e\u2013 r Pb(s) E\u02da = \u20130.13 V",
+        "options": {
+            "A": "1.73 V",
+            "B": "0.93 V",
+            "C": "0.67V",
+            "D": "0.54 V"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "41",
+        "text": "For the voltaic cell represented, Ni(s)Ni2+(aq) Ag+(aq)Ag(s) which change will increase the cell potential?",
+        "options": {
+            "A": "increasing the [Ag+]",
+            "B": "increasing the [Ni2+] !",
+            "C": "adding Ni(s)",
+            "D": "removing Ag(s)"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "42",
+        "text": "The deposition of 1.0 g of which element from its molten chloride requires the shortest time at a current of 1 A?",
+        "options": {
+            "A": "Na",
+            "B": "Mg",
+            "C": "Al",
+            "D": "Ba"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "43",
+        "text": "Which properties of electromagnetic radiation are inversely related?",
+        "options": {
+            "A": "amplitude and frequency",
+            "B": "energy and wavelength",
+            "C": "energy and frequency",
+            "D": "wavelength and amplitude"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "44",
+        "text": "Which electronic transition in a hydrogen atom releases the greatest amount of energy?",
+        "options": {
+            "A": "n = 3 r n = 2",
+            "B": "n = 5 r n = 3",
+            "C": "n = 6 r n = 5",
+            "D": "n = 3 r n = 6"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "45",
+        "text": "Which must represent an atom in an excited state?",
+        "options": {
+            "A": "1s22s22p1",
+            "B": "1s22s22p2",
+            "C": "1s22s22p23s1",
+            "D": "1s22s22p5"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "46",
+        "text": "Which quantum numbers represent the orbitals being filled in the ground state for the elements Sc (21) to Zn (30)?",
+        "options": {
+            "A": "n = 3, 1 = 1",
+            "B": "n = 3, l = 2",
+            "C": "n = 4, l = l",
+            "D": "n = 4, l = 2"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "47",
+        "text": "Which pair consists of species that are isoelectronic?",
+        "options": {
+            "A": "Na+, K+",
+            "B": "Cl, Cl\u2013",
+            "C": "Fe2+, Mn2+",
+            "D": "Ar, Ca2+ Not vali"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "48",
+        "text": "In which series are the species listed in order of increasing size?",
+        "options": {
+            "A": "N, O, F",
+            "B": "Na, Mg, K",
+            "C": "Cr, Cr2+, Cr3+",
+            "D": "Cl, Cl\u2013, S2\u2013"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "49",
+        "text": "In which molecule does the chlorine have the most positive partial charge?",
+        "options": {
+            "A": "HCl",
+            "B": "BrCl",
+            "C": "OCl2",
+            "D": "SCl2"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "50",
+        "text": "Which molecule contains the shortest carbon-carbon bonds?",
+        "options": {
+            "A": "C2H2",
+            "B": "C2H4",
+            "C": "C3H8",
+            "D": "C6H12"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "51",
+        "text": "How many valence electrons are in one ion of thiosulfate, S2O32\u2013?",
+        "options": {
+            "A": "26",
+            "B": "28",
+            "C": "30",
+            "D": "32"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "52",
+        "text": "Which substance has the highest melting point?",
+        "options": {
+            "A": "CO",
+            "B": "CO2",
+            "C": "SiO2",
+            "D": "P2O5"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "53",
+        "text": "Which species has exactly five pairs of electrons around the central atom?",
+        "options": {
+            "A": "ClF5",
+            "B": "SF4",
+            "C": "SF5\u2013",
+            "D": "XeF4"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "54",
+        "text": "What are the H H O hybridizations of the carbon atoms labeled H N C1 C2 O H C in1 ga ln yd c iC ne2, ? r espectively, H C1 C2",
+        "options": {
+            "A": "sp2 sp2",
+            "B": "sp2 sp3",
+            "C": "sp3 sp2",
+            "D": "sp3 sp3"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "number": "55",
+        "text": "The formula, H3CCOCH3, represents a(n)",
+        "options": {
+            "A": "aldehyde.",
+            "B": "ester.",
+            "C": "ether.",
+            "D": "ketone."
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "56",
+        "text": "Which suffix is used to designate a carbohydrate?",
+        "options": {
+            "A": "\u2013ase",
+            "B": "\u2013ate",
+            "C": "\u2013one",
+            "D": "\u2013ose"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "57",
+        "text": "Which compound has the largest molar mass?",
+        "options": {
+            "A": "hexane",
+            "B": "1-hexene",
+            "C": "1-hexyne",
+            "D": "benzene"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "number": "58",
+        "text": "Which functional group is not commonly found in proteins?",
+        "options": {
+            "A": "alcohol",
+            "B": "aldehyde",
+            "C": "amide",
+            "D": "amine"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "number": "59",
+        "text": "Which hydrogen is H Hb O the most acidic in t sh he o wm no ?le cule Ha N C C O Hd H C H O Hc",
+        "options": {
+            "A": "Ha",
+            "B": "Hb",
+            "C": "Hc",
+            "D": "Hd"
+        },
+        "correct_answer": "D"
+    },
+    {
+        "number": "60",
+        "text": "The gentle oxidation of ethanol, CH3CH2OH, produces",
+        "options": {
+            "A": "ethanal, CH3CHO.",
+            "B": "ethanoic acid, CH3CO2H.",
+            "C": "carbon monoxide, CO.",
+            "D": "carbon dioxide, CO"
+        },
+        "correct_answer": "A"
+    }
+]
