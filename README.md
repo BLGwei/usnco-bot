@@ -44,7 +44,7 @@ button's color will be changed to red. All other answer choice buttons will rema
 
 # FEATURES TO BE IMPLEMENTED
 - [x] `/help` command which should send an embed containing the information above, but more brief and concise.
-- [ ] paramaters to the `/question` command (*eg. Stoich, Thermo, OChem*) to allow for practicing of
+- [x] paramaters to the `/question` command (*eg. Stoich, Thermo, OChem*) to allow for practicing of
 certain topics,
 - [ ] extension to other exams (*eg USABO, AcDec*)
 
